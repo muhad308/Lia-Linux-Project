@@ -1,0 +1,15 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	ns1.lia.local. admin.lia.local. (
+			      2		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	ns1.lia.local.
+ns1	IN	A	192.168.56.10
+server	IN	A	192.168.56.10
+client  IN      A       192.168.56.11
