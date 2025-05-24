@@ -1,0 +1,39 @@
+2025-05-20T09:59:52.487220+00:00 lia-server named[779]: timed out resolving 'ntp.ubuntu.com/AAAA/IN': 8.8.8.8#53
+2025-05-20T09:59:53.123263+00:00 lia-server named[779]: timed out resolving 'cdn.fwupd.org/A/IN': 8.8.8.8#53
+2025-05-20T09:59:53.124108+00:00 lia-server named[779]: timed out resolving 'cdn.fwupd.org/AAAA/IN': 8.8.8.8#53
+2025-05-20T09:59:53.713194+00:00 lia-server named[779]: timed out resolving 'ntp.ubuntu.com/AAAA/IN': 1.1.1.1#53
+2025-05-20T09:59:54.325271+00:00 lia-server named[779]: timed out resolving 'cdn.fwupd.org/A/IN': 1.1.1.1#53
+2025-05-20T09:59:54.325530+00:00 lia-server named[779]: timed out resolving 'cdn.fwupd.org/AAAA/IN': 1.1.1.1#53
+2025-05-20T12:33:49.696229+00:00 lia-server named[779]: shut down hung fetch while resolving 'cdn.fwupd.org/A'
+2025-05-20T12:33:49.701153+00:00 lia-server named[779]: shut down hung fetch while resolving 'cdn.fwupd.org/AAAA'
+2025-05-20T12:33:51.963208+00:00 lia-server named[779]: timed out resolving 'ntp.ubuntu.com/A/IN': 8.8.8.8#53
+2025-05-20T12:33:51.963753+00:00 lia-server named[779]: timed out resolving 'ntp.ubuntu.com/AAAA/IN': 8.8.8.8#53
+2025-05-20T12:33:53.163283+00:00 lia-server named[779]: timed out resolving 'ntp.ubuntu.com/A/IN': 1.1.1.1#53
+2025-05-20T12:33:53.163557+00:00 lia-server named[779]: timed out resolving 'ntp.ubuntu.com/AAAA/IN': 1.1.1.1#53
+2025-05-20T12:33:53.163625+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:12::d0d#53
+2025-05-20T12:33:53.163673+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:12::d0d#53
+2025-05-20T12:33:53.163722+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:7fd::1#53
+2025-05-20T12:33:53.163771+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:7fd::1#53
+2025-05-20T12:33:53.163818+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:1::53#53
+2025-05-20T12:33:53.163865+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:1::53#53
+2025-05-20T12:33:53.163923+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:2::c#53
+2025-05-20T12:33:53.163969+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:2::c#53
+2025-05-20T12:33:53.164017+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:2f::f#53
+2025-05-20T12:33:53.164062+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:2f::f#53
+2025-05-20T12:33:53.164113+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:9f::42#53
+2025-05-20T12:33:53.164158+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:9f::42#53
+2025-05-20T12:33:53.164201+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:dc3::35#53
+2025-05-20T12:33:53.164247+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:dc3::35#53
+2025-05-20T12:33:53.164292+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:a8::e#53
+2025-05-20T12:33:53.164344+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:a8::e#53
+2025-05-20T12:33:53.164389+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:2d::d#53
+2025-05-20T12:33:53.164433+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:2d::d#53
+2025-05-20T12:33:53.164479+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:503:c27::2:30#53
+2025-05-20T12:33:53.164523+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:503:c27::2:30#53
+2025-05-20T12:33:53.164568+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:503:ba3e::2:30#53
+2025-05-20T12:33:53.164605+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:503:ba3e::2:30#53
+2025-05-20T12:33:53.164645+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:7fe::53#53
+2025-05-20T12:33:53.164689+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:7fe::53#53
+2025-05-21T08:46:06.979308+00:00 lia-server named[779]: _default: sending trust-anchor-telemetry query '_ta-4f66-9728/NULL'
+2025-05-21T08:46:07.059465+00:00 lia-server named[779]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+2025-05-21T08:46:07.077490+00:00 lia-server named[779]: managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)

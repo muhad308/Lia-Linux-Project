@@ -1,0 +1,23 @@
+2025-05-20T07:29:06.246094+00:00 lia-server sudo: muhad308 : TTY=tty1 ; PWD=/home/muhad308 ; USER=root ; COMMAND=/usr/bin/chown syslog:adm /var/log/remote
+2025-05-20T07:29:06.246603+00:00 lia-server sudo: pam_unix(sudo:session): session opened for user root(uid=0) by muhad308(uid=1000)
+2025-05-20T07:29:27.143001+00:00 lia-server sudo: muhad308 : TTY=tty1 ; PWD=/home/muhad308 ; USER=root ; COMMAND=/usr/bin/chmod 755 /var/log/remote
+2025-05-20T07:29:27.144217+00:00 lia-server sudo: pam_unix(sudo:session): session opened for user root(uid=0) by muhad308(uid=1000)
+2025-05-20T07:29:27.169890+00:00 lia-server sudo: pam_unix(sudo:session): session closed for user root
+2025-05-20T07:31:16.378501+00:00 lia-server sudo: muhad308 : TTY=tty1 ; PWD=/home/muhad308 ; USER=root ; COMMAND=/usr/bin/systemctl restart rsyslog
+2025-05-20T07:31:16.402798+00:00 lia-server sudo: pam_unix(sudo:session): session opened for user root(uid=0) by muhad308(uid=1000)
+2025-05-20T07:31:16.863382+00:00 lia-server sudo: pam_unix(sudo:session): session closed for user root
+2025-05-20T08:02:46.442247+00:00 lia-server sudo: muhad308 : TTY=tty1 ; PWD=/home/muhad308 ; USER=root ; COMMAND=/usr/sbin/ufw allow 514/udp
+2025-05-20T08:02:46.455723+00:00 lia-server sudo: pam_unix(sudo:session): session opened for user root(uid=0) by muhad308(uid=1000)
+2025-05-20T08:02:47.036963+00:00 lia-server sudo: pam_unix(sudo:session): session closed for user root
+2025-05-20T08:03:04.125435+00:00 lia-server sudo: muhad308 : TTY=tty1 ; PWD=/home/muhad308 ; USER=root ; COMMAND=/usr/sbin/ufw allow 514/tcp
+2025-05-20T08:03:04.127365+00:00 lia-server sudo: pam_unix(sudo:session): session opened for user root(uid=0) by muhad308(uid=1000)
+2025-05-20T08:03:04.368465+00:00 lia-server sudo: pam_unix(sudo:session): session closed for user root
+2025-05-20T08:03:14.723840+00:00 lia-server sudo: muhad308 : TTY=tty1 ; PWD=/home/muhad308 ; USER=root ; COMMAND=/usr/sbin/ufw reload
+2025-05-20T08:03:14.725379+00:00 lia-server sudo: pam_unix(sudo:session): session opened for user root(uid=0) by muhad308(uid=1000)
+2025-05-20T08:03:16.865616+00:00 lia-server sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T09:01:07.091561+00:00 lia-server sudo: muhad308 : TTY=pts/0 ; PWD=/home/muhad308 ; USER=root ; COMMAND=/usr/bin/nano /etc/logrotate.d/lia-project
+2025-05-21T09:01:07.097792+00:00 lia-server sudo: pam_unix(sudo:session): session opened for user root(uid=0) by muhad308(uid=1000)
+2025-05-21T09:03:22.517075+00:00 lia-server sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T09:05:37.413211+00:00 lia-server sudo: muhad308 : TTY=pts/0 ; PWD=/home/muhad308 ; USER=root ; COMMAND=/usr/sbin/logrotate -d /etc/logrotate.d/lia-project
+2025-05-21T09:05:37.414874+00:00 lia-server sudo: pam_unix(sudo:session): session opened for user root(uid=0) by muhad308(uid=1000)
+2025-05-21T09:05:37.428409+00:00 lia-server sudo: pam_unix(sudo:session): session closed for user root

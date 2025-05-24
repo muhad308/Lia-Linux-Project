@@ -1,0 +1,79 @@
+2025-05-20T07:30:12.019847+00:00 lia-server systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+2025-05-20T07:30:12.038074+00:00 lia-server systemd[1]: sysstat-collect.service: Deactivated successfully.
+2025-05-20T07:30:12.038387+00:00 lia-server systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+2025-05-20T07:31:16.411405+00:00 lia-server systemd[1]: Stopping rsyslog.service - System Logging Service...
+2025-05-20T07:31:16.598695+00:00 lia-server systemd[1]: rsyslog.service: Deactivated successfully.
+2025-05-20T07:31:16.599040+00:00 lia-server systemd[1]: Stopped rsyslog.service - System Logging Service.
+2025-05-20T07:31:16.599135+00:00 lia-server systemd[1]: rsyslog.service: Consumed 21min 42.575s CPU time, 67.5M memory peak, 0B memory swap peak.
+2025-05-20T07:31:16.606533+00:00 lia-server systemd[1]: Starting rsyslog.service - System Logging Service...
+2025-05-20T07:31:16.859015+00:00 lia-server systemd[1]: Started rsyslog.service - System Logging Service.
+2025-05-20T07:37:57.851837+00:00 lia-server systemd[1]: apt-daily-upgrade.service - Daily apt upgrade and clean activities was skipped because of an unmet condition check (ConditionACPower=true).
+2025-05-20T07:40:11.479741+00:00 lia-server systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+2025-05-20T07:40:11.486117+00:00 lia-server systemd[1]: sysstat-collect.service: Deactivated successfully.
+2025-05-20T07:40:11.486344+00:00 lia-server systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+2025-05-20T07:50:03.469707+00:00 lia-server systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+2025-05-20T07:50:03.487915+00:00 lia-server systemd[1]: sysstat-collect.service: Deactivated successfully.
+2025-05-20T07:50:03.488337+00:00 lia-server systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+2025-05-20T08:00:19.308090+00:00 lia-server systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+2025-05-20T08:00:19.314563+00:00 lia-server systemd[1]: sysstat-collect.service: Deactivated successfully.
+2025-05-20T08:00:19.315113+00:00 lia-server systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+2025-05-20T08:10:10.749081+00:00 lia-server systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+2025-05-20T08:10:10.777372+00:00 lia-server systemd[1]: sysstat-collect.service: Deactivated successfully.
+2025-05-20T08:10:10.777583+00:00 lia-server systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+2025-05-20T08:20:10.882465+00:00 lia-server systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+2025-05-20T08:20:10.900811+00:00 lia-server systemd[1]: sysstat-collect.service: Deactivated successfully.
+2025-05-20T08:20:10.901156+00:00 lia-server systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+2025-05-20T08:25:11.153657+00:00 lia-server systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+2025-05-20T08:25:11.228462+00:00 lia-server systemd[1]: Starting fwupd.service - Firmware update daemon...
+2025-05-20T08:25:11.495239+00:00 lia-server systemd[1]: Started fwupd.service - Firmware update daemon.
+2025-05-20T08:25:11.563889+00:00 lia-server systemd[1]: fwupd-refresh.service: Deactivated successfully.
+2025-05-20T08:25:11.564304+00:00 lia-server systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+2025-05-20T08:30:10.731764+00:00 lia-server systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+2025-05-20T08:30:10.756680+00:00 lia-server systemd[1]: sysstat-collect.service: Deactivated successfully.
+2025-05-20T08:30:10.757191+00:00 lia-server systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+2025-05-20T08:30:12.202369+00:00 lia-server systemd[1]: fwupd.service: Deactivated successfully.
+2025-05-20T09:59:50.162272+00:00 lia-server systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+2025-05-20T09:59:50.172203+00:00 lia-server systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+2025-05-20T09:59:50.199775+00:00 lia-server systemd[1]: session-1.scope: Deactivated successfully.
+2025-05-20T09:59:50.201098+00:00 lia-server systemd[1]: session-1.scope: Consumed 3.256s CPU time.
+2025-05-20T09:59:50.309123+00:00 lia-server systemd[1]: sysstat-collect.service: Deactivated successfully.
+2025-05-20T09:59:50.318510+00:00 lia-server systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+2025-05-20T09:59:50.516874+00:00 lia-server systemd[1]: Starting fwupd.service - Firmware update daemon...
+2025-05-20T09:59:51.623826+00:00 lia-server systemd[1]: Started fwupd.service - Firmware update daemon.
+2025-05-20T09:59:51.984190+00:00 lia-server systemd[1]: fwupd-refresh.service: Deactivated successfully.
+2025-05-20T09:59:51.985717+00:00 lia-server systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+2025-05-20T12:33:49.697387+00:00 lia-server systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+2025-05-20T12:33:49.711985+00:00 lia-server systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+2025-05-20T12:33:49.776160+00:00 lia-server systemd[1]: sysstat-collect.service: Deactivated successfully.
+2025-05-20T12:33:49.784461+00:00 lia-server systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+2025-05-20T12:33:49.943648+00:00 lia-server systemd[1]: fwupd-refresh.service: Deactivated successfully.
+2025-05-20T12:33:49.948564+00:00 lia-server systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+2025-05-21T08:46:07.004758+00:00 lia-server systemd[1]: apt-daily-upgrade.service - Daily apt upgrade and clean activities was skipped because of an unmet condition check (ConditionACPower=true).
+2025-05-21T08:46:07.028733+00:00 lia-server systemd[1]: Starting dpkg-db-backup.service - Daily dpkg database backup service...
+2025-05-21T08:46:07.038955+00:00 lia-server systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+2025-05-21T08:46:07.058205+00:00 lia-server systemd[1]: Starting motd-news.service - Message of the Day...
+2025-05-21T08:46:07.083182+00:00 lia-server systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+2025-05-21T08:46:07.098963+00:00 lia-server systemd[1]: Starting sysstat-summary.service - Generate a daily summary of process accounting...
+2025-05-21T08:46:07.122251+00:00 lia-server systemd[1]: logrotate.service - Rotate log files was skipped because of an unmet condition check (ConditionACPower=true).
+2025-05-21T08:46:07.122580+00:00 lia-server systemd[1]: man-db.service - Daily man-db regeneration was skipped because of an unmet condition check (ConditionACPower=true).
+2025-05-21T08:46:07.163132+00:00 lia-server systemd[1]: sysstat-collect.service: Deactivated successfully.
+2025-05-21T08:46:07.171583+00:00 lia-server systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+2025-05-21T08:46:07.250270+00:00 lia-server systemd[1]: dpkg-db-backup.service: Deactivated successfully.
+2025-05-21T08:46:07.250474+00:00 lia-server systemd[1]: Finished dpkg-db-backup.service - Daily dpkg database backup service.
+2025-05-21T08:46:07.296328+00:00 lia-server systemd[1]: sysstat-summary.service: Deactivated successfully.
+2025-05-21T08:46:07.296523+00:00 lia-server systemd[1]: Finished sysstat-summary.service - Generate a daily summary of process accounting.
+2025-05-21T08:46:11.907126+00:00 lia-server systemd[1]: fwupd-refresh.service: Deactivated successfully.
+2025-05-21T08:46:11.907816+00:00 lia-server systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+2025-05-21T08:46:12.288685+00:00 lia-server systemd[1]: motd-news.service: Deactivated successfully.
+2025-05-21T08:46:12.289310+00:00 lia-server systemd[1]: Finished motd-news.service - Message of the Day.
+2025-05-21T08:46:12.290652+00:00 lia-server systemd[1]: motd-news.service: Consumed 1.805s CPU time.
+2025-05-21T08:50:10.770966+00:00 lia-server systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+2025-05-21T08:50:10.776482+00:00 lia-server systemd[1]: sysstat-collect.service: Deactivated successfully.
+2025-05-21T08:50:10.776748+00:00 lia-server systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+2025-05-21T08:58:58.377771+00:00 lia-server systemd[1]: Started session-18.scope - Session 18 of User muhad308.
+2025-05-21T09:00:14.192558+00:00 lia-server systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+2025-05-21T09:00:14.200049+00:00 lia-server systemd[1]: sysstat-collect.service: Deactivated successfully.
+2025-05-21T09:00:14.200275+00:00 lia-server systemd[1]: Finished sysstat-collect.service - system activity accounting tool.
+2025-05-21T09:10:11.107240+00:00 lia-server systemd[1]: Starting sysstat-collect.service - system activity accounting tool...
+2025-05-21T09:10:11.115514+00:00 lia-server systemd[1]: sysstat-collect.service: Deactivated successfully.
+2025-05-21T09:10:11.115781+00:00 lia-server systemd[1]: Finished sysstat-collect.service - system activity accounting tool.

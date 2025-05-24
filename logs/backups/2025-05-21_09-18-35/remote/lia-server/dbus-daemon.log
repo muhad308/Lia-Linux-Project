@@ -1,0 +1,4 @@
+2025-05-20T08:25:11.212637+00:00 lia-server dbus-daemon[770]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.24' (uid=989 pid=2325 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-20T08:25:11.495011+00:00 lia-server dbus-daemon[770]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-20T09:59:50.478145+00:00 lia-server dbus-daemon[770]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.27' (uid=989 pid=2351 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-20T09:59:51.619579+00:00 lia-server dbus-daemon[770]: [system] Successfully activated service 'org.freedesktop.fwupd'

@@ -1,0 +1,33 @@
+2025-05-20T07:35:01.479920+00:00 lia-server CRON[1740]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-05-20T07:35:01.480642+00:00 lia-server CRON[1741]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-05-20T07:35:01.486850+00:00 lia-server CRON[1740]: pam_unix(cron:session): session closed for user root
+2025-05-20T07:45:01.395034+00:00 lia-server CRON[1752]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-05-20T07:45:01.395839+00:00 lia-server CRON[1753]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-05-20T07:45:01.400485+00:00 lia-server CRON[1752]: pam_unix(cron:session): session closed for user root
+2025-05-20T07:55:01.504529+00:00 lia-server CRON[1766]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-05-20T07:55:01.505533+00:00 lia-server CRON[1767]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-05-20T07:55:01.511979+00:00 lia-server CRON[1766]: pam_unix(cron:session): session closed for user root
+2025-05-20T08:05:01.628431+00:00 lia-server CRON[2294]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-05-20T08:05:01.634652+00:00 lia-server CRON[2295]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-05-20T08:05:01.634901+00:00 lia-server CRON[2294]: pam_unix(cron:session): session closed for user root
+2025-05-20T08:15:02.002724+00:00 lia-server CRON[2307]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-05-20T08:15:02.003350+00:00 lia-server CRON[2308]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-05-20T08:15:02.008743+00:00 lia-server CRON[2307]: pam_unix(cron:session): session closed for user root
+2025-05-20T08:17:06.065544+00:00 lia-server CRON[2312]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-05-20T08:17:06.072052+00:00 lia-server CRON[2313]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+2025-05-20T08:17:06.072726+00:00 lia-server CRON[2312]: pam_unix(cron:session): session closed for user root
+2025-05-20T08:25:01.472222+00:00 lia-server CRON[2322]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-05-20T08:25:01.472963+00:00 lia-server CRON[2323]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-05-20T08:25:01.476594+00:00 lia-server CRON[2322]: pam_unix(cron:session): session closed for user root
+2025-05-21T08:55:01.881719+00:00 lia-server CRON[2474]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-05-21T08:55:01.882413+00:00 lia-server CRON[2475]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-05-21T08:55:01.885571+00:00 lia-server CRON[2474]: pam_unix(cron:session): session closed for user root
+2025-05-21T09:05:01.633831+00:00 lia-server CRON[2630]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-05-21T09:05:01.634448+00:00 lia-server CRON[2631]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-05-21T09:05:01.637436+00:00 lia-server CRON[2630]: pam_unix(cron:session): session closed for user root
+2025-05-21T09:15:01.617320+00:00 lia-server CRON[2655]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-05-21T09:15:01.621776+00:00 lia-server CRON[2656]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-05-21T09:15:01.621936+00:00 lia-server CRON[2655]: pam_unix(cron:session): session closed for user root
+2025-05-21T09:17:01.731360+00:00 lia-server CRON[2662]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-05-21T09:17:01.732394+00:00 lia-server CRON[2663]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
+2025-05-21T09:17:01.735109+00:00 lia-server CRON[2662]: pam_unix(cron:session): session closed for user root

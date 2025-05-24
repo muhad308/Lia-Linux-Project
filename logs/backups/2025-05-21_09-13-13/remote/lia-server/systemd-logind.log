@@ -1,0 +1,3 @@
+2025-05-20T09:59:50.214560+00:00 lia-server systemd-logind[789]: Session 1 logged out. Waiting for processes to exit.
+2025-05-20T09:59:50.250874+00:00 lia-server systemd-logind[789]: Removed session 1.
+2025-05-21T08:58:55.674108+00:00 lia-server systemd-logind[789]: New session 18 of user muhad308.
