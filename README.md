@@ -1,10 +1,10 @@
 # LIA Linux Project: Building and Operating Linux-based Platform for Network Services
  
-**Student:** Muhammad Adnan  
-**Supervisor:** Daniel Thyselius
-**Company:** Mindful Stack AB
-**Course:**: Network Technician, TUC Vocational College - Linköping
-**Duration:** 6 weeks (40 yhp)
+**Student**: Muhammad Adnan  
+**Supervisor**: Daniel Thyselius
+**Company:**: Mindful Stack AB
+**Course**: Network Technician, TUC Vocational College - Linköping
+**Duration**: 6 weeks (40 yhp)
 
 ## Project Overview
 
