@@ -1,36 +1,45 @@
-# **LIA Linux Project: Network Services & Monitoring**  
-**Student:** [Your Name]  
-**Supervisor:** [Name]  
-**Duration:** 6 weeks (40 yhp)  
+# LIA Linux Project: Building and Operating Linux-based Platform for Network Services
 
-## **Project Goals**  
-Deploy a Linux (Ubuntu Server) platform with:  
-- ✅ DHCP Server (ISC-DHCP)  
-- ✅ DNS (BIND9)  
-- ✅ Syslog (rsyslog + Logrotate)  
-- ✅ Monitoring (Zabbix Server + Agent)  
+## Project Overview
 
-## **Weekly Progress**  
-| Week | Tasks | Deliverables |  
-|------|-------|-------------|  
-| 1 | Project plan, risk analysis | [Project_Plan.md](/Week1/Project_Plan.md) |  
-| 2 | Ubuntu install + hardening | [CHECKLIST.md](/CHECKLIST.md) |  
-| 3 | DHCP + DNS setup | [dhcpd.conf](/Configs/dhcpd.conf) |  
+This project involves designing, installing, and deploying a Linux-based virtual server (Ubuntu Server LTS) that delivers core network services for a medium-sized company (~150 users). The key services implemented include:
 
-## **Key Configurations**  
-### 1. DHCP Server  
-- **Config File:** [`/etc/dhcp/dhcpd.conf`](/Configs/dhcpd.conf)  
-- **IP Range:** `192.168.1.100-200`  
+- **DHCP**: Automatic IP address and DNS distribution
+- **DNS (BIND9)**: Internal zone management and internet forwarding
+- **Syslog**: Central log collection using rsyslog and Logrotate
+- **Zabbix**: Active network and resource monitoring
 
-### 2. Zabbix Alerts  
-- **Email Notifications:** Gmail SMTP  
-- **Triggers:**  
-  - CPU > 80% for 5 mins  
-  - Disk < 10% free  
+## Technologies Used
 
-## **How to Test**  
-```bash
-# Check DHCP leases:
-cat /var/lib/dhcp/dhcpd.leases
-# Test DNS:
-dig @192.168.1.10 example.com
+- **Linux**: Ubuntu Server LTS
+- **Services**: DHCP, BIND9 DNS, rsyslog, Zabbix
+- **Automation**: Bash and Python scripts for system tasks
+- **Security**: SSH key login, fail2ban, UFW firewall
+- **Version Control**: GitHub
+
+## Installation Instructions
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/muhad308/Lia-Linux-Project.git
+    ```
+
+2. Set up the required services following the documentation in this repository.
+
+3. Refer to the individual service configuration files (`dhcpd.conf`, `named.conf.local`, etc.) for specific details on configuring each service.
+
+## Configuration Files
+
+### DHCP Configuration
+- `dhcpd.conf`: DHCP server configuration
+
+### DNS Configuration
+- `named.conf.local`: DNS server configuration (for internal zone)
+
+## Scripts
+Two automation scripts have been implemented:
+1. **Backup Script**: Daily backup of configuration files to the Git repository.
+2. **Service Status Check**: Checks the status of critical services and logs output to syslog.
+
+## License
+MIT License
