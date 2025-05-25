@@ -1,0 +1,12 @@
+/var/log/remote/*/*.log {
+    daily
+    rotate 7
+    compress
+    missingok
+    notifempty
+    create 0640 syslog adm
+    sharedscripts
+    postrotate
+        systemctl restart rsyslog > /dev/null
+    endscript
+}
