@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # LIA Linux Project: Building and Operating Linux-based Platform for Network Services
  
 **Student**: Muhammad Adnan  
