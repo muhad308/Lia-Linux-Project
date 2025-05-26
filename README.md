@@ -39,15 +39,25 @@ Version Control: Use Git and GitHub for tracking configurations and scripts.
 
 
 ## Services Implemented
+
 Service	Purpose and Explanation
+
 DHCP Server	Automatically assigns IP addresses to client machines, reducing manual configuration errors.
+
 DNS Server (BIND9)	Resolves internal hostnames to IP addresses, facilitating easier network navigation.
+
 Syslog (rsyslog)	Collects and centralizes logs from multiple machines, aiding in troubleshooting and auditing.
+
 Logrotate	Manages log file sizes by rotating and archiving logs, ensuring disk space is conserved.
+
 Zabbix Monitoring	Monitors system performance and services, sending alerts for any anomalies detected.
+
 SSH Key Login	Provides secure remote access, mitigating risks associated with password-based logins.
+
 UFW Firewall	Controls incoming and outgoing traffic, adding a layer of security to the server.
+
 Fail2Ban	Protects against brute-force attacks by banning IPs with multiple failed login attempts.
+
 
 ## Tools and Technologies
 Operating Systems: Ubuntu Server 24.04 (Server), Ubuntu Desktop 24.04 (Client)
@@ -113,16 +123,7 @@ Two automation scripts have been implemented:
 - **Zabbix**: Active network and resource monitoring
 
 
-# LIA Linux Platform Project
 
-## 📌 Project Title
-**Building and Operating a Linux-based Platform for Central Network Services & Monitoring**
-
-## 👨‍💻 Author
-Muhammad Adnan  
-GitHub: [muhad308](https://github.com/muhad308/Lia-Linux-Project)
-
----
 
 ## 📖 Description
 
