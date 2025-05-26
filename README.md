@@ -1,6 +1,44 @@
+# LIA Linux Project – Network Services & Monitoring
 
-# LIA Linux Project: Building and Operating Linux-based Platform for Network Services
+# LIA1 Assignment: Building and Operating a Linux-Based Platform for Central Network Services & Monitoring
 
+**Student:** Muhammad Adnan  
+**Supervisor:** Daniel Thyselius  
+**Company:** Mindful Stack AB  
+**Course:** Network Technician, TUC Vocational College - Linköping  
+**Duration:** 6 weeks (40 yhp)  
+**GitHub Repository:** [Lia-Linux-Project](https://github.com/muhad308/Lia-Linux-Project)
+
+
+---
+
+## 📌 Project Overview
+
+This project focuses on building a secure, service-rich Linux platform that delivers core network services (SSH, DHCP, DNS), logging, and monitoring capabilities using Zabbix. It was developed during the LIA internship using Ubuntu Server and Client VMs on VirtualBox.
+
+All services and configurations are documented, tested, and version-controlled via GitHub. This platform simulates a small business environment with central server monitoring and auto-alerting features.
+
+---
+
+## 🗂️ Folder Structure
+
+```bash
+lia-linux-project/
+├── netplan/                 # Static IP configs (server/client)
+├── ssh/                     # sshd_config + keys
+├── hardening/               # Hardening checklist + config backups
+├── fail2ban/                # jail.local and Fail2Ban logs
+├── dhcp/                    # DHCP server configs
+├── dns/                     # BIND9 zone files and config
+├── zabbix/                  # Zabbix XML templates + screenshots
+├── logs/                    # UFW, fail2ban, and system logs
+├── scripts/                 # Bash scripts for automation/log backup
+├── screenshots/             # PNG screenshots for verification
+├── checklists/              # Weekly assignment checklist
+├── logbook.md               # Daily/weekly progress & meetings
+├── project-plan.md          # Goals, timeline, risks, tools
+├── final-report.docx        # Final detailed project report
+└── README.md                # This file
 
 
 
