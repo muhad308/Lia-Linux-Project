@@ -67,7 +67,8 @@ A centralized Linux server reduces manual work and improves security.
 
 - **Operating Systems**  
   - Ubuntu Server 24.04 (Server)  
-  - Ubuntu Desktop 24.04 (Client)  
+  - Ubuntu Desktop 24.04 (Client)
+  - Window 11 Home (Host) 
 
 - **Virtualization**  
   - VirtualBox  
