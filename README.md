@@ -12,13 +12,56 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on building a secure, service-rich Linux platform that delivers core network services (SSH, DHCP, DNS), logging, and monitoring capabilities using Zabbix. It was developed during the LIA internship using Ubuntu Server and Client VMs on VirtualBox.
 
 All services and configurations are documented, tested, and version-controlled via GitHub. This platform simulates a small business environment with central server monitoring and auto-alerting features.
 
+Why is this important?
+Businesses need reliable network services (like IP assignment, DNS, and logging).
+
+A centralized Linux server reduces manual work and improves security.
+
 ---
+
+## Objectives
+
+Set Up Virtual Server: Deploy Ubuntu Server 24.04 on VirtualBox.
+
+Configure Network Services: Implement DHCP, DNS, Syslog, and Zabbix.
+
+Enhance Security: Utilize SSH keys, UFW firewall, and Fail2Ban.
+
+System Monitoring: Employ Zabbix for real-time monitoring and alerts.
+
+Version Control: Use Git and GitHub for tracking configurations and scripts.
+
+
+## Services Implemented
+Service	Purpose and Explanation
+DHCP Server	Automatically assigns IP addresses to client machines, reducing manual configuration errors.
+DNS Server (BIND9)	Resolves internal hostnames to IP addresses, facilitating easier network navigation.
+Syslog (rsyslog)	Collects and centralizes logs from multiple machines, aiding in troubleshooting and auditing.
+Logrotate	Manages log file sizes by rotating and archiving logs, ensuring disk space is conserved.
+Zabbix Monitoring	Monitors system performance and services, sending alerts for any anomalies detected.
+SSH Key Login	Provides secure remote access, mitigating risks associated with password-based logins.
+UFW Firewall	Controls incoming and outgoing traffic, adding a layer of security to the server.
+Fail2Ban	Protects against brute-force attacks by banning IPs with multiple failed login attempts.
+
+## Tools and Technologies
+Operating Systems: Ubuntu Server 24.04 (Server), Ubuntu Desktop 24.04 (Client)
+
+Virtualization: VirtualBox
+
+Network Configuration: Netplan
+
+Security: SSH, UFW, Fail2Ban
+
+Monitoring: Zabbix
+
+Version Control: Git, GitHub
+
 
 ## 🗂️ Folder Structure
 
@@ -41,86 +84,6 @@ lia-linux-project/
 └── README.md                # This file
 
 
-
-🐧 LIA Linux Project
-Student: Muhammad Adnan
-Supervisor: Daniel Thyselius
-Company: Mindful Stack AB
-Course: Network Technician – TUC Vocational College, Linköping
-Project Duration: 6 Weeks (40 YHP)
-
-📘 Project Overview
-This project was undertaken as part of the LIA (Lärande i Arbete – Learning in Work) course. The objective was to design, configure, and document a virtualized Linux environment that provides essential network services for a medium-sized company (~150 users).
-
-
-Why is this important?
-Businesses need reliable network services (like IP assignment, DNS, and logging).
-
-A centralized Linux server reduces manual work and improves security.
-
-🎯 Objectives
-Set Up Virtual Server: Deploy Ubuntu Server 24.04 on VirtualBox.
-
-Configure Network Services: Implement DHCP, DNS, Syslog, and Zabbix.
-
-Enhance Security: Utilize SSH keys, UFW firewall, and Fail2Ban.
-
-System Monitoring: Employ Zabbix for real-time monitoring and alerts.
-
-Version Control: Use Git and GitHub for tracking configurations and scripts.
-
-🔧 Services Implemented
-Service	Purpose and Explanation
-DHCP Server	Automatically assigns IP addresses to client machines, reducing manual configuration errors.
-DNS Server (BIND9)	Resolves internal hostnames to IP addresses, facilitating easier network navigation.
-Syslog (rsyslog)	Collects and centralizes logs from multiple machines, aiding in troubleshooting and auditing.
-Logrotate	Manages log file sizes by rotating and archiving logs, ensuring disk space is conserved.
-Zabbix Monitoring	Monitors system performance and services, sending alerts for any anomalies detected.
-SSH Key Login	Provides secure remote access, mitigating risks associated with password-based logins.
-UFW Firewall	Controls incoming and outgoing traffic, adding a layer of security to the server.
-Fail2Ban	Protects against brute-force attacks by banning IPs with multiple failed login attempts.
-
-🛠️ Tools and Technologies
-Operating Systems: Ubuntu Server 24.04 (Server), Ubuntu Desktop 24.04 (Client)
-
-Virtualization: VirtualBox
-
-Network Configuration: Netplan
-
-Security: SSH, UFW, Fail2Ban
-
-Monitoring: Zabbix
-
-Version Control: Git, GitHub
-
-
- 
-**Student**: Muhammad Adnan  
-
-**Supervisor**: Daniel Thyselius
-
-**Company:**: Mindful Stack AB
-
-**Course**: Network Technician, TUC Vocational College - Linköping
-
-**Duration**: 6 weeks (40 yhp)
-
-## Project Overview
-
-This project involves designing, installing, and deploying a Linux-based virtual server (Ubuntu Server LTS) that delivers core network services for a medium-sized company (~150 users). The key services implemented include:
-
-- **DHCP**: Automatic IP address and DNS distribution
-- **DNS (BIND9)**: Internal zone management and internet forwarding
-- **Syslog**: Central log collection using rsyslog and Logrotate
-- **Zabbix**: Active network and resource monitoring
-
-## Technologies Used
-
-- **Linux**: Ubuntu Server LTS
-- **Services**: DHCP, BIND9 DNS, rsyslog, Zabbix
-- **Automation**: Bash and Python scripts for system tasks
-- **Security**: SSH key login, fail2ban, UFW firewall
-- **Version Control**: GitHub
 
 ## Installation Instructions
 
