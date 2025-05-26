@@ -35,23 +35,29 @@ A centralized Linux server reduces manual work and improves security.
 
 ## Services Implemented
 
-Service	Purpose and Explanation
+- **DHCP Server**  
+  Automatically assigns IP addresses to client machines, reducing manual configuration errors.
 
-DHCP Server	Automatically assigns IP addresses to client machines, reducing manual configuration errors.
+- **DNS Server (BIND9)**  
+  Resolves internal hostnames to IP addresses, facilitating easier network navigation.
 
-DNS Server (BIND9)	Resolves internal hostnames to IP addresses, facilitating easier network navigation.
+- **Syslog (rsyslog)**  
+  Collects and centralizes logs from multiple machines, aiding in troubleshooting and auditing.
 
-Syslog (rsyslog)	Collects and centralizes logs from multiple machines, aiding in troubleshooting and auditing.
+- **Logrotate**  
+  Manages log file sizes by rotating and archiving logs, ensuring disk space is conserved.
 
-Logrotate	Manages log file sizes by rotating and archiving logs, ensuring disk space is conserved.
+- **Zabbix Monitoring**  
+  Monitors system performance and services, sending alerts for any anomalies detected.
 
-Zabbix Monitoring	Monitors system performance and services, sending alerts for any anomalies detected.
+- **SSH Key Login**  
+  Provides secure remote access, mitigating risks associated with password-based logins.
 
-SSH Key Login	Provides secure remote access, mitigating risks associated with password-based logins.
+- **UFW Firewall**  
+  Controls incoming and outgoing traffic, adding a layer of security to the server.
 
-UFW Firewall	Controls incoming and outgoing traffic, adding a layer of security to the server.
-
-Fail2Ban	Protects against brute-force attacks by banning IPs with multiple failed login attempts.
+- **Fail2Ban**  
+  Protects against brute-force attacks by banning IPs with multiple failed login attempts.
 
 
 ## Tools and Technologies
