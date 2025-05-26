@@ -2,13 +2,13 @@
 
 # LIA1 Assignment: Building and Operating a Linux-Based Platform for Central Network Services & Monitoring
 
-**Student:** Muhammad Adnan  
-**Supervisor:** Daniel Thyselius  
-**Company:** Mindful Stack AB  
-**Course:** Network Technician, TUC Vocational College - Linköping  
-**Duration:** 6 weeks (40 yhp)  
-**GitHub Repository:** [Lia-Linux-Project](https://github.com/muhad308/Lia-Linux-Project)
-
+## Project Details
+- **Student:** Muhammad Adnan  
+- **Supervisor:** Daniel Thyselius  
+- **Company:** Mindful Stack AB  
+- **Course:** Network Technician, TUC Vocational College - Linköping  
+- **Duration:** 6 weeks (40 yhp)  
+- **GitHub Repository:** [Lia-Linux-Project](https://github.com/muhad308/Lia-Linux-Project)
 
 ---
 
