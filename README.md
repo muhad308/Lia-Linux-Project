@@ -79,7 +79,10 @@ A centralized Linux server reduces manual work and improves security.
 - **Security**  
   - SSH  
   - UFW  
-  - Fail2Ban  
+  - Fail2Ban
+    
+- **Automation**
+  - Bash 
 
 - **Monitoring**  
   - Zabbix  
