@@ -1,5 +1,52 @@
 
 # LIA Linux Project: Building and Operating Linux-based Platform for Network Services
+
+🐧 LIA Linux Project
+Student: Muhammad Adnan
+Supervisor: Daniel Thyselius
+Company: Mindful Stack AB
+Course: Network Technician – TUC Vocational College, Linköping
+Project Duration: 6 Weeks (40 YHP)
+
+📘 Project Overview
+This project was undertaken as part of the LIA (Lärande i Arbete – Learning in Work) course. The objective was to design, configure, and document a virtualized Linux environment that provides essential network services for a medium-sized company (~150 users).
+
+🎯 Objectives
+Set Up Virtual Server: Deploy Ubuntu Server 24.04 on VirtualBox.
+
+Configure Network Services: Implement DHCP, DNS, Syslog, and Zabbix.
+
+Enhance Security: Utilize SSH keys, UFW firewall, and Fail2Ban.
+
+System Monitoring: Employ Zabbix for real-time monitoring and alerts.
+
+Version Control: Use Git and GitHub for tracking configurations and scripts.
+
+🔧 Services Implemented
+Service	Purpose and Explanation
+DHCP Server	Automatically assigns IP addresses to client machines, reducing manual configuration errors.
+DNS Server (BIND9)	Resolves internal hostnames to IP addresses, facilitating easier network navigation.
+Syslog (rsyslog)	Collects and centralizes logs from multiple machines, aiding in troubleshooting and auditing.
+Logrotate	Manages log file sizes by rotating and archiving logs, ensuring disk space is conserved.
+Zabbix Monitoring	Monitors system performance and services, sending alerts for any anomalies detected.
+SSH Key Login	Provides secure remote access, mitigating risks associated with password-based logins.
+UFW Firewall	Controls incoming and outgoing traffic, adding a layer of security to the server.
+Fail2Ban	Protects against brute-force attacks by banning IPs with multiple failed login attempts.
+
+🛠️ Tools and Technologies
+Operating Systems: Ubuntu Server 24.04 (Server), Ubuntu Desktop 24.04 (Client)
+
+Virtualization: VirtualBox
+
+Network Configuration: Netplan
+
+Security: SSH, UFW, Fail2Ban
+
+Monitoring: Zabbix
+
+Version Control: Git, GitHub
+
+
  
 **Student**: Muhammad Adnan  
 
