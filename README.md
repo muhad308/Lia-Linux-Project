@@ -1,6 +1,9 @@
 
 # LIA Linux Project: Building and Operating Linux-based Platform for Network Services
 
+
+
+
 🐧 LIA Linux Project
 Student: Muhammad Adnan
 Supervisor: Daniel Thyselius
@@ -10,6 +13,12 @@ Project Duration: 6 Weeks (40 YHP)
 
 📘 Project Overview
 This project was undertaken as part of the LIA (Lärande i Arbete – Learning in Work) course. The objective was to design, configure, and document a virtualized Linux environment that provides essential network services for a medium-sized company (~150 users).
+
+
+Why is this important?
+Businesses need reliable network services (like IP assignment, DNS, and logging).
+
+A centralized Linux server reduces manual work and improves security.
 
 🎯 Objectives
 Set Up Virtual Server: Deploy Ubuntu Server 24.04 on VirtualBox.
