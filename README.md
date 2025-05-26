@@ -25,12 +25,14 @@ A centralized Linux server reduces manual work and improves security.
 
 ---
 
+
 ## Objectives
 - **Set Up Virtual Server**: Deploy Ubuntu Server 24.04 on VirtualBox
 - **Configure Network Services**: Implement DHCP, DNS, Syslog, and Zabbix
 - **Enhance Security**: Utilize SSH keys, UFW firewall, and Fail2Ban
 - **System Monitoring**: Employ Zabbix for real-time monitoring and alerts
 - **Version Control**: Use Git and GitHub for tracking configurations and scripts
+
 
 
 ## Services Implemented
@@ -58,6 +60,7 @@ A centralized Linux server reduces manual work and improves security.
 
 - **Fail2Ban**  
   Protects against brute-force attacks by banning IPs with multiple failed login attempts.
+
 
 
 ## Tools and Technologies
