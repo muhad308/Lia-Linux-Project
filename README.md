@@ -61,17 +61,28 @@ A centralized Linux server reduces manual work and improves security.
 
 
 ## Tools and Technologies
-Operating Systems: Ubuntu Server 24.04 (Server), Ubuntu Desktop 24.04 (Client)
 
-Virtualization: VirtualBox
+- **Operating Systems**  
+  - Ubuntu Server 24.04 (Server)  
+  - Ubuntu Desktop 24.04 (Client)  
 
-Network Configuration: Netplan
+- **Virtualization**  
+  - VirtualBox  
 
-Security: SSH, UFW, Fail2Ban
+- **Network Configuration**  
+  - Netplan  
 
-Monitoring: Zabbix
+- **Security**  
+  - SSH  
+  - UFW  
+  - Fail2Ban  
 
-Version Control: Git, GitHub
+- **Monitoring**  
+  - Zabbix  
+
+- **Version Control**  
+  - Git  
+  - GitHub  
 
 
 ## 🗂️ Folder Structure
