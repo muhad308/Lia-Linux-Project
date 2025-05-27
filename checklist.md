@@ -1,10 +1,9 @@
-# Project Checklist
+# LIA Linux Project Checklist
 
-# ✅ LIA Linux Project Checklist
 
 ## Week 1: Project Planning
-- [ ] Completed project plan and requirements specification.
-- [ ] Identified risks and outlined risk mitigation strategies.
+- [x] Completed project plan and requirements specification.
+- [x] Identified risks and outlined risk mitigation strategies.
       
 ## Week 1: Installation & Hardening
 - [x] Installed Ubuntu Server (version: 20.04 LTS) on VirtualBox
