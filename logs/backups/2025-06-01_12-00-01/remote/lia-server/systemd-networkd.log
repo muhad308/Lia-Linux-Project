@@ -1,0 +1,117 @@
+2025-05-23T16:24:22.722391+00:00 lia-server systemd-networkd[741]: enp0s3: DHCP lease lost
+2025-05-23T16:24:22.737593+00:00 lia-server systemd-networkd[741]: enp0s3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+2025-05-23T17:52:04.201721+00:00 lia-server systemd-networkd[26657]: lo: Link UP
+2025-05-23T17:52:04.209727+00:00 lia-server systemd-networkd[26657]: lo: Gained carrier
+2025-05-23T17:52:04.211550+00:00 lia-server systemd-networkd[26657]: enp0s3: Link UP
+2025-05-23T17:52:04.213778+00:00 lia-server systemd-networkd[26657]: enp0s3: Gained carrier
+2025-05-23T17:52:04.219435+00:00 lia-server systemd-networkd[26657]: enp0s8: Link UP
+2025-05-23T17:52:04.233595+00:00 lia-server systemd-networkd[26657]: enp0s8: Gained carrier
+2025-05-23T17:52:04.257209+00:00 lia-server systemd-networkd[26657]: enp0s3: Gained IPv6LL
+2025-05-23T17:52:04.259736+00:00 lia-server systemd-networkd[26657]: enp0s8: Gained IPv6LL
+2025-05-23T17:52:04.299955+00:00 lia-server systemd-networkd[26657]: Enumeration completed
+2025-05-23T17:52:04.394929+00:00 lia-server systemd-networkd[26657]: enp0s3: Configuring with /run/systemd/network/10-netplan-enp0s3.network.
+2025-05-23T17:52:04.774724+00:00 lia-server systemd-networkd[26657]: enp0s8: Configuring with /run/systemd/network/10-netplan-enp0s8.network.
+2025-05-23T17:52:05.886688+00:00 lia-server systemd-networkd[26657]: enp0s3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+2025-05-24T07:21:39.508419+00:00 lia-server systemd-networkd[746]: lo: Link UP
+2025-05-24T07:21:39.508429+00:00 lia-server systemd-networkd[746]: lo: Gained carrier
+2025-05-24T07:21:39.508451+00:00 lia-server systemd-networkd[746]: Enumeration completed
+2025-05-24T07:21:39.508460+00:00 lia-server systemd-networkd[746]: enp0s3: Configuring with /run/systemd/network/10-netplan-enp0s3.network.
+2025-05-24T07:21:39.508482+00:00 lia-server systemd-networkd[746]: enp0s8: Configuring with /run/systemd/network/10-netplan-enp0s8.network.
+2025-05-24T07:21:39.508505+00:00 lia-server systemd-networkd[746]: enp0s3: Link UP
+2025-05-24T07:21:39.508510+00:00 lia-server systemd-networkd[746]: enp0s3: Gained carrier
+2025-05-24T07:21:39.508518+00:00 lia-server systemd-networkd[746]: enp0s8: Link UP
+2025-05-24T07:21:39.508523+00:00 lia-server systemd-networkd[746]: enp0s8: Gained carrier
+2025-05-24T07:21:39.508540+00:00 lia-server systemd-networkd[746]: enp0s3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+2025-05-24T07:21:39.508844+00:00 lia-server systemd-networkd[746]: enp0s3: Gained IPv6LL
+2025-05-24T07:21:39.508873+00:00 lia-server systemd-networkd[746]: enp0s8: Gained IPv6LL
+2025-05-24T09:30:55.857112+00:00 lia-server systemd-networkd[742]: lo: Link UP
+2025-05-24T09:30:55.857122+00:00 lia-server systemd-networkd[742]: lo: Gained carrier
+2025-05-24T09:30:55.857128+00:00 lia-server systemd-networkd[742]: Enumeration completed
+2025-05-24T09:30:55.857153+00:00 lia-server systemd-networkd[742]: enp0s3: Configuring with /run/systemd/network/10-netplan-enp0s3.network.
+2025-05-24T09:30:55.888275+00:00 lia-server systemd-networkd[742]: enp0s8: Configuring with /run/systemd/network/10-netplan-enp0s8.network.
+2025-05-24T09:30:55.888302+00:00 lia-server systemd-networkd[742]: enp0s3: Link UP
+2025-05-24T09:30:55.888314+00:00 lia-server systemd-networkd[742]: enp0s3: Gained carrier
+2025-05-24T09:30:55.888330+00:00 lia-server systemd-networkd[742]: enp0s8: Link UP
+2025-05-24T09:30:55.888356+00:00 lia-server systemd-networkd[742]: enp0s8: Gained carrier
+2025-05-24T09:30:55.888422+00:00 lia-server systemd-networkd[742]: enp0s3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+2025-05-24T09:30:55.889323+00:00 lia-server systemd-networkd[742]: enp0s8: Gained IPv6LL
+2025-05-24T09:30:55.945244+00:00 lia-server systemd-networkd[742]: enp0s3: Gained IPv6LL
+2025-05-24T15:48:46.459149+00:00 lia-server systemd-networkd[5737]: lo: Link UP
+2025-05-24T15:48:46.459269+00:00 lia-server systemd-networkd[5737]: lo: Gained carrier
+2025-05-24T15:48:46.459303+00:00 lia-server systemd-networkd[5737]: enp0s3: Link UP
+2025-05-24T15:48:46.459332+00:00 lia-server systemd-networkd[5737]: enp0s3: Gained carrier
+2025-05-24T15:48:46.460623+00:00 lia-server systemd-networkd[5737]: enp0s8: Link UP
+2025-05-24T15:48:46.460702+00:00 lia-server systemd-networkd[5737]: enp0s8: Gained carrier
+2025-05-24T15:48:46.464655+00:00 lia-server systemd-networkd[5737]: enp0s3: Gained IPv6LL
+2025-05-24T15:48:46.464758+00:00 lia-server systemd-networkd[5737]: enp0s8: Gained IPv6LL
+2025-05-24T15:48:46.466565+00:00 lia-server systemd-networkd[5737]: Enumeration completed
+2025-05-24T15:48:46.469936+00:00 lia-server systemd-networkd[5737]: enp0s3: Configuring with /run/systemd/network/10-netplan-enp0s3.network.
+2025-05-24T15:48:46.481369+00:00 lia-server systemd-networkd[5737]: enp0s8: Configuring with /run/systemd/network/10-netplan-enp0s8.network.
+2025-05-24T15:48:46.513242+00:00 lia-server systemd-networkd[5737]: enp0s3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+2025-05-26T15:06:23.927187+00:00 lia-server systemd-networkd[22368]: lo: Link UP
+2025-05-26T15:06:23.928294+00:00 lia-server systemd-networkd[22368]: lo: Gained carrier
+2025-05-26T15:06:23.931753+00:00 lia-server systemd-networkd[22368]: enp0s3: Link UP
+2025-05-26T15:06:23.933116+00:00 lia-server systemd-networkd[22368]: enp0s3: Gained carrier
+2025-05-26T15:06:23.933188+00:00 lia-server systemd-networkd[22368]: enp0s8: Link UP
+2025-05-26T15:06:23.933241+00:00 lia-server systemd-networkd[22368]: enp0s8: Gained carrier
+2025-05-26T15:06:23.933308+00:00 lia-server systemd-networkd[22368]: enp0s3: Gained IPv6LL
+2025-05-26T15:06:23.933361+00:00 lia-server systemd-networkd[22368]: enp0s8: Gained IPv6LL
+2025-05-26T15:06:23.933411+00:00 lia-server systemd-networkd[22368]: Enumeration completed
+2025-05-26T15:06:23.933489+00:00 lia-server systemd-networkd[22368]: enp0s3: Configuring with /run/systemd/network/10-netplan-enp0s3.network.
+2025-05-26T15:06:23.933557+00:00 lia-server systemd-networkd[22368]: enp0s8: Configuring with /run/systemd/network/10-netplan-enp0s8.network.
+2025-05-26T15:06:23.933606+00:00 lia-server systemd-networkd[22368]: enp0s3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+2025-05-30T13:15:08.931659+00:00 lia-server systemd-networkd[739]: lo: Link UP
+2025-05-30T13:15:08.931669+00:00 lia-server systemd-networkd[739]: lo: Gained carrier
+2025-05-30T13:15:08.931675+00:00 lia-server systemd-networkd[739]: Enumeration completed
+2025-05-30T13:15:08.931681+00:00 lia-server systemd-networkd[739]: enp0s3: Configuring with /run/systemd/network/10-netplan-enp0s3.network.
+2025-05-30T13:15:08.931693+00:00 lia-server systemd-networkd[739]: enp0s8: Configuring with /run/systemd/network/10-netplan-enp0s8.network.
+2025-05-30T13:15:08.931699+00:00 lia-server systemd-networkd[739]: enp0s3: Link UP
+2025-05-30T13:15:08.931709+00:00 lia-server systemd-networkd[739]: enp0s3: Gained carrier
+2025-05-30T13:15:08.931725+00:00 lia-server systemd-networkd[739]: enp0s8: Link UP
+2025-05-30T13:15:08.931730+00:00 lia-server systemd-networkd[739]: enp0s8: Gained carrier
+2025-05-30T13:15:08.932721+00:00 lia-server systemd-networkd[739]: enp0s3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+2025-05-30T13:15:09.275730+00:00 lia-server systemd-networkd[739]: enp0s8: Gained IPv6LL
+2025-05-30T13:15:09.721212+00:00 lia-server systemd-networkd[739]: enp0s3: Gained IPv6LL
+2025-05-30T14:19:53.936518+00:00 lia-server systemd-networkd[2109]: lo: Link UP
+2025-05-30T14:19:53.936623+00:00 lia-server systemd-networkd[2109]: lo: Gained carrier
+2025-05-30T14:19:53.936662+00:00 lia-server systemd-networkd[2109]: enp0s3: Link UP
+2025-05-30T14:19:53.936699+00:00 lia-server systemd-networkd[2109]: enp0s3: Gained carrier
+2025-05-30T14:19:53.936737+00:00 lia-server systemd-networkd[2109]: enp0s8: Link UP
+2025-05-30T14:19:53.936779+00:00 lia-server systemd-networkd[2109]: enp0s8: Gained carrier
+2025-05-30T14:19:53.936812+00:00 lia-server systemd-networkd[2109]: enp0s3: Gained IPv6LL
+2025-05-30T14:19:53.936850+00:00 lia-server systemd-networkd[2109]: enp0s8: Gained IPv6LL
+2025-05-30T14:19:53.938555+00:00 lia-server systemd-networkd[2109]: Enumeration completed
+2025-05-30T14:19:53.939201+00:00 lia-server systemd-networkd[2109]: enp0s3: Configuring with /run/systemd/network/10-netplan-enp0s3.network.
+2025-05-30T14:19:53.939242+00:00 lia-server systemd-networkd[2109]: enp0s8: Configuring with /run/systemd/network/10-netplan-enp0s8.network.
+2025-05-30T14:19:53.939300+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+2025-05-30T15:37:55.959962+00:00 lia-server systemd-networkd[2109]: enp0s3: Reconfiguring with /run/systemd/network/10-netplan-enp0s3.network.
+2025-05-30T15:37:55.961894+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCP lease lost
+2025-05-30T15:37:55.974351+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCPv6 lease lost
+2025-05-30T15:37:55.982535+00:00 lia-server systemd-networkd[2109]: enp0s8: Reconfiguring with /run/systemd/network/10-netplan-enp0s8.network.
+2025-05-30T15:37:55.990148+00:00 lia-server systemd-networkd[2109]: enp0s8: DHCPv6 lease lost
+2025-05-30T15:37:55.999929+00:00 lia-server systemd-networkd[2109]: enp0s3: Configuring with /run/systemd/network/10-netplan-enp0s3.network.
+2025-05-30T15:37:56.015776+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCPv6 lease lost
+2025-05-30T15:37:56.025403+00:00 lia-server systemd-networkd[2109]: enp0s8: Configuring with /run/systemd/network/10-netplan-enp0s8.network.
+2025-05-30T15:37:56.040243+00:00 lia-server systemd-networkd[2109]: enp0s8: DHCPv6 lease lost
+2025-05-30T15:37:56.063909+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+2025-05-30T15:41:43.257778+00:00 lia-server systemd-networkd[2109]: enp0s3: Reconfiguring with /run/systemd/network/10-netplan-enp0s3.network.
+2025-05-30T15:41:43.257933+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCP lease lost
+2025-05-30T15:41:43.265987+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCPv6 lease lost
+2025-05-30T15:41:43.276276+00:00 lia-server systemd-networkd[2109]: enp0s8: Reconfiguring with /run/systemd/network/10-netplan-enp0s8.network.
+2025-05-30T15:41:43.278234+00:00 lia-server systemd-networkd[2109]: enp0s8: DHCPv6 lease lost
+2025-05-30T15:41:43.293704+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+2025-05-30T15:41:43.296896+00:00 lia-server systemd-networkd[2109]: enp0s3: Configuring with /run/systemd/network/10-netplan-enp0s3.network.
+2025-05-30T15:41:43.297417+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCP lease lost
+2025-05-30T15:41:43.306153+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCPv6 lease lost
+2025-05-30T15:41:43.315476+00:00 lia-server systemd-networkd[2109]: enp0s8: Configuring with /run/systemd/network/10-netplan-enp0s8.network.
+2025-05-30T15:41:43.320968+00:00 lia-server systemd-networkd[2109]: enp0s8: DHCPv6 lease lost
+2025-05-30T15:41:43.346618+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+2025-05-30T16:10:39.039372+00:00 lia-server systemd-networkd[2109]: enp0s3: Reconfiguring with /run/systemd/network/10-netplan-enp0s3.network.
+2025-05-30T16:10:39.039647+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCP lease lost
+2025-05-30T16:10:39.046285+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCPv6 lease lost
+2025-05-30T16:10:39.057557+00:00 lia-server systemd-networkd[2109]: enp0s8: Reconfiguring with /run/systemd/network/10-netplan-enp0s8.network.
+2025-05-30T16:10:39.058044+00:00 lia-server systemd-networkd[2109]: enp0s8: DHCPv6 lease lost
+2025-05-30T16:10:39.069358+00:00 lia-server systemd-networkd[2109]: enp0s3: Configuring with /run/systemd/network/10-netplan-enp0s3.network.
+2025-05-30T16:10:39.087489+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCPv6 lease lost
+2025-05-30T16:10:39.100573+00:00 lia-server systemd-networkd[2109]: enp0s8: Configuring with /run/systemd/network/10-netplan-enp0s8.network.
+2025-05-30T16:10:39.142778+00:00 lia-server systemd-networkd[2109]: enp0s3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2

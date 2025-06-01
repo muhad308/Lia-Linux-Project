@@ -1,0 +1,109 @@
+2025-05-21T10:26:39.175019+00:00 lia-server dbus-daemon[770]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.34' (uid=0 pid=3206 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+2025-05-21T10:26:39.223026+00:00 lia-server dbus-daemon[770]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+2025-05-21T10:40:59.875346+00:00 lia-server dbus-daemon[770]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.41' (uid=0 pid=15860 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+2025-05-21T10:40:59.921876+00:00 lia-server dbus-daemon[770]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+2025-05-21T18:26:06.869510+00:00 lia-server dbus-daemon[770]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.52' (uid=0 pid=18695 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+2025-05-21T18:26:06.952103+00:00 lia-server dbus-daemon[770]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+2025-05-21T18:56:10.449730+00:00 lia-server dbus-daemon[770]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.60' (uid=0 pid=19444 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+2025-05-21T18:56:10.518165+00:00 lia-server dbus-daemon[770]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+2025-05-21T19:17:39.743805+00:00 lia-server dbus-daemon[770]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.63' (uid=0 pid=20022 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+2025-05-21T19:17:39.814890+00:00 lia-server dbus-daemon[770]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+2025-05-23T16:24:22.719410+00:00 lia-server dbus-daemon[770]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.2' (uid=998 pid=741 comm="/usr/lib/systemd/systemd-networkd" label="unconfined")
+2025-05-23T16:24:22.729469+00:00 lia-server dbus-daemon[770]: [system] Successfully activated service 'org.freedesktop.hostname1'
+2025-05-23T17:52:05.980203+00:00 lia-server dbus-daemon[770]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.87' (uid=998 pid=26657 comm="/usr/lib/systemd/systemd-networkd" label="unconfined")
+2025-05-23T17:52:15.710326+00:00 lia-server dbus-daemon[770]: [system] Successfully activated service 'org.freedesktop.hostname1'
+2025-05-24T07:21:39.508653+00:00 lia-server dbus-daemon[777]: dbus[777]: Unknown group "power" in message bus configuration file
+2025-05-24T07:21:39.508691+00:00 lia-server dbus-daemon[777]: [system] AppArmor D-Bus mediation is enabled
+2025-05-24T07:21:39.508696+00:00 lia-server dbus-daemon[777]: [system] Activating systemd to hand-off: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.1' (uid=998 pid=746 comm="/usr/lib/systemd/systemd-networkd" label="unconfined")
+2025-05-24T07:21:39.508868+00:00 lia-server dbus-daemon[777]: [system] Successfully activated service 'org.freedesktop.systemd1'
+2025-05-24T07:21:39.544434+00:00 lia-server dbus-daemon[777]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkit.service' requested by ':1.4' (uid=0 pid=820 comm="/usr/libexec/udisks2/udisksd" label="unconfined")
+2025-05-24T07:21:39.544464+00:00 lia-server dbus-daemon[777]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+2025-05-24T07:21:39.715657+00:00 lia-server dbus-daemon[777]: [system] Successfully activated service 'org.freedesktop.hostname1'
+2025-05-24T07:21:40.508941+00:00 lia-server dbus-daemon[777]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=803 comm="/usr/lib/snapd/snapd" label="unconfined")
+2025-05-24T07:21:40.813278+00:00 lia-server dbus-daemon[777]: [system] Successfully activated service 'org.freedesktop.timedate1'
+2025-05-24T08:10:46.904740+00:00 lia-server dbus-daemon[777]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.16' (uid=989 pid=2275 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-24T08:10:47.230085+00:00 lia-server dbus-daemon[777]: [system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service' requested by ':1.17' (uid=0 pid=2280 comm="/usr/libexec/fwupd/fwupd" label="unconfined")
+2025-05-24T08:10:47.395519+00:00 lia-server dbus-daemon[777]: [system] Successfully activated service 'org.freedesktop.UPower'
+2025-05-24T08:10:47.531340+00:00 lia-server dbus-daemon[777]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-24T09:30:55.888767+00:00 lia-server dbus-daemon[775]: dbus[775]: Unknown group "power" in message bus configuration file
+2025-05-24T09:30:55.888797+00:00 lia-server dbus-daemon[775]: [system] AppArmor D-Bus mediation is enabled
+2025-05-24T09:30:55.888813+00:00 lia-server dbus-daemon[775]: [system] Activating systemd to hand-off: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.1' (uid=998 pid=742 comm="/usr/lib/systemd/systemd-networkd" label="unconfined")
+2025-05-24T09:30:55.889367+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.systemd1'
+2025-05-24T09:30:55.945969+00:00 lia-server dbus-daemon[775]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkit.service' requested by ':1.4' (uid=0 pid=796 comm="/usr/libexec/udisks2/udisksd" label="unconfined")
+2025-05-24T09:30:55.946414+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+2025-05-24T09:30:54.877797+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.hostname1'
+2025-05-24T09:30:56.608285+00:00 lia-server dbus-daemon[775]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=787 comm="/usr/lib/snapd/snapd" label="unconfined")
+2025-05-24T09:30:56.881093+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.timedate1'
+2025-05-24T10:37:41.838845+00:00 lia-server dbus-daemon[775]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.16' (uid=989 pid=2426 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-24T10:37:42.094047+00:00 lia-server dbus-daemon[775]: [system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service' requested by ':1.17' (uid=0 pid=2431 comm="/usr/libexec/fwupd/fwupd" label="unconfined")
+2025-05-24T10:37:42.224598+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.UPower'
+2025-05-24T10:37:42.328859+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-24T11:11:34.986585+00:00 lia-server dbus-daemon[775]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.19' (uid=989 pid=2992 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-24T11:11:35.167824+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-24T12:23:41.999263+00:00 lia-server dbus-daemon[775]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.21' (uid=989 pid=4285 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-24T12:23:42.194264+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-24T14:26:39.482393+00:00 lia-server dbus-daemon[775]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.24' (uid=989 pid=4409 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-24T14:26:40.936844+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-24T15:48:46.516031+00:00 lia-server dbus-daemon[775]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.27' (uid=998 pid=5737 comm="/usr/lib/systemd/systemd-networkd" label="unconfined")
+2025-05-24T15:48:46.616171+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.hostname1'
+2025-05-26T10:59:45.121610+00:00 lia-server dbus-daemon[775]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.70' (uid=0 pid=18597 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+2025-05-26T10:59:45.185527+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+2025-05-26T15:06:23.925340+00:00 lia-server dbus-daemon[775]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.78' (uid=998 pid=22368 comm="/usr/lib/systemd/systemd-networkd" label="unconfined")
+2025-05-26T15:06:23.929698+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.hostname1'
+2025-05-30T09:42:05.914567+00:00 lia-server dbus-daemon[775]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.111' (uid=1000 pid=30979 comm="timedatectl status" label="unconfined")
+2025-05-30T09:42:05.996012+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.timedate1'
+2025-05-30T12:02:05.629435+00:00 lia-server dbus-daemon[775]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.116' (uid=0 pid=32045 comm="/usr/lib/snapd/snapd" label="unconfined")
+2025-05-30T12:02:05.735222+00:00 lia-server dbus-daemon[775]: [system] Successfully activated service 'org.freedesktop.timedate1'
+2025-05-30T13:15:08.931647+00:00 lia-server dbus-daemon[750]: dbus[750]: Unknown group "power" in message bus configuration file
+2025-05-30T13:15:08.931714+00:00 lia-server dbus-daemon[750]: [system] AppArmor D-Bus mediation is enabled
+2025-05-30T13:15:08.932742+00:00 lia-server dbus-daemon[750]: [system] Activating systemd to hand-off: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.2' (uid=998 pid=739 comm="/usr/lib/systemd/systemd-networkd" label="unconfined")
+2025-05-30T13:15:08.936923+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.systemd1'
+2025-05-30T13:15:08.936979+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkit.service' requested by ':1.3' (uid=0 pid=770 comm="/usr/libexec/udisks2/udisksd" label="unconfined")
+2025-05-30T13:15:08.944794+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+2025-05-30T13:15:09.239840+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.hostname1'
+2025-05-30T13:15:10.301763+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=761 comm="/usr/lib/snapd/snapd" label="unconfined")
+2025-05-30T13:15:10.797848+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.timedate1'
+2025-05-30T13:33:24.406002+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.16' (uid=989 pid=1687 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-30T13:33:24.657948+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service' requested by ':1.17' (uid=0 pid=1692 comm="/usr/libexec/fwupd/fwupd" label="unconfined")
+2025-05-30T13:33:24.848804+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.UPower'
+2025-05-30T13:33:24.986744+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-30T14:19:53.930929+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.21' (uid=998 pid=2109 comm="/usr/lib/systemd/systemd-networkd" label="unconfined")
+2025-05-30T14:19:53.934807+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.hostname1'
+2025-05-30T14:59:18.878159+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.26' (uid=989 pid=2757 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-30T14:59:19.082493+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-30T15:30:56.127197+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.29' (uid=989 pid=3337 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-30T15:30:56.352623+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-30T15:37:55.964994+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.21' (uid=998 pid=2109 comm="/usr/lib/systemd/systemd-networkd" label="unconfined")
+2025-05-30T15:37:56.085018+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.hostname1'
+2025-05-30T15:41:43.258217+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.21' (uid=998 pid=2109 comm="/usr/lib/systemd/systemd-networkd" label="unconfined")
+2025-05-30T15:41:43.357072+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.hostname1'
+2025-05-30T16:10:39.039596+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.21' (uid=998 pid=2109 comm="/usr/lib/systemd/systemd-networkd" label="unconfined")
+2025-05-30T16:10:39.150226+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.hostname1'
+2025-05-30T16:40:38.164067+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.43' (uid=989 pid=4751 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-30T16:40:38.360881+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-30T17:56:18.079702+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.46' (uid=989 pid=5881 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-30T17:56:18.292255+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-30T22:42:49.348259+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.50' (uid=989 pid=6712 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-30T22:42:50.046104+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-31T09:20:13.942995+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.54' (uid=989 pid=7518 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-31T09:20:14.424846+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-31T10:09:35.758320+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.57' (uid=989 pid=8865 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-31T10:09:35.985159+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-31T11:38:23.412091+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.60' (uid=989 pid=10227 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-31T11:38:23.595315+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-31T12:46:18.551446+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.62' (uid=989 pid=11273 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-31T12:46:18.731102+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-31T13:19:35.008719+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.64' (uid=989 pid=11764 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-31T13:19:35.184367+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-31T14:04:12.818626+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.66' (uid=989 pid=12398 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-31T14:04:13.004179+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-31T15:02:25.319865+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.68' (uid=989 pid=13271 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-31T15:02:25.502187+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-31T16:58:10.227265+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.70' (uid=989 pid=14964 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-31T16:58:10.412959+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-31T17:59:09.210170+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.72' (uid=989 pid=15864 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-31T17:59:09.402057+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-31T18:39:25.518321+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.74' (uid=989 pid=16471 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-31T18:39:25.721797+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-05-31T23:41:00.280323+00:00 lia-server dbus-daemon[750]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.78' (uid=989 pid=17619 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-05-31T23:41:02.321768+00:00 lia-server dbus-daemon[750]: [system] Successfully activated service 'org.freedesktop.fwupd'
