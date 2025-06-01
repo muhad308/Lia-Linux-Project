@@ -1,0 +1,5 @@
+2025-05-20T16:22:20+00:00 liaserver2 systemd-hostnamed[1592]: Hostname set to <liaserver2> (static)
+2025-05-21T12:34:51+00:00 liaserver2 systemd-hostnamed[710]: Hostname set to <liaserver2> (static)
+2025-05-21T12:37:00+00:00 liaserver2 systemd-hostnamed[1064]: Hostname set to <liaserver2> (static)
+2025-05-21T12:48:53+00:00 liaserver2 systemd-hostnamed[1211]: Hostname set to <liaserver2> (static)
+2025-05-30T16:34:30+00:00 liaserver2 systemd-hostnamed[989]: Hostname set to <liaserver2> (static)

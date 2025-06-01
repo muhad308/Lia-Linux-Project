@@ -1,0 +1,12 @@
+2025-05-21T12:34:50+00:00 liaserver2 lvm[307]:   1 logical volume(s) in volume group "ubuntu-vg" monitored
+2025-05-21T12:34:51+00:00 liaserver2 lvm[446]: PV /dev/sda3 online, VG ubuntu-vg is complete.
+2025-05-21T12:34:51+00:00 liaserver2 lvm[446]: VG ubuntu-vg finished
+2025-05-21T13:32:08+00:00 liaserver2 lvm[307]:   1 logical volume(s) in volume group "ubuntu-vg" monitored
+2025-05-21T13:32:08+00:00 liaserver2 lvm[449]: PV /dev/sda3 online, VG ubuntu-vg is complete.
+2025-05-21T13:32:08+00:00 liaserver2 lvm[449]: VG ubuntu-vg finished
+2025-05-30T15:48:57+00:00 liaserver2 lvm[306]:   1 logical volume(s) in volume group "ubuntu-vg" monitored
+2025-05-30T15:48:57+00:00 liaserver2 lvm[446]: PV /dev/sda3 online, VG ubuntu-vg is complete.
+2025-05-30T15:48:57+00:00 liaserver2 lvm[446]: VG ubuntu-vg finished
+2025-05-30T16:32:40+00:00 liaserver2 lvm[305]:   1 logical volume(s) in volume group "ubuntu-vg" monitored
+2025-05-30T16:32:40+00:00 liaserver2 lvm[449]: PV /dev/sda3 online, VG ubuntu-vg is complete.
+2025-05-30T16:32:40+00:00 liaserver2 lvm[449]: VG ubuntu-vg finished

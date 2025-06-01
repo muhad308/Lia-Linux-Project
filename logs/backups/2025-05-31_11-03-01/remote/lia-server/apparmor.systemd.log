@@ -1,0 +1,9 @@
+2025-05-24T07:21:39.508056+00:00 lia-server apparmor.systemd[477]: Restarting AppArmor
+2025-05-24T07:21:39.508062+00:00 lia-server apparmor.systemd[477]: /lib/apparmor/apparmor.systemd: 148: [: Illegal number: yes
+2025-05-24T07:21:39.508071+00:00 lia-server apparmor.systemd[477]: Reloading AppArmor profiles
+2025-05-24T09:30:55.856853+00:00 lia-server apparmor.systemd[508]: Restarting AppArmor
+2025-05-24T09:30:55.856864+00:00 lia-server apparmor.systemd[508]: /lib/apparmor/apparmor.systemd: 148: [: Illegal number: yes
+2025-05-24T09:30:55.856870+00:00 lia-server apparmor.systemd[508]: Reloading AppArmor profiles
+2025-05-30T13:15:08.919963+00:00 lia-server apparmor.systemd[470]: Restarting AppArmor
+2025-05-30T13:15:08.919969+00:00 lia-server apparmor.systemd[470]: /lib/apparmor/apparmor.systemd: 148: [: Illegal number: yes
+2025-05-30T13:15:08.919975+00:00 lia-server apparmor.systemd[470]: Reloading AppArmor profiles

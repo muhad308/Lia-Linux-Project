@@ -1,0 +1,26 @@
+2025-05-21T13:02:19+00:00 liaserver2 fwupd[1491]: 13:02:19.251 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:01.1/ata2/host1/target1:0:0/1:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+2025-05-21T13:02:19+00:00 liaserver2 fwupd[1491]: 13:02:19.287 FuMain               Daemon ready for requests (locale en_US.UTF-8)
+2025-05-24T07:47:37+00:00 liaserver2 fwupd[1386]: 07:47:37.937 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:01.1/ata2/host1/target1:0:0/1:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+2025-05-24T07:47:37+00:00 liaserver2 fwupd[1386]: 07:47:37.979 FuMain               Daemon ready for requests (locale en_US.UTF-8)
+2025-05-24T08:56:37+00:00 liaserver2 fwupd[2083]: 08:56:37.629 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:01.1/ata2/host1/target1:0:0/1:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+2025-05-24T08:56:37+00:00 liaserver2 fwupd[2083]: 08:56:37.711 FuMain               Daemon ready for requests (locale en_US.UTF-8)
+2025-05-24T09:05:47+00:00 liaserver2 fwupd[2236]: 09:05:47.521 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:01.1/ata2/host1/target1:0:0/1:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+2025-05-24T09:05:47+00:00 liaserver2 fwupd[2236]: 09:05:47.578 FuMain               Daemon ready for requests (locale en_US.UTF-8)
+2025-05-24T10:15:21+00:00 liaserver2 fwupd[3663]: 10:15:21.370 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:01.1/ata2/host1/target1:0:0/1:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+2025-05-24T10:15:21+00:00 liaserver2 fwupd[3663]: 10:15:21.419 FuMain               Daemon ready for requests (locale en_US.UTF-8)
+2025-05-24T11:03:18+00:00 liaserver2 fwupd[4796]: 11:03:18.809 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:01.1/ata2/host1/target1:0:0/1:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+2025-05-24T11:03:18+00:00 liaserver2 fwupd[4796]: 11:03:18.847 FuMain               Daemon ready for requests (locale en_US.UTF-8)
+2025-05-24T13:07:43+00:00 liaserver2 fwupd[6768]: 13:07:43.874 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:01.1/ata2/host1/target1:0:0/1:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+2025-05-24T13:07:44+00:00 liaserver2 fwupd[6768]: 13:07:44.084 FuMain               Daemon ready for requests (locale en_US.UTF-8)
+2025-05-30T16:16:47+00:00 liaserver2 fwupd[1687]: 16:16:47.747 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:01.1/ata2/host1/target1:0:0/1:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+2025-05-30T16:16:47+00:00 liaserver2 fwupd[1687]: 16:16:47.782 FuMain               Daemon ready for requests (locale en_US.UTF-8)
+2025-05-30T17:06:02+00:00 liaserver2 fwupd[2306]: 17:06:02.689 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:01.1/ata2/host1/target1:0:0/1:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+2025-05-30T17:06:02+00:00 liaserver2 fwupd[2306]: 17:06:02.726 FuMain               Daemon ready for requests (locale en_US.UTF-8)
+2025-05-30T18:38:48+00:00 liaserver2 fwupd[4579]: 18:38:48.554 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:01.1/ata2/host1/target1:0:0/1:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+2025-05-30T18:38:48+00:00 liaserver2 fwupd[4579]: 18:38:48.592 FuMain               Daemon ready for requests (locale en_US.UTF-8)
+2025-05-30T22:42:48+00:00 liaserver2 fwupd[4719]: 22:42:48.135 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:01.1/ata2/host1/target1:0:0/1:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+2025-05-30T22:42:48+00:00 liaserver2 fwupd[4719]: 22:42:48.300 FuMain               Daemon ready for requests (locale en_US.UTF-8)
+2025-05-31T09:20:12+00:00 liaserver2 fwupd[5637]: 09:20:12.630 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:01.1/ata2/host1/target1:0:0/1:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+2025-05-31T09:20:12+00:00 liaserver2 fwupd[5637]: 09:20:12.684 FuMain               Daemon ready for requests (locale en_US.UTF-8)
+2025-05-31T10:17:01+00:00 liaserver2 fwupd[7091]: 10:17:01.694 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:01.1/ata2/host1/target1:0:0/1:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+2025-05-31T10:17:01+00:00 liaserver2 fwupd[7091]: 10:17:01.735 FuMain               Daemon ready for requests (locale en_US.UTF-8)

@@ -1,0 +1,2 @@
+2025-05-21T10:30:06.173533+00:00 lia-server apache2.postinst: Switch to mpm prefork for package libapache2-mod-php8.3
+2025-05-21T10:30:06.271788+00:00 lia-server apache2.postinst: Executing deferred 'a2enmod php8.3' for package libapache2-mod-php8.3

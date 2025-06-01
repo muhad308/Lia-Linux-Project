@@ -1,0 +1,86 @@
+2025-05-22T06:44:46.533295+00:00 lia-server systemd-timesyncd[578]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+2025-05-22T07:26:22.238354+00:00 lia-server systemd-timesyncd[578]: Contacted time server 91.189.91.157:123 (ntp.ubuntu.com).
+2025-05-22T18:25:07.345237+00:00 lia-server systemd-timesyncd[578]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+2025-05-22T18:25:17.478188+00:00 lia-server systemd-timesyncd[578]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+2025-05-23T06:49:20.209831+00:00 lia-server systemd-timesyncd[578]: Contacted time server 185.125.190.58:123 (ntp.ubuntu.com).
+2025-05-23T16:24:31.094552+00:00 lia-server systemd-timesyncd[578]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+2025-05-23T16:24:41.326569+00:00 lia-server systemd-timesyncd[578]: Timed out waiting for reply from [2620:2d:4000:1::3f]:123 (ntp.ubuntu.com).
+2025-05-23T16:24:52.149935+00:00 lia-server systemd-timesyncd[578]: Timed out waiting for reply from [2620:2d:4000:1::41]:123 (ntp.ubuntu.com).
+2025-05-23T16:25:02.427134+00:00 lia-server systemd-timesyncd[578]: Timed out waiting for reply from [2620:2d:4000:1::40]:123 (ntp.ubuntu.com).
+2025-05-23T16:59:09.608799+00:00 lia-server systemd-timesyncd[578]: Contacted time server 185.125.190.58:123 (ntp.ubuntu.com).
+2025-05-23T17:52:03.070301+00:00 lia-server systemd-timesyncd[578]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+2025-05-23T17:52:13.318404+00:00 lia-server systemd-timesyncd[578]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+2025-05-23T17:52:23.520443+00:00 lia-server systemd-timesyncd[578]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+2025-05-23T17:52:23.699269+00:00 lia-server systemd-timesyncd[578]: Contacted time server 185.125.190.56:123 (ntp.ubuntu.com).
+2025-05-24T07:21:39.508534+00:00 lia-server systemd-timesyncd[564]: Network configuration changed, trying to establish connection.
+2025-05-24T07:21:39.508544+00:00 lia-server systemd-timesyncd[564]: Network configuration changed, trying to establish connection.
+2025-05-24T07:21:39.508549+00:00 lia-server systemd-timesyncd[564]: Network configuration changed, trying to establish connection.
+2025-05-24T07:21:39.508854+00:00 lia-server systemd-timesyncd[564]: Network configuration changed, trying to establish connection.
+2025-05-24T07:21:39.508929+00:00 lia-server systemd-timesyncd[564]: Network configuration changed, trying to establish connection.
+2025-05-24T07:21:39.544652+00:00 lia-server systemd-timesyncd[564]: Network configuration changed, trying to establish connection.
+2025-05-24T07:22:11.083790+00:00 lia-server systemd-timesyncd[564]: Contacted time server 185.125.190.56:123 (ntp.ubuntu.com).
+2025-05-24T07:22:11.085257+00:00 lia-server systemd-timesyncd[564]: Initial clock synchronization to Sat 2025-05-24 07:22:11.081957 UTC.
+2025-05-24T09:30:55.888395+00:00 lia-server systemd-timesyncd[620]: Network configuration changed, trying to establish connection.
+2025-05-24T09:30:55.888430+00:00 lia-server systemd-timesyncd[620]: Network configuration changed, trying to establish connection.
+2025-05-24T09:30:55.888448+00:00 lia-server systemd-timesyncd[620]: Network configuration changed, trying to establish connection.
+2025-05-24T09:30:55.889330+00:00 lia-server systemd-timesyncd[620]: Network configuration changed, trying to establish connection.
+2025-05-24T09:30:55.945362+00:00 lia-server systemd-timesyncd[620]: Network configuration changed, trying to establish connection.
+2025-05-24T09:30:55.261987+00:00 lia-server systemd-timesyncd[620]: Network configuration changed, trying to establish connection.
+2025-05-24T09:30:57.285199+00:00 lia-server systemd-timesyncd[620]: Network configuration changed, trying to establish connection.
+2025-05-24T09:31:29.563207+00:00 lia-server systemd-timesyncd[620]: Contacted time server 185.125.190.58:123 (ntp.ubuntu.com).
+2025-05-24T09:31:29.563321+00:00 lia-server systemd-timesyncd[620]: Initial clock synchronization to Sat 2025-05-24 09:31:29.560703 UTC.
+2025-05-24T10:40:04.823701+00:00 lia-server systemd-timesyncd[620]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+2025-05-24T10:40:15.038715+00:00 lia-server systemd-timesyncd[620]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+2025-05-24T10:40:25.742939+00:00 lia-server systemd-timesyncd[620]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+2025-05-24T10:40:35.760116+00:00 lia-server systemd-timesyncd[620]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+2025-05-24T10:40:46.014363+00:00 lia-server systemd-timesyncd[620]: Timed out waiting for reply from [2620:2d:4000:1::3f]:123 (ntp.ubuntu.com).
+2025-05-24T10:40:57.634366+00:00 lia-server systemd-timesyncd[620]: Timed out waiting for reply from [2620:2d:4000:1::40]:123 (ntp.ubuntu.com).
+2025-05-24T10:41:07.762670+00:00 lia-server systemd-timesyncd[620]: Timed out waiting for reply from [2620:2d:4000:1::41]:123 (ntp.ubuntu.com).
+2025-05-24T11:15:16.399621+00:00 lia-server systemd-timesyncd[620]: Contacted time server 185.125.190.57:123 (ntp.ubuntu.com).
+2025-05-25T00:10:50.763089+00:00 lia-server systemd-timesyncd[620]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+2025-05-25T13:51:43.877254+00:00 lia-server systemd-timesyncd[620]: Contacted time server 91.189.91.157:123 (ntp.ubuntu.com).
+2025-05-26T15:07:02.024496+00:00 lia-server systemd-timesyncd[22402]: Contacted time server 185.125.190.56:123 (ntp.ubuntu.com).
+2025-05-26T15:07:02.025123+00:00 lia-server systemd-timesyncd[22402]: Initial clock synchronization to Mon 2025-05-26 15:07:02.025087 UTC.
+2025-05-27T07:17:45.130561+00:00 lia-server systemd-timesyncd[22402]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+2025-05-27T07:17:55.380531+00:00 lia-server systemd-timesyncd[22402]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+2025-05-27T10:28:27.673493+00:00 lia-server systemd-timesyncd[22402]: Contacted time server 185.125.190.58:123 (ntp.ubuntu.com).
+2025-05-27T15:01:14.121381+00:00 lia-server systemd-timesyncd[22402]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+2025-05-27T15:01:14.234721+00:00 lia-server systemd-timesyncd[22402]: Contacted time server 91.189.91.157:123 (ntp.ubuntu.com).
+2025-05-28T04:38:55.769874+00:00 lia-server systemd-timesyncd[26412]: Contacted time server 185.125.190.58:123 (ntp.ubuntu.com).
+2025-05-28T04:38:55.771034+00:00 lia-server systemd-timesyncd[26412]: Initial clock synchronization to Wed 2025-05-28 04:38:55.766620 UTC.
+2025-05-28T12:38:25.248556+00:00 lia-server systemd-timesyncd[26412]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+2025-05-28T12:38:25.356787+00:00 lia-server systemd-timesyncd[26412]: Contacted time server 91.189.91.157:123 (ntp.ubuntu.com).
+2025-05-28T17:58:58.962287+00:00 lia-server systemd-timesyncd[26412]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+2025-05-28T17:59:09.088655+00:00 lia-server systemd-timesyncd[26412]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+2025-05-30T08:20:08.121671+00:00 lia-server systemd-timesyncd[26412]: Contacted time server 185.125.190.57:123 (ntp.ubuntu.com).
+2025-05-30T11:43:43.318315+00:00 lia-server systemd-timesyncd[26412]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+2025-05-30T12:17:51.915388+00:00 lia-server systemd-timesyncd[26412]: Contacted time server 91.189.91.157:123 (ntp.ubuntu.com).
+2025-05-30T13:15:08.920126+00:00 lia-server systemd-timesyncd[540]: System clock time unset or jumped backwards, restored from recorded timestamp: Fri 2025-05-30 13:15:07 UTC
+2025-05-30T13:15:08.932708+00:00 lia-server systemd-timesyncd[540]: Network configuration changed, trying to establish connection.
+2025-05-30T13:15:08.932727+00:00 lia-server systemd-timesyncd[540]: Network configuration changed, trying to establish connection.
+2025-05-30T13:15:08.932732+00:00 lia-server systemd-timesyncd[540]: Network configuration changed, trying to establish connection.
+2025-05-30T13:15:09.281711+00:00 lia-server systemd-timesyncd[540]: Network configuration changed, trying to establish connection.
+2025-05-30T13:15:09.721307+00:00 lia-server systemd-timesyncd[540]: Network configuration changed, trying to establish connection.
+2025-05-30T13:15:10.781553+00:00 lia-server systemd-timesyncd[540]: Network configuration changed, trying to establish connection.
+2025-05-30T13:15:11.957584+00:00 lia-server systemd-timesyncd[540]: Network configuration changed, trying to establish connection.
+2025-05-30T13:15:58.043043+00:00 lia-server systemd-timesyncd[540]: Contacted time server 91.189.91.157:123 (ntp.ubuntu.com).
+2025-05-30T13:15:58.043157+00:00 lia-server systemd-timesyncd[540]: Initial clock synchronization to Fri 2025-05-30 13:15:58.041793 UTC.
+2025-05-30T14:20:58.961915+00:00 lia-server systemd-timesyncd[2104]: Contacted time server 91.189.91.157:123 (ntp.ubuntu.com).
+2025-05-30T14:20:58.962722+00:00 lia-server systemd-timesyncd[2104]: Initial clock synchronization to Fri 2025-05-30 14:20:58.931893 UTC.
+2025-05-30T15:46:04.541546+00:00 lia-server systemd-timesyncd[2104]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+2025-05-30T15:46:14.793660+00:00 lia-server systemd-timesyncd[2104]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+2025-05-30T15:46:25.042268+00:00 lia-server systemd-timesyncd[2104]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+2025-05-30T15:46:35.295896+00:00 lia-server systemd-timesyncd[2104]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+2025-05-30T15:46:45.556054+00:00 lia-server systemd-timesyncd[2104]: Timed out waiting for reply from [2620:2d:4000:1::41]:123 (ntp.ubuntu.com).
+2025-05-30T15:46:55.795744+00:00 lia-server systemd-timesyncd[2104]: Timed out waiting for reply from [2620:2d:4000:1::40]:123 (ntp.ubuntu.com).
+2025-05-30T15:47:06.055019+00:00 lia-server systemd-timesyncd[2104]: Timed out waiting for reply from [2620:2d:4000:1::3f]:123 (ntp.ubuntu.com).
+2025-05-30T16:10:39.054777+00:00 lia-server systemd-timesyncd[2104]: Network configuration changed, trying to establish connection.
+2025-05-30T16:10:39.101770+00:00 lia-server systemd-timesyncd[2104]: Network configuration changed, trying to establish connection.
+2025-05-30T16:10:39.135612+00:00 lia-server systemd-timesyncd[2104]: message repeated 2 times: [ Network configuration changed, trying to establish connection.]
+2025-05-30T16:10:39.144969+00:00 lia-server systemd-timesyncd[2104]: Network configuration changed, trying to establish connection.
+2025-05-30T16:10:39.230619+00:00 lia-server systemd-timesyncd[2104]: Contacted time server 185.125.190.57:123 (ntp.ubuntu.com).
+2025-05-30T22:43:33.847404+00:00 lia-server systemd-timesyncd[2104]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+2025-05-30T22:43:44.144092+00:00 lia-server systemd-timesyncd[2104]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+2025-05-30T22:43:54.294952+00:00 lia-server systemd-timesyncd[2104]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+2025-05-30T22:44:04.555583+00:00 lia-server systemd-timesyncd[2104]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+2025-05-31T09:20:13.746371+00:00 lia-server systemd-timesyncd[2104]: Contacted time server 185.125.190.58:123 (ntp.ubuntu.com).

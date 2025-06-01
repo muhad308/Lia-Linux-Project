@@ -1,0 +1,3 @@
+2025-05-21T17:32:15+00:00 liaserver2 groupadd[1825]: group added to /etc/group: name=zabbix, GID=110
+2025-05-21T17:32:15+00:00 liaserver2 groupadd[1825]: group added to /etc/gshadow: name=zabbix
+2025-05-21T17:32:15+00:00 liaserver2 groupadd[1825]: new group: name=zabbix, GID=110

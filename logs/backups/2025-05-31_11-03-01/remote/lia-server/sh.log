@@ -1,0 +1,108 @@
+2025-05-24T07:21:38.137988+00:00 lia-server sh[885]: Internet Systems Consortium DHCP Server 4.4.3-P1
+2025-05-24T07:21:38.138016+00:00 lia-server sh[885]: Copyright 2004-2022 Internet Systems Consortium.
+2025-05-24T07:21:38.138036+00:00 lia-server sh[885]: All rights reserved.
+2025-05-24T07:21:38.138055+00:00 lia-server sh[885]: For info, please visit https://www.isc.org/software/dhcp/
+2025-05-24T07:21:38.198914+00:00 lia-server sh[892]: Internet Systems Consortium DHCP Server 4.4.3-P1
+2025-05-24T07:21:38.198939+00:00 lia-server sh[892]: Copyright 2004-2022 Internet Systems Consortium.
+2025-05-24T07:21:38.198957+00:00 lia-server sh[892]: All rights reserved.
+2025-05-24T07:21:38.198976+00:00 lia-server sh[892]: For info, please visit https://www.isc.org/software/dhcp/
+2025-05-24T07:21:38.220526+00:00 lia-server sh[892]: Config file: /etc/dhcp/dhcpd6.conf
+2025-05-24T07:21:38.220563+00:00 lia-server sh[892]: Database file: /var/lib/dhcp/dhcpd6.leases
+2025-05-24T07:21:38.220589+00:00 lia-server sh[892]: PID file: /run/dhcp-server6/dhcpd6.pid
+2025-05-24T07:21:38.223173+00:00 lia-server sh[892]: Wrote 0 NA, 0 TA, 0 PD leases to lease file.
+2025-05-24T07:21:38.249577+00:00 lia-server sh[885]: Config file: /etc/dhcp/dhcpd.conf
+2025-05-24T07:21:38.250916+00:00 lia-server sh[885]: Database file: /var/lib/dhcp/dhcpd.leases
+2025-05-24T07:21:38.251096+00:00 lia-server sh[885]: PID file: /run/dhcp-server/dhcpd.pid
+2025-05-24T07:21:38.273286+00:00 lia-server sh[892]: No subnet6 declaration for enp0s8 (fe80::a00:27ff:fefa:2f2e).
+2025-05-24T07:21:38.273732+00:00 lia-server sh[892]: ** Ignoring requests on enp0s8.  If this is not what
+2025-05-24T07:21:38.273772+00:00 lia-server sh[892]:    you want, please write a subnet6 declaration
+2025-05-24T07:21:38.273799+00:00 lia-server sh[892]:    in your dhcpd.conf file for the network segment
+2025-05-24T07:21:38.273850+00:00 lia-server sh[892]:    to which interface enp0s8 is attached. **
+2025-05-24T07:21:38.273893+00:00 lia-server sh[892]: Not configured to listen on any interfaces!
+2025-05-24T07:21:38.273927+00:00 lia-server sh[892]: If you think you have received this message due to a bug rather
+2025-05-24T07:21:38.273954+00:00 lia-server sh[892]: than a configuration issue please read the section on submitting
+2025-05-24T07:21:38.273985+00:00 lia-server sh[892]: bugs on either our web page at www.isc.org or in the README file
+2025-05-24T07:21:38.274017+00:00 lia-server sh[892]: before submitting a bug.  These pages explain the proper
+2025-05-24T07:21:38.274042+00:00 lia-server sh[892]: process and the information we find helpful for debugging.
+2025-05-24T07:21:38.274064+00:00 lia-server sh[892]: exiting.
+2025-05-24T07:21:38.284212+00:00 lia-server sh[885]: Wrote 1 leases to leases file.
+2025-05-24T07:21:38.308017+00:00 lia-server sh[885]: Listening on LPF/enp0s8/08:00:27:fa:2f:2e/192.168.56.0/24
+2025-05-24T07:21:38.308048+00:00 lia-server sh[885]: Sending on   LPF/enp0s8/08:00:27:fa:2f:2e/192.168.56.0/24
+2025-05-24T07:21:38.308140+00:00 lia-server sh[885]: No subnet declaration for enp0s3 (10.0.2.15).
+2025-05-24T07:21:38.308168+00:00 lia-server sh[885]: ** Ignoring requests on enp0s3.  If this is not what
+2025-05-24T07:21:38.308191+00:00 lia-server sh[885]:    you want, please write a subnet declaration
+2025-05-24T07:21:38.308224+00:00 lia-server sh[885]:    in your dhcpd.conf file for the network segment
+2025-05-24T07:21:38.308250+00:00 lia-server sh[885]:    to which interface enp0s3 is attached. **
+2025-05-24T07:21:38.308274+00:00 lia-server sh[885]: Sending on   Socket/fallback/fallback-net
+2025-05-24T09:30:54.952309+00:00 lia-server sh[871]: Internet Systems Consortium DHCP Server 4.4.3-P1
+2025-05-24T09:30:54.952348+00:00 lia-server sh[871]: Copyright 2004-2022 Internet Systems Consortium.
+2025-05-24T09:30:54.952371+00:00 lia-server sh[871]: All rights reserved.
+2025-05-24T09:30:54.952395+00:00 lia-server sh[871]: For info, please visit https://www.isc.org/software/dhcp/
+2025-05-24T09:30:54.967179+00:00 lia-server sh[876]: Internet Systems Consortium DHCP Server 4.4.3-P1
+2025-05-24T09:30:54.967211+00:00 lia-server sh[876]: Copyright 2004-2022 Internet Systems Consortium.
+2025-05-24T09:30:54.967236+00:00 lia-server sh[876]: All rights reserved.
+2025-05-24T09:30:54.967260+00:00 lia-server sh[876]: For info, please visit https://www.isc.org/software/dhcp/
+2025-05-24T09:30:54.981089+00:00 lia-server sh[876]: Config file: /etc/dhcp/dhcpd6.conf
+2025-05-24T09:30:54.981117+00:00 lia-server sh[876]: Database file: /var/lib/dhcp/dhcpd6.leases
+2025-05-24T09:30:54.981270+00:00 lia-server sh[876]: PID file: /run/dhcp-server6/dhcpd6.pid
+2025-05-24T09:30:54.989351+00:00 lia-server sh[876]: Wrote 0 NA, 0 TA, 0 PD leases to lease file.
+2025-05-24T09:30:55.006502+00:00 lia-server sh[871]: Config file: /etc/dhcp/dhcpd.conf
+2025-05-24T09:30:55.006621+00:00 lia-server sh[871]: Database file: /var/lib/dhcp/dhcpd.leases
+2025-05-24T09:30:55.006647+00:00 lia-server sh[871]: PID file: /run/dhcp-server/dhcpd.pid
+2025-05-24T09:30:55.006716+00:00 lia-server sh[871]: Wrote 1 leases to leases file.
+2025-05-24T09:30:55.006814+00:00 lia-server sh[876]: No subnet6 declaration for enp0s8 (fe80::a00:27ff:fefa:2f2e).
+2025-05-24T09:30:55.006867+00:00 lia-server sh[876]: ** Ignoring requests on enp0s8.  If this is not what
+2025-05-24T09:30:55.006892+00:00 lia-server sh[876]:    you want, please write a subnet6 declaration
+2025-05-24T09:30:55.006913+00:00 lia-server sh[876]:    in your dhcpd.conf file for the network segment
+2025-05-24T09:30:55.006953+00:00 lia-server sh[876]:    to which interface enp0s8 is attached. **
+2025-05-24T09:30:55.007001+00:00 lia-server sh[876]: Not configured to listen on any interfaces!
+2025-05-24T09:30:55.007027+00:00 lia-server sh[876]: If you think you have received this message due to a bug rather
+2025-05-24T09:30:55.007074+00:00 lia-server sh[876]: than a configuration issue please read the section on submitting
+2025-05-24T09:30:55.007098+00:00 lia-server sh[876]: bugs on either our web page at www.isc.org or in the README file
+2025-05-24T09:30:55.007124+00:00 lia-server sh[876]: before submitting a bug.  These pages explain the proper
+2025-05-24T09:30:55.007156+00:00 lia-server sh[876]: process and the information we find helpful for debugging.
+2025-05-24T09:30:55.007178+00:00 lia-server sh[876]: exiting.
+2025-05-24T09:30:55.024219+00:00 lia-server sh[871]: Listening on LPF/enp0s8/08:00:27:fa:2f:2e/192.168.56.0/24
+2025-05-24T09:30:55.024326+00:00 lia-server sh[871]: Sending on   LPF/enp0s8/08:00:27:fa:2f:2e/192.168.56.0/24
+2025-05-24T09:30:55.024446+00:00 lia-server sh[871]: No subnet declaration for enp0s3 (10.0.2.15).
+2025-05-24T09:30:55.024488+00:00 lia-server sh[871]: ** Ignoring requests on enp0s3.  If this is not what
+2025-05-24T09:30:55.024507+00:00 lia-server sh[871]:    you want, please write a subnet declaration
+2025-05-24T09:30:55.024540+00:00 lia-server sh[871]:    in your dhcpd.conf file for the network segment
+2025-05-24T09:30:55.024562+00:00 lia-server sh[871]:    to which interface enp0s3 is attached. **
+2025-05-24T09:30:55.024582+00:00 lia-server sh[871]: Sending on   Socket/fallback/fallback-net
+2025-05-30T13:15:10.015303+00:00 lia-server sh[971]: Internet Systems Consortium DHCP Server 4.4.3-P1
+2025-05-30T13:15:10.015383+00:00 lia-server sh[971]: Copyright 2004-2022 Internet Systems Consortium.
+2025-05-30T13:15:10.015418+00:00 lia-server sh[971]: All rights reserved.
+2025-05-30T13:15:10.015452+00:00 lia-server sh[971]: For info, please visit https://www.isc.org/software/dhcp/
+2025-05-30T13:15:10.033412+00:00 lia-server sh[972]: Internet Systems Consortium DHCP Server 4.4.3-P1
+2025-05-30T13:15:10.033477+00:00 lia-server sh[972]: Copyright 2004-2022 Internet Systems Consortium.
+2025-05-30T13:15:10.033513+00:00 lia-server sh[972]: All rights reserved.
+2025-05-30T13:15:10.033984+00:00 lia-server sh[972]: For info, please visit https://www.isc.org/software/dhcp/
+2025-05-30T13:15:10.043006+00:00 lia-server sh[972]: Config file: /etc/dhcp/dhcpd6.conf
+2025-05-30T13:15:10.043064+00:00 lia-server sh[972]: Database file: /var/lib/dhcp/dhcpd6.leases
+2025-05-30T13:15:10.043099+00:00 lia-server sh[972]: PID file: /run/dhcp-server6/dhcpd6.pid
+2025-05-30T13:15:10.051247+00:00 lia-server sh[972]: Wrote 0 NA, 0 TA, 0 PD leases to lease file.
+2025-05-30T13:15:10.054992+00:00 lia-server sh[971]: Config file: /etc/dhcp/dhcpd.conf
+2025-05-30T13:15:10.055204+00:00 lia-server sh[971]: Database file: /var/lib/dhcp/dhcpd.leases
+2025-05-30T13:15:10.055356+00:00 lia-server sh[971]: PID file: /run/dhcp-server/dhcpd.pid
+2025-05-30T13:15:10.065011+00:00 lia-server sh[971]: Wrote 1 leases to leases file.
+2025-05-30T13:15:10.071010+00:00 lia-server sh[972]: No subnet6 declaration for enp0s8 (fe80::a00:27ff:fefa:2f2e).
+2025-05-30T13:15:10.077254+00:00 lia-server sh[972]: ** Ignoring requests on enp0s8.  If this is not what
+2025-05-30T13:15:10.077297+00:00 lia-server sh[972]:    you want, please write a subnet6 declaration
+2025-05-30T13:15:10.077328+00:00 lia-server sh[972]:    in your dhcpd.conf file for the network segment
+2025-05-30T13:15:10.077354+00:00 lia-server sh[972]:    to which interface enp0s8 is attached. **
+2025-05-30T13:15:10.077383+00:00 lia-server sh[972]: Not configured to listen on any interfaces!
+2025-05-30T13:15:10.077410+00:00 lia-server sh[972]: If you think you have received this message due to a bug rather
+2025-05-30T13:15:10.077437+00:00 lia-server sh[972]: than a configuration issue please read the section on submitting
+2025-05-30T13:15:10.077463+00:00 lia-server sh[972]: bugs on either our web page at www.isc.org or in the README file
+2025-05-30T13:15:10.077540+00:00 lia-server sh[972]: before submitting a bug.  These pages explain the proper
+2025-05-30T13:15:10.077571+00:00 lia-server sh[972]: process and the information we find helpful for debugging.
+2025-05-30T13:15:10.077652+00:00 lia-server sh[972]: exiting.
+2025-05-30T13:15:10.088072+00:00 lia-server sh[971]: Listening on LPF/enp0s8/08:00:27:fa:2f:2e/192.168.56.0/24
+2025-05-30T13:15:10.088100+00:00 lia-server sh[971]: Sending on   LPF/enp0s8/08:00:27:fa:2f:2e/192.168.56.0/24
+2025-05-30T13:15:10.088128+00:00 lia-server sh[971]: No subnet declaration for enp0s3 (10.0.2.15).
+2025-05-30T13:15:10.088812+00:00 lia-server sh[971]: ** Ignoring requests on enp0s3.  If this is not what
+2025-05-30T13:15:10.088872+00:00 lia-server sh[971]:    you want, please write a subnet declaration
+2025-05-30T13:15:10.088899+00:00 lia-server sh[971]:    in your dhcpd.conf file for the network segment
+2025-05-30T13:15:10.088924+00:00 lia-server sh[971]:    to which interface enp0s3 is attached. **
+2025-05-30T13:15:10.088951+00:00 lia-server sh[971]: Sending on   Socket/fallback/fallback-net

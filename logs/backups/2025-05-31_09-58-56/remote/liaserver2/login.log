@@ -1,0 +1,23 @@
+2025-05-21T12:35:06+00:00 liaserver2 login[823]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-05-21T12:35:06+00:00 liaserver2 login[823]: PAM adding faulty module: pam_lastlog.so
+2025-05-21T12:35:21+00:00 liaserver2 login[823]: pam_unix(login:session): session opened for user lia(uid=1000) by lia(uid=0)
+2025-05-21T17:19:35+00:00 liaserver2 login[843]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-05-21T17:19:35+00:00 liaserver2 login[843]: PAM adding faulty module: pam_lastlog.so
+2025-05-21T17:19:39+00:00 liaserver2 login[843]: pam_unix(login:auth): check pass; user unknown
+2025-05-21T17:19:39+00:00 liaserver2 login[843]: pam_unix(login:auth): authentication failure; logname=LOGIN uid=0 euid=0 tty=/dev/tty1 ruser= rhost= 
+2025-05-21T17:19:42+00:00 liaserver2 login[843]: FAILED LOGIN (1) on '/dev/tty1' FOR 'UNKNOWN', Authentication failure
+2025-05-21T17:19:42+00:00 liaserver2 login[843]: pam_unix(login:auth): check pass; user unknown
+2025-05-21T17:19:42+00:00 liaserver2 login[843]: pam_unix(login:auth): authentication failure; logname=LOGIN uid=0 euid=0 tty=/dev/tty1 ruser= rhost= 
+2025-05-21T17:19:46+00:00 liaserver2 login[843]: FAILED LOGIN (2) on '/dev/tty1' FOR 'UNKNOWN', Authentication failure
+2025-05-21T17:19:53+00:00 liaserver2 login[843]: pam_unix(login:auth): check pass; user unknown
+2025-05-21T17:19:56+00:00 liaserver2 login[843]: FAILED LOGIN (3) on '/dev/tty1' FOR 'UNKNOWN', Authentication failure
+2025-05-21T17:20:07+00:00 liaserver2 login[843]: pam_unix(login:session): session opened for user lia(uid=1000) by LOGIN(uid=0)
+2025-05-24T07:24:36+00:00 liaserver2 login[847]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-05-24T07:24:36+00:00 liaserver2 login[847]: PAM adding faulty module: pam_lastlog.so
+2025-05-24T07:24:45+00:00 liaserver2 login[847]: pam_unix(login:session): session opened for user lia(uid=1000) by lia(uid=0)
+2025-05-30T15:49:03+00:00 liaserver2 login[851]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-05-30T15:49:03+00:00 liaserver2 login[851]: PAM adding faulty module: pam_lastlog.so
+2025-05-30T15:49:12+00:00 liaserver2 login[851]: pam_unix(login:session): session opened for user lia(uid=1000) by lia(uid=0)
+2025-05-30T16:32:54+00:00 liaserver2 login[814]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-05-30T16:32:54+00:00 liaserver2 login[814]: PAM adding faulty module: pam_lastlog.so
+2025-05-30T16:33:02+00:00 liaserver2 login[814]: pam_unix(login:session): session opened for user lia(uid=1000) by lia(uid=0)

@@ -1,0 +1,55 @@
+2025-05-21T12:34:51+00:00 liaserver2 systemd-resolved[573]: Positive Trust Anchors:
+2025-05-21T12:34:51+00:00 liaserver2 systemd-resolved[573]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+2025-05-21T12:34:51+00:00 liaserver2 systemd-resolved[573]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test
+2025-05-21T12:34:51+00:00 liaserver2 systemd-resolved[573]: Using system hostname 'liaserver2'.
+2025-05-21T12:35:24+00:00 liaserver2 systemd-resolved[573]: Clock change detected. Flushing caches.
+2025-05-21T13:32:08+00:00 liaserver2 systemd-resolved[587]: Positive Trust Anchors:
+2025-05-21T13:32:08+00:00 liaserver2 systemd-resolved[587]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+2025-05-21T13:32:08+00:00 liaserver2 systemd-resolved[587]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test
+2025-05-21T13:32:08+00:00 liaserver2 systemd-resolved[587]: Using system hostname 'liaserver2'.
+2025-05-21T13:32:50+00:00 liaserver2 systemd-resolved[587]: Clock change detected. Flushing caches.
+2025-05-22T07:26:31+00:00 liaserver2 systemd-resolved[587]: Clock change detected. Flushing caches.
+2025-05-23T06:33:59+00:00 liaserver2 systemd-resolved[587]: Clock change detected. Flushing caches.
+2025-05-23T16:25:03+00:00 liaserver2 systemd-resolved[587]: Clock change detected. Flushing caches.
+2025-05-23T17:52:17+00:00 liaserver2 systemd-resolved[587]: Clock change detected. Flushing caches.
+2025-05-23T18:36:15+00:00 liaserver2 systemd-resolved[587]: Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 83.255.255.2.
+2025-05-24T07:22:08+00:00 liaserver2 systemd-resolved[578]: Clock change detected. Flushing caches.
+2025-05-24T15:48:48+00:00 liaserver2 systemd-resolved[8686]: Positive Trust Anchors:
+2025-05-24T15:48:48+00:00 liaserver2 systemd-resolved[8686]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+2025-05-24T15:48:48+00:00 liaserver2 systemd-resolved[8686]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test
+2025-05-24T15:48:48+00:00 liaserver2 systemd-resolved[8686]: Using system hostname 'liaserver2'.
+2025-05-25T13:51:50+00:00 liaserver2 systemd-resolved[8686]: Clock change detected. Flushing caches.
+2025-05-26T07:37:28+00:00 liaserver2 systemd-resolved[8686]: Clock change detected. Flushing caches.
+2025-05-26T15:06:17+00:00 liaserver2 systemd-resolved[32117]: Positive Trust Anchors:
+2025-05-26T15:06:17+00:00 liaserver2 systemd-resolved[32117]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+2025-05-26T15:06:17+00:00 liaserver2 systemd-resolved[32117]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test
+2025-05-26T15:06:17+00:00 liaserver2 systemd-resolved[32117]: Using system hostname 'liaserver2'.
+2025-05-27T03:14:26+00:00 liaserver2 systemd-resolved[32117]: Clock change detected. Flushing caches.
+2025-05-27T10:28:46+00:00 liaserver2 systemd-resolved[32117]: Clock change detected. Flushing caches.
+2025-05-28T04:39:01+00:00 liaserver2 systemd-resolved[32117]: Clock change detected. Flushing caches.
+2025-05-28T08:17:45+00:00 liaserver2 systemd-resolved[39530]: Positive Trust Anchors:
+2025-05-28T08:17:45+00:00 liaserver2 systemd-resolved[39530]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+2025-05-28T08:17:45+00:00 liaserver2 systemd-resolved[39530]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test
+2025-05-28T08:17:45+00:00 liaserver2 systemd-resolved[39530]: Using system hostname 'liaserver2'.
+2025-05-28T12:38:53+00:00 liaserver2 systemd-resolved[39530]: Clock change detected. Flushing caches.
+2025-05-30T08:20:28+00:00 liaserver2 systemd-resolved[39530]: Clock change detected. Flushing caches.
+2025-05-30T13:57:52+00:00 liaserver2 systemd-resolved[48209]: Positive Trust Anchors:
+2025-05-30T13:57:52+00:00 liaserver2 systemd-resolved[48209]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+2025-05-30T13:57:52+00:00 liaserver2 systemd-resolved[48209]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test
+2025-05-30T13:57:52+00:00 liaserver2 systemd-resolved[48209]: Using system hostname 'liaserver2'.
+2025-05-30T15:48:57+00:00 liaserver2 systemd-resolved[558]: Positive Trust Anchors:
+2025-05-30T15:48:57+00:00 liaserver2 systemd-resolved[558]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+2025-05-30T15:48:57+00:00 liaserver2 systemd-resolved[558]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test
+2025-05-30T15:48:57+00:00 liaserver2 systemd-resolved[558]: Using system hostname 'liaserver2'.
+2025-05-30T15:55:21+00:00 liaserver2 systemd-resolved[558]: Using degraded feature set TCP instead of UDP for DNS server 8.8.8.8.
+2025-05-30T15:55:31+00:00 liaserver2 systemd-resolved[558]: Using degraded feature set TCP instead of UDP for DNS server 1.1.1.1.
+2025-05-30T15:56:12+00:00 liaserver2 systemd-resolved[558]: Using degraded feature set UDP instead of TCP for DNS server 1.1.1.1.
+2025-05-30T15:56:18+00:00 liaserver2 systemd-resolved[558]: Using degraded feature set UDP instead of TCP for DNS server 8.8.8.8.
+2025-05-30T15:56:33+00:00 liaserver2 systemd-resolved[558]: Using degraded feature set TCP instead of UDP for DNS server 1.1.1.1.
+2025-05-30T16:19:06+00:00 liaserver2 systemd-resolved[558]: Clock change detected. Flushing caches.
+2025-05-30T16:32:40+00:00 liaserver2 systemd-resolved[577]: Positive Trust Anchors:
+2025-05-30T16:32:40+00:00 liaserver2 systemd-resolved[577]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+2025-05-30T16:32:40+00:00 liaserver2 systemd-resolved[577]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test
+2025-05-30T16:32:40+00:00 liaserver2 systemd-resolved[577]: Using system hostname 'liaserver2'.
+2025-05-30T16:33:11+00:00 liaserver2 systemd-resolved[577]: Clock change detected. Flushing caches.
+2025-05-31T09:20:12+00:00 liaserver2 systemd-resolved[577]: Clock change detected. Flushing caches.

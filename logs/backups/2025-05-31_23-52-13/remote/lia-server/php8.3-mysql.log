@@ -1,0 +1,6 @@
+2025-05-21T10:29:49.292394+00:00 lia-server php8.3-mysql: php_invoke mysqlnd: already enabled for PHP 8.3 apache2 sapi
+2025-05-21T10:29:49.329104+00:00 lia-server php8.3-mysql: php_invoke mysqlnd: already enabled for PHP 8.3 cli sapi
+2025-05-21T10:29:49.728339+00:00 lia-server php8.3-mysql: php_invoke mysqli: already enabled for PHP 8.3 apache2 sapi
+2025-05-21T10:29:49.764070+00:00 lia-server php8.3-mysql: php_invoke mysqli: already enabled for PHP 8.3 cli sapi
+2025-05-21T10:29:50.163169+00:00 lia-server php8.3-mysql: php_invoke pdo_mysql: already enabled for PHP 8.3 apache2 sapi
+2025-05-21T10:29:50.198944+00:00 lia-server php8.3-mysql: php_invoke pdo_mysql: already enabled for PHP 8.3 cli sapi

@@ -1,0 +1,19 @@
+2025-05-21T12:34:51+00:00 liaserver2 rsyslogd: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2312.0]
+2025-05-21T12:34:51+00:00 liaserver2 rsyslogd: rsyslogd's groupid changed to 104
+2025-05-21T12:34:51+00:00 liaserver2 rsyslogd: rsyslogd's userid changed to 103
+2025-05-21T12:34:51+00:00 liaserver2 rsyslogd: [origin software="rsyslogd" swVersion="8.2312.0" x-pid="712" x-info="https://www.rsyslog.com"] start
+2025-05-21T13:32:08+00:00 liaserver2 rsyslogd: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2312.0]
+2025-05-21T13:32:08+00:00 liaserver2 rsyslogd: rsyslogd's groupid changed to 104
+2025-05-21T13:32:08+00:00 liaserver2 rsyslogd: rsyslogd's userid changed to 103
+2025-05-21T13:32:08+00:00 liaserver2 rsyslogd: [origin software="rsyslogd" swVersion="8.2312.0" x-pid="743" x-info="https://www.rsyslog.com"] start
+2025-05-21T17:04:08+00:00 liaserver2 rsyslogd: action 'action-8-builtin:omfwd' resumed (module 'builtin:omfwd') [v8.2312.0 try https://www.rsyslog.com/e/2359 ]
+2025-05-21T17:25:01+00:00 liaserver2 rsyslogd: action 'action-8-builtin:omfwd' resumed (module 'builtin:omfwd') [v8.2312.0 try https://www.rsyslog.com/e/2359 ]
+2025-05-30T15:48:57+00:00 liaserver2 rsyslogd: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2312.0]
+2025-05-30T15:48:57+00:00 liaserver2 rsyslogd: rsyslogd's groupid changed to 104
+2025-05-30T15:48:57+00:00 liaserver2 rsyslogd: rsyslogd's userid changed to 103
+2025-05-30T15:48:57+00:00 liaserver2 rsyslogd: [origin software="rsyslogd" swVersion="8.2312.0" x-pid="741" x-info="https://www.rsyslog.com"] start
+2025-05-30T15:55:12+00:00 liaserver2 rsyslogd: action 'action-8-builtin:omfwd' resumed (module 'builtin:omfwd') [v8.2312.0 try https://www.rsyslog.com/e/2359 ]
+2025-05-30T16:32:40+00:00 liaserver2 rsyslogd: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2312.0]
+2025-05-30T16:32:40+00:00 liaserver2 rsyslogd: rsyslogd's groupid changed to 104
+2025-05-30T16:32:40+00:00 liaserver2 rsyslogd: rsyslogd's userid changed to 103
+2025-05-30T16:32:40+00:00 liaserver2 rsyslogd: [origin software="rsyslogd" swVersion="8.2312.0" x-pid="710" x-info="https://www.rsyslog.com"] start

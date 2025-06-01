@@ -1,0 +1,12 @@
+2025-05-21T10:29:51.376641+00:00 lia-server groupadd[9164]: group added to /etc/group: name=ssl-cert, GID=112
+2025-05-21T10:29:51.385062+00:00 lia-server groupadd[9164]: group added to /etc/gshadow: name=ssl-cert
+2025-05-21T10:29:51.387059+00:00 lia-server groupadd[9164]: new group: name=ssl-cert, GID=112
+2025-05-21T10:29:56.368514+00:00 lia-server groupadd[11138]: group added to /etc/group: name=zabbix, GID=113
+2025-05-21T10:29:56.376494+00:00 lia-server groupadd[11138]: group added to /etc/gshadow: name=zabbix
+2025-05-21T10:29:56.379466+00:00 lia-server groupadd[11138]: new group: name=zabbix, GID=113
+2025-05-21T10:30:00.860718+00:00 lia-server groupadd[12946]: group added to /etc/group: name=Debian-snmp, GID=114
+2025-05-21T10:30:00.868535+00:00 lia-server groupadd[12946]: group added to /etc/gshadow: name=Debian-snmp
+2025-05-21T10:30:00.870385+00:00 lia-server groupadd[12946]: new group: name=Debian-snmp, GID=114
+2025-05-21T10:40:49.899442+00:00 lia-server groupadd[15239]: group added to /etc/group: name=mysql, GID=115
+2025-05-21T10:40:49.907471+00:00 lia-server groupadd[15239]: group added to /etc/gshadow: name=mysql
+2025-05-21T10:40:49.909729+00:00 lia-server groupadd[15239]: new group: name=mysql, GID=115

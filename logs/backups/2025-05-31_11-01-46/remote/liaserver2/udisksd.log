@@ -1,0 +1,12 @@
+2025-05-21T12:34:51+00:00 liaserver2 udisksd[687]: udisks daemon version 2.10.1 starting
+2025-05-21T12:34:51+00:00 liaserver2 udisksd[687]: Error probing device: Error sending ATA command IDENTIFY PACKET DEVICE to '/dev/sr0': Unexpected sense data returned:#0120000: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#0120010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#012 (g-io-error-quark, 0)
+2025-05-21T12:34:51+00:00 liaserver2 udisksd[687]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+2025-05-21T13:32:08+00:00 liaserver2 udisksd[718]: udisks daemon version 2.10.1 starting
+2025-05-21T13:32:08+00:00 liaserver2 udisksd[718]: Error probing device: Error sending ATA command IDENTIFY PACKET DEVICE to '/dev/sr0': Unexpected sense data returned:#0120000: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#0120010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#012 (g-io-error-quark, 0)
+2025-05-21T13:32:08+00:00 liaserver2 udisksd[718]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+2025-05-30T15:48:57+00:00 liaserver2 udisksd[716]: udisks daemon version 2.10.1 starting
+2025-05-30T15:48:57+00:00 liaserver2 udisksd[716]: Error probing device: Error sending ATA command IDENTIFY PACKET DEVICE to '/dev/sr0': Unexpected sense data returned:#0120000: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#0120010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#012 (g-io-error-quark, 0)
+2025-05-30T15:48:57+00:00 liaserver2 udisksd[716]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+2025-05-30T16:32:40+00:00 liaserver2 udisksd[683]: udisks daemon version 2.10.1 starting
+2025-05-30T16:32:40+00:00 liaserver2 udisksd[683]: Error probing device: Error sending ATA command IDENTIFY PACKET DEVICE to '/dev/sr0': Unexpected sense data returned:#0120000: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#0120010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#012 (g-io-error-quark, 0)
+2025-05-30T16:32:40+00:00 liaserver2 udisksd[683]: Acquired the name org.freedesktop.UDisks2 on the system message bus

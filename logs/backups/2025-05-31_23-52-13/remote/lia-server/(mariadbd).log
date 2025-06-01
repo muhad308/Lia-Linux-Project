@@ -1,0 +1,4 @@
+2025-05-21T10:40:57.315912+00:00 lia-server (mariadbd)[15721]: mariadb.service: Referenced but unset environment variable evaluates to an empty string: MYSQLD_OPTS, _WSREP_NEW_CLUSTER
+2025-05-24T07:21:40.814123+00:00 lia-server (mariadbd)[1120]: mariadb.service: Referenced but unset environment variable evaluates to an empty string: MYSQLD_OPTS, _WSREP_NEW_CLUSTER
+2025-05-24T09:30:56.877740+00:00 lia-server (mariadbd)[1040]: mariadb.service: Referenced but unset environment variable evaluates to an empty string: MYSQLD_OPTS, _WSREP_NEW_CLUSTER
+2025-05-30T13:15:09.881227+00:00 lia-server (mariadbd)[961]: mariadb.service: Referenced but unset environment variable evaluates to an empty string: MYSQLD_OPTS, _WSREP_NEW_CLUSTER

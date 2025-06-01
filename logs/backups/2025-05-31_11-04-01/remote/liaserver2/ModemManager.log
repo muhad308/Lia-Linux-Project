@@ -1,0 +1,16 @@
+2025-05-21T12:34:51+00:00 liaserver2 ModemManager[759]: <msg> ModemManager (version 1.23.4) starting in system bus...
+2025-05-21T12:34:56+00:00 liaserver2 ModemManager[759]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+2025-05-21T12:34:56+00:00 liaserver2 ModemManager[759]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:08.0': not supported by any plugin
+2025-05-21T13:32:08+00:00 liaserver2 ModemManager[763]: <msg> ModemManager (version 1.23.4) starting in system bus...
+2025-05-21T13:32:13+00:00 liaserver2 ModemManager[763]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+2025-05-21T13:32:13+00:00 liaserver2 ModemManager[763]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:08.0': not supported by any plugin
+2025-05-24T07:21:41+00:00 liaserver2 ModemManager[816]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+2025-05-24T07:21:41+00:00 liaserver2 ModemManager[816]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:08.0': not supported by any plugin
+2025-05-30T15:48:57+00:00 liaserver2 ModemManager[779]: <msg> ModemManager (version 1.23.4) starting in system bus...
+2025-05-30T15:49:02+00:00 liaserver2 ModemManager[779]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+2025-05-30T15:49:02+00:00 liaserver2 ModemManager[779]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:08.0': not supported by any plugin
+2025-05-30T16:18:35+00:00 liaserver2 ModemManager[779]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+2025-05-30T16:18:35+00:00 liaserver2 ModemManager[779]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:08.0': not supported by any plugin
+2025-05-30T16:32:40+00:00 liaserver2 ModemManager[737]: <msg> ModemManager (version 1.23.4) starting in system bus...
+2025-05-30T16:32:44+00:00 liaserver2 ModemManager[737]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+2025-05-30T16:32:44+00:00 liaserver2 ModemManager[737]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:08.0': not supported by any plugin

@@ -1,0 +1,26 @@
+2025-05-21T09:32:26.924738+00:00 lia-server rsyslogd: [origin software="rsyslogd" swVersion="8.2312.0" x-pid="1728" x-info="https://www.rsyslog.com"] exiting on signal 15.
+2025-05-21T09:32:32.316436+00:00 lia-server rsyslogd: warning: ~ action is deprecated, consider using the 'stop' statement instead [v8.2312.0 try https://www.rsyslog.com/e/2307 ]
+2025-05-21T09:32:32.316510+00:00 lia-server rsyslogd: warning during parsing file /etc/rsyslog.conf, on or before line 54: STOP is followed by unreachable statements!  [v8.2312.0 try https://www.rsyslog.com/e/2357 ]
+2025-05-21T09:32:32.316544+00:00 lia-server rsyslogd: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2312.0]
+2025-05-21T09:32:32.316576+00:00 lia-server rsyslogd: rsyslogd's groupid changed to 104
+2025-05-21T09:32:32.316610+00:00 lia-server rsyslogd: rsyslogd's userid changed to 103
+2025-05-21T09:32:32.316643+00:00 lia-server rsyslogd: [origin software="rsyslogd" swVersion="8.2312.0" x-pid="2709" x-info="https://www.rsyslog.com"] start
+2025-05-24T09:30:55.825631+00:00 lia-server rsyslogd: warning: ~ action is deprecated, consider using the 'stop' statement instead [v8.2312.0 try https://www.rsyslog.com/e/2307 ]
+2025-05-30T13:15:08.906310+00:00 lia-server rsyslogd: warning: ~ action is deprecated, consider using the 'stop' statement instead [v8.2312.0 try https://www.rsyslog.com/e/2307 ]
+2025-05-30T13:15:08.906476+00:00 lia-server rsyslogd: warning during parsing file /etc/rsyslog.conf, on or before line 54: STOP is followed by unreachable statements!  [v8.2312.0 try https://www.rsyslog.com/e/2357 ]
+2025-05-30T13:15:08.906518+00:00 lia-server rsyslogd: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2312.0]
+2025-05-30T13:15:08.906554+00:00 lia-server rsyslogd: rsyslogd's groupid changed to 104
+2025-05-30T13:15:08.909355+00:00 lia-server rsyslogd: rsyslogd's userid changed to 103
+2025-05-30T13:15:08.909557+00:00 lia-server rsyslogd: [origin software="rsyslogd" swVersion="8.2312.0" x-pid="780" x-info="https://www.rsyslog.com"] start
+2025-05-31T09:23:16.661410+00:00 lia-server rsyslogd: [origin software="rsyslogd" swVersion="8.2312.0" x-pid="780" x-info="https://www.rsyslog.com"] exiting on signal 15.
+2025-05-31T09:23:17.053669+00:00 lia-server rsyslogd: warning during parsing file /etc/rsyslog.conf, on or before line 54: STOP is followed by unreachable statements!  [v8.2312.0 try https://www.rsyslog.com/e/2357 ]
+2025-05-31T09:23:17.053784+00:00 lia-server rsyslogd: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2312.0]
+2025-05-31T09:23:17.053839+00:00 lia-server rsyslogd: rsyslogd's groupid changed to 104
+2025-05-31T09:23:17.053881+00:00 lia-server rsyslogd: rsyslogd's userid changed to 103
+2025-05-31T09:23:17.053923+00:00 lia-server rsyslogd: [origin software="rsyslogd" swVersion="8.2312.0" x-pid="7742" x-info="https://www.rsyslog.com"] start
+2025-05-31T09:27:22.672053+00:00 lia-server rsyslogd: [origin software="rsyslogd" swVersion="8.2312.0" x-pid="7742" x-info="https://www.rsyslog.com"] exiting on signal 15.
+2025-05-31T09:27:22.978594+00:00 lia-server rsyslogd: warning during parsing file /etc/rsyslog.conf, on or before line 54: STOP is followed by unreachable statements!  [v8.2312.0 try https://www.rsyslog.com/e/2357 ]
+2025-05-31T09:27:22.978766+00:00 lia-server rsyslogd: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2312.0]
+2025-05-31T09:27:22.979338+00:00 lia-server rsyslogd: rsyslogd's groupid changed to 104
+2025-05-31T09:27:22.979455+00:00 lia-server rsyslogd: rsyslogd's userid changed to 103
+2025-05-31T09:27:22.979512+00:00 lia-server rsyslogd: [origin software="rsyslogd" swVersion="8.2312.0" x-pid="8027" x-info="https://www.rsyslog.com"] start

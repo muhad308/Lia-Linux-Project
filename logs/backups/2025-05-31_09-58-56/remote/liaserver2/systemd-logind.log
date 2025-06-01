@@ -1,0 +1,72 @@
+2025-05-21T12:34:51+00:00 liaserver2 systemd-logind[685]: New seat seat0.
+2025-05-21T12:34:51+00:00 liaserver2 systemd-logind[685]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-21T12:34:51+00:00 liaserver2 systemd-logind[685]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-21T12:34:51+00:00 liaserver2 systemd-logind[685]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-21T12:35:21+00:00 liaserver2 systemd-logind[685]: New session 2 of user lia.
+2025-05-21T12:42:20+00:00 liaserver2 systemd-logind[685]: New session 4 of user lia.
+2025-05-21T13:31:05+00:00 liaserver2 systemd-logind[685]: Session 4 logged out. Waiting for processes to exit.
+2025-05-21T13:31:05+00:00 liaserver2 systemd-logind[685]: Removed session 4.
+2025-05-21T13:32:08+00:00 liaserver2 systemd-logind[716]: New seat seat0.
+2025-05-21T13:32:08+00:00 liaserver2 systemd-logind[716]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-21T13:32:08+00:00 liaserver2 systemd-logind[716]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-21T13:32:08+00:00 liaserver2 systemd-logind[716]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-21T13:32:39+00:00 liaserver2 systemd-logind[716]: New session 1 of user lia.
+2025-05-21T17:04:11+00:00 liaserver2 systemd-logind[716]: Session 1 logged out. Waiting for processes to exit.
+2025-05-21T17:04:11+00:00 liaserver2 systemd-logind[716]: Removed session 1.
+2025-05-21T17:04:45+00:00 liaserver2 systemd-logind[716]: New session 4 of user lia.
+2025-05-21T17:20:07+00:00 liaserver2 systemd-logind[716]: New session 9 of user lia.
+2025-05-22T06:44:15+00:00 liaserver2 systemd-logind[716]: Session 4 logged out. Waiting for processes to exit.
+2025-05-22T06:44:15+00:00 liaserver2 systemd-logind[716]: Removed session 4.
+2025-05-22T08:15:36+00:00 liaserver2 systemd-logind[716]: New session 33 of user lia.
+2025-05-22T18:24:39+00:00 liaserver2 systemd-logind[716]: Session 33 logged out. Waiting for processes to exit.
+2025-05-22T18:24:39+00:00 liaserver2 systemd-logind[716]: Removed session 33.
+2025-05-22T18:26:23+00:00 liaserver2 systemd-logind[716]: New session 50 of user lia.
+2025-05-23T07:47:51+00:00 liaserver2 systemd-logind[716]: New session 60 of user lia.
+2025-05-23T07:53:27+00:00 liaserver2 systemd-logind[716]: Session 50 logged out. Waiting for processes to exit.
+2025-05-23T07:53:27+00:00 liaserver2 systemd-logind[716]: Removed session 50.
+2025-05-23T17:51:26+00:00 liaserver2 systemd-logind[716]: Session 60 logged out. Waiting for processes to exit.
+2025-05-23T17:51:26+00:00 liaserver2 systemd-logind[716]: Removed session 60.
+2025-05-23T18:36:00+00:00 liaserver2 systemd-logind[716]: New session 79 of user lia.
+2025-05-24T07:24:45+00:00 liaserver2 systemd-logind[719]: New session 1 of user lia.
+2025-05-24T07:25:42+00:00 liaserver2 systemd-logind[719]: New session 4 of user lia.
+2025-05-24T12:24:30+00:00 liaserver2 systemd-logind[719]: Session 4 logged out. Waiting for processes to exit.
+2025-05-24T12:24:30+00:00 liaserver2 systemd-logind[719]: Removed session 4.
+2025-05-24T15:48:48+00:00 liaserver2 systemd-logind[8682]: New seat seat0.
+2025-05-24T15:48:48+00:00 liaserver2 systemd-logind[8682]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-24T15:48:48+00:00 liaserver2 systemd-logind[8682]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-24T15:48:48+00:00 liaserver2 systemd-logind[8682]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-24T15:48:48+00:00 liaserver2 systemd-logind[8682]: New session 1 of user lia.
+2025-05-25T15:31:18+00:00 liaserver2 systemd-logind[8682]: New session 72 of user lia.
+2025-05-25T21:17:40+00:00 liaserver2 systemd-logind[8682]: Session 72 logged out. Waiting for processes to exit.
+2025-05-25T21:17:40+00:00 liaserver2 systemd-logind[8682]: Removed session 72.
+2025-05-26T15:06:17+00:00 liaserver2 systemd-logind[32132]: New seat seat0.
+2025-05-26T15:06:17+00:00 liaserver2 systemd-logind[32132]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-26T15:06:17+00:00 liaserver2 systemd-logind[32132]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-26T15:06:17+00:00 liaserver2 systemd-logind[32132]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-26T15:06:17+00:00 liaserver2 systemd-logind[32132]: New session 1 of user lia.
+2025-05-28T08:04:28+00:00 liaserver2 systemd-logind[32132]: New session 194 of user lia.
+2025-05-28T08:17:37+00:00 liaserver2 systemd-logind[32132]: Session 194 logged out. Waiting for processes to exit.
+2025-05-28T08:17:37+00:00 liaserver2 systemd-logind[32132]: Removed session 194.
+2025-05-30T13:57:52+00:00 liaserver2 systemd-logind[48222]: New seat seat0.
+2025-05-30T13:57:52+00:00 liaserver2 systemd-logind[48222]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-30T13:57:52+00:00 liaserver2 systemd-logind[48222]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-30T13:57:52+00:00 liaserver2 systemd-logind[48222]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-30T13:57:52+00:00 liaserver2 systemd-logind[48222]: New session 1 of user lia.
+2025-05-30T15:43:47+00:00 liaserver2 systemd-logind[48222]: New session 248 of user lia.
+2025-05-30T15:48:57+00:00 liaserver2 systemd-logind[715]: New seat seat0.
+2025-05-30T15:48:57+00:00 liaserver2 systemd-logind[715]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-30T15:48:57+00:00 liaserver2 systemd-logind[715]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-30T15:48:57+00:00 liaserver2 systemd-logind[715]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-30T15:49:12+00:00 liaserver2 systemd-logind[715]: New session 1 of user lia.
+2025-05-30T16:13:19+00:00 liaserver2 systemd-logind[715]: New session 5 of user lia.
+2025-05-30T16:32:40+00:00 liaserver2 systemd-logind[681]: New seat seat0.
+2025-05-30T16:32:40+00:00 liaserver2 systemd-logind[681]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-30T16:32:40+00:00 liaserver2 systemd-logind[681]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-30T16:32:40+00:00 liaserver2 systemd-logind[681]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-30T16:33:02+00:00 liaserver2 systemd-logind[681]: New session 1 of user lia.
+2025-05-30T16:59:13+00:00 liaserver2 systemd-logind[681]: New session 6 of user lia.
+2025-05-30T17:31:32+00:00 liaserver2 systemd-logind[681]: New session 11 of user lia.
+2025-05-30T17:34:44+00:00 liaserver2 systemd-logind[681]: Session 11 logged out. Waiting for processes to exit.
+2025-05-30T17:34:44+00:00 liaserver2 systemd-logind[681]: Removed session 11.
+2025-05-30T22:42:47+00:00 liaserver2 systemd-logind[681]: Session 6 logged out. Waiting for processes to exit.
+2025-05-30T22:42:47+00:00 liaserver2 systemd-logind[681]: Removed session 6.

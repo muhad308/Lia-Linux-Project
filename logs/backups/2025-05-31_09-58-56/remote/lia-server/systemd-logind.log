@@ -1,0 +1,121 @@
+2025-05-21T11:59:15.329369+00:00 lia-server systemd-logind[789]: Session 18 logged out. Waiting for processes to exit.
+2025-05-21T11:59:15.334112+00:00 lia-server systemd-logind[789]: Removed session 18.
+2025-05-21T12:00:08.465301+00:00 lia-server systemd-logind[789]: New session 43 of user muhad308.
+2025-05-21T12:41:44.833691+00:00 lia-server systemd-logind[789]: Session 43 logged out. Waiting for processes to exit.
+2025-05-21T12:41:44.836952+00:00 lia-server systemd-logind[789]: Removed session 43.
+2025-05-21T18:43:28.754543+00:00 lia-server systemd-logind[789]: New session 76 of user muhad308.
+2025-05-22T07:29:13.083540+00:00 lia-server systemd-logind[789]: New session 88 of user muhad308.
+2025-05-22T07:39:53.739819+00:00 lia-server systemd-logind[789]: Session 76 logged out. Waiting for processes to exit.
+2025-05-22T07:39:53.742752+00:00 lia-server systemd-logind[789]: Removed session 76.
+2025-05-22T18:24:36.841291+00:00 lia-server systemd-logind[789]: Session 88 logged out. Waiting for processes to exit.
+2025-05-22T18:24:36.841587+00:00 lia-server systemd-logind[789]: Removed session 88.
+2025-05-22T18:25:36.926677+00:00 lia-server systemd-logind[789]: New session 115 of user muhad308.
+2025-05-23T17:51:56.747947+00:00 lia-server systemd-logind[26612]: New seat seat0.
+2025-05-23T17:51:56.835261+00:00 lia-server systemd-logind[26612]: Session enumeration failed: No such process
+2025-05-23T17:51:56.912057+00:00 lia-server systemd-logind[26612]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-23T17:51:56.924069+00:00 lia-server systemd-logind[26612]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-23T17:51:56.981844+00:00 lia-server systemd-logind[26612]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-23T17:51:57.239300+00:00 lia-server systemd-logind[26612]: New session 3 of user muhad308.
+2025-05-23T18:13:16.160643+00:00 lia-server systemd-logind[26612]: New session 146 of user muhad308.
+2025-05-24T07:21:39.509024+00:00 lia-server systemd-logind[809]: New seat seat0.
+2025-05-24T07:21:39.509029+00:00 lia-server systemd-logind[809]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-24T07:21:39.509034+00:00 lia-server systemd-logind[809]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-24T07:21:39.509038+00:00 lia-server systemd-logind[809]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-24T07:24:10.036506+00:00 lia-server systemd-logind[809]: New session 1 of user muhad308.
+2025-05-24T07:26:46.568951+00:00 lia-server systemd-logind[809]: New session 4 of user muhad308.
+2025-05-24T09:26:29.450515+00:00 lia-server systemd-logind[809]: Session 4 logged out. Waiting for processes to exit.
+2025-05-24T09:26:29.452636+00:00 lia-server systemd-logind[809]: Removed session 4.
+2025-05-24T09:30:55.945205+00:00 lia-server systemd-logind[792]: New seat seat0.
+2025-05-24T09:30:55.945220+00:00 lia-server systemd-logind[792]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-24T09:30:55.945226+00:00 lia-server systemd-logind[792]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-24T09:30:55.945238+00:00 lia-server systemd-logind[792]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-24T09:31:17.906764+00:00 lia-server systemd-logind[792]: New session 1 of user muhad308.
+2025-05-24T09:31:58.381911+00:00 lia-server systemd-logind[792]: New session 3 of user muhad308.
+2025-05-24T12:24:25.715179+00:00 lia-server systemd-logind[792]: Session 3 logged out. Waiting for processes to exit.
+2025-05-24T12:24:25.716756+00:00 lia-server systemd-logind[792]: Removed session 3.
+2025-05-24T16:04:14.854649+00:00 lia-server systemd-logind[792]: New session 43 of user muhad308.
+2025-05-25T00:10:28.067188+00:00 lia-server systemd-logind[792]: Session 43 logged out. Waiting for processes to exit.
+2025-05-25T00:10:28.067276+00:00 lia-server systemd-logind[792]: Removed session 43.
+2025-05-25T14:13:19.576929+00:00 lia-server systemd-logind[792]: New session 61 of user muhad308.
+2025-05-25T14:15:29.088950+00:00 lia-server systemd-logind[792]: Session 61 logged out. Waiting for processes to exit.
+2025-05-25T14:15:59.515543+00:00 lia-server systemd-logind[792]: New session 63 of user muhad308.
+2025-05-25T15:44:08.604036+00:00 lia-server systemd-logind[792]: New session 77 of user muhad308.
+2025-05-25T15:44:09.175046+00:00 lia-server systemd-logind[792]: Session 77 logged out. Waiting for processes to exit.
+2025-05-25T15:44:09.176899+00:00 lia-server systemd-logind[792]: Removed session 77.
+2025-05-25T16:10:41.956639+00:00 lia-server systemd-logind[792]: New session 82 of user muhad308.
+2025-05-25T16:10:42.489860+00:00 lia-server systemd-logind[792]: Session 82 logged out. Waiting for processes to exit.
+2025-05-25T16:10:42.490595+00:00 lia-server systemd-logind[792]: Removed session 82.
+2025-05-25T16:43:32.526097+00:00 lia-server systemd-logind[792]: New session 88 of user muhad308.
+2025-05-25T16:43:33.050693+00:00 lia-server systemd-logind[792]: Session 88 logged out. Waiting for processes to exit.
+2025-05-25T16:43:33.052116+00:00 lia-server systemd-logind[792]: Removed session 88.
+2025-05-25T16:44:44.016982+00:00 lia-server systemd-logind[792]: New session 89 of user muhad308.
+2025-05-25T16:44:44.545171+00:00 lia-server systemd-logind[792]: Session 89 logged out. Waiting for processes to exit.
+2025-05-25T16:44:44.547004+00:00 lia-server systemd-logind[792]: Removed session 89.
+2025-05-25T17:14:36.507836+00:00 lia-server systemd-logind[792]: New session 94 of user muhad308.
+2025-05-25T17:14:37.040615+00:00 lia-server systemd-logind[792]: Session 94 logged out. Waiting for processes to exit.
+2025-05-25T17:14:37.041922+00:00 lia-server systemd-logind[792]: Removed session 94.
+2025-05-25T17:18:43.936884+00:00 lia-server systemd-logind[792]: New session 97 of user muhad308.
+2025-05-25T17:18:44.466659+00:00 lia-server systemd-logind[792]: Session 97 logged out. Waiting for processes to exit.
+2025-05-25T17:18:44.467947+00:00 lia-server systemd-logind[792]: Removed session 97.
+2025-05-25T17:19:03.271457+00:00 lia-server systemd-logind[792]: New session 98 of user muhad308.
+2025-05-25T17:19:03.400690+00:00 lia-server systemd-logind[792]: Session 98 logged out. Waiting for processes to exit.
+2025-05-25T17:19:03.402224+00:00 lia-server systemd-logind[792]: Removed session 98.
+2025-05-25T17:21:05.837228+00:00 lia-server systemd-logind[792]: New session 99 of user muhad308.
+2025-05-25T17:58:01.091769+00:00 lia-server systemd-logind[792]: Session 99 logged out. Waiting for processes to exit.
+2025-05-25T17:58:01.093583+00:00 lia-server systemd-logind[792]: Removed session 99.
+2025-05-25T21:17:35.508777+00:00 lia-server systemd-logind[792]: Session 63 logged out. Waiting for processes to exit.
+2025-05-25T21:17:35.510462+00:00 lia-server systemd-logind[792]: Removed session 63.
+2025-05-26T15:06:23.937473+00:00 lia-server systemd-logind[22385]: New seat seat0.
+2025-05-26T15:06:23.938420+00:00 lia-server systemd-logind[22385]: Session enumeration failed: No such process
+2025-05-26T15:06:23.938747+00:00 lia-server systemd-logind[22385]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-26T15:06:23.938877+00:00 lia-server systemd-logind[22385]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-26T15:06:23.938980+00:00 lia-server systemd-logind[22385]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-26T15:06:23.939081+00:00 lia-server systemd-logind[22385]: New session 1 of user muhad308.
+2025-05-26T19:10:04.652105+00:00 lia-server systemd-logind[22571]: New seat seat0.
+2025-05-26T19:10:04.652732+00:00 lia-server systemd-logind[22571]: Session enumeration failed: No such process
+2025-05-26T19:10:04.652886+00:00 lia-server systemd-logind[22571]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-26T19:10:04.652984+00:00 lia-server systemd-logind[22571]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-26T19:10:04.653104+00:00 lia-server systemd-logind[22571]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-26T19:10:04.659248+00:00 lia-server systemd-logind[22571]: New session 1 of user muhad308.
+2025-05-28T08:05:24.513827+00:00 lia-server systemd-logind[22571]: New session 240 of user muhad308.
+2025-05-28T08:17:41.506743+00:00 lia-server systemd-logind[22571]: Session 240 logged out. Waiting for processes to exit.
+2025-05-28T08:17:41.507012+00:00 lia-server systemd-logind[22571]: Removed session 240.
+2025-05-30T09:15:54.189564+00:00 lia-server systemd-logind[22571]: Session 1 logged out. Waiting for processes to exit.
+2025-05-30T09:15:54.206461+00:00 lia-server systemd-logind[22571]: Removed session 1.
+2025-05-30T09:16:05.209934+00:00 lia-server systemd-logind[22571]: New session 266 of user muhad308.
+2025-05-30T09:20:40.467518+00:00 lia-server systemd-logind[22571]: New session 268 of user muhad308.
+2025-05-30T10:30:46.567544+00:00 lia-server systemd-logind[22571]: Session 268 logged out. Waiting for processes to exit.
+2025-05-30T10:30:46.568874+00:00 lia-server systemd-logind[22571]: Removed session 268.
+2025-05-30T12:02:30.476314+00:00 lia-server systemd-logind[22571]: Session 266 logged out. Waiting for processes to exit.
+2025-05-30T12:02:30.489825+00:00 lia-server systemd-logind[22571]: Removed session 266.
+2025-05-30T12:02:43.204248+00:00 lia-server systemd-logind[22571]: New session 281 of user muhad308.
+2025-05-30T12:36:29.998785+00:00 lia-server systemd-logind[22571]: New session 288 of user muhad308.
+2025-05-30T13:14:34.866681+00:00 lia-server systemd-logind[22571]: The system will reboot now!
+2025-05-30T13:15:05.087850+00:00 lia-server systemd-logind[22571]: Delay lock is active (UID 0/root, PID 939/unattended-upgr) but inhibitor timeout is reached.
+2025-05-30T13:15:05.088013+00:00 lia-server systemd-logind[22571]: System is rebooting.
+2025-05-30T13:15:08.936936+00:00 lia-server systemd-logind[766]: New seat seat0.
+2025-05-30T13:15:08.936956+00:00 lia-server systemd-logind[766]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-30T13:15:08.936962+00:00 lia-server systemd-logind[766]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-30T13:15:08.936967+00:00 lia-server systemd-logind[766]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-30T13:15:25.592534+00:00 lia-server systemd-logind[766]: New session 1 of user muhad308.
+2025-05-30T13:21:32.284909+00:00 lia-server systemd-logind[766]: New session 4 of user muhad308.
+2025-05-30T13:57:53.015394+00:00 lia-server systemd-logind[2074]: New seat seat0.
+2025-05-30T13:57:53.042457+00:00 lia-server systemd-logind[2074]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-30T13:57:53.043364+00:00 lia-server systemd-logind[2074]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-30T13:57:53.049580+00:00 lia-server systemd-logind[2074]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-30T13:57:53.067737+00:00 lia-server systemd-logind[2074]: New session 4 of user muhad308.
+2025-05-30T13:57:53.067933+00:00 lia-server systemd-logind[2074]: New session 1 of user muhad308.
+2025-05-30T14:19:54.027459+00:00 lia-server systemd-logind[2193]: New seat seat0.
+2025-05-30T14:19:54.030611+00:00 lia-server systemd-logind[2193]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-05-30T14:19:54.030737+00:00 lia-server systemd-logind[2193]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-05-30T14:19:54.032189+00:00 lia-server systemd-logind[2193]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-05-30T14:19:54.037564+00:00 lia-server systemd-logind[2193]: New session 1 of user muhad308.
+2025-05-30T14:19:54.042229+00:00 lia-server systemd-logind[2193]: New session 4 of user muhad308.
+2025-05-30T15:24:30.419219+00:00 lia-server systemd-logind[2193]: New session 19 of user muhad308.
+2025-05-30T17:24:54.210098+00:00 lia-server systemd-logind[2193]: Session 4 logged out. Waiting for processes to exit.
+2025-05-30T17:24:54.213780+00:00 lia-server systemd-logind[2193]: Removed session 4.
+2025-05-30T22:42:49.377760+00:00 lia-server systemd-logind[2193]: Session 19 logged out. Waiting for processes to exit.
+2025-05-30T22:42:49.377978+00:00 lia-server systemd-logind[2193]: Removed session 19.
+2025-05-30T22:51:03.717022+00:00 lia-server systemd-logind[2193]: New session 51 of user muhad308.
+2025-05-30T22:53:46.580347+00:00 lia-server systemd-logind[2193]: New session 52 of user muhad308.
+2025-05-31T09:26:10.155628+00:00 lia-server systemd-logind[2193]: New session 59 of user muhad308.

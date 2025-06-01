@@ -1,0 +1,2 @@
+2025-05-21T10:29:51.101037+00:00 lia-server php8.3-readline: php_invoke readline: already enabled for PHP 8.3 apache2 sapi
+2025-05-21T10:29:51.138030+00:00 lia-server php8.3-readline: php_invoke readline: already enabled for PHP 8.3 cli sapi

@@ -1,0 +1,12 @@
+2025-05-21T10:29:53.941073+00:00 lia-server php8.3-xml: php_invoke dom: already enabled for PHP 8.3 apache2 sapi
+2025-05-21T10:29:53.975649+00:00 lia-server php8.3-xml: php_invoke dom: already enabled for PHP 8.3 cli sapi
+2025-05-21T10:29:54.413624+00:00 lia-server php8.3-xml: php_invoke simplexml: already enabled for PHP 8.3 apache2 sapi
+2025-05-21T10:29:54.447993+00:00 lia-server php8.3-xml: php_invoke simplexml: already enabled for PHP 8.3 cli sapi
+2025-05-21T10:29:54.845343+00:00 lia-server php8.3-xml: php_invoke xml: already enabled for PHP 8.3 apache2 sapi
+2025-05-21T10:29:54.883550+00:00 lia-server php8.3-xml: php_invoke xml: already enabled for PHP 8.3 cli sapi
+2025-05-21T10:29:55.283368+00:00 lia-server php8.3-xml: php_invoke xmlreader: already enabled for PHP 8.3 apache2 sapi
+2025-05-21T10:29:55.325983+00:00 lia-server php8.3-xml: php_invoke xmlreader: already enabled for PHP 8.3 cli sapi
+2025-05-21T10:29:55.724599+00:00 lia-server php8.3-xml: php_invoke xmlwriter: already enabled for PHP 8.3 apache2 sapi
+2025-05-21T10:29:55.759458+00:00 lia-server php8.3-xml: php_invoke xmlwriter: already enabled for PHP 8.3 cli sapi
+2025-05-21T10:29:56.162564+00:00 lia-server php8.3-xml: php_invoke xsl: already enabled for PHP 8.3 apache2 sapi
+2025-05-21T10:29:56.207505+00:00 lia-server php8.3-xml: php_invoke xsl: already enabled for PHP 8.3 cli sapi

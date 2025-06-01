@@ -1,0 +1,20 @@
+2025-05-21T12:34:51+00:00 liaserver2 polkitd[676]: Started polkitd version 124
+2025-05-21T12:34:50+00:00 liaserver2 polkitd[676]: Loading rules from directory /etc/polkit-1/rules.d
+2025-05-21T12:34:50+00:00 liaserver2 polkitd[676]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-05-21T12:34:50+00:00 liaserver2 polkitd[676]: Finished loading, compiling and executing 6 rules
+2025-05-21T12:34:50+00:00 liaserver2 polkitd[676]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-05-21T13:32:08+00:00 liaserver2 polkitd[707]: Started polkitd version 124
+2025-05-21T13:32:08+00:00 liaserver2 polkitd[707]: Loading rules from directory /etc/polkit-1/rules.d
+2025-05-21T13:32:08+00:00 liaserver2 polkitd[707]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-05-21T13:32:08+00:00 liaserver2 polkitd[707]: Finished loading, compiling and executing 6 rules
+2025-05-21T13:32:08+00:00 liaserver2 polkitd[707]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-05-30T15:48:57+00:00 liaserver2 polkitd[707]: Started polkitd version 124
+2025-05-30T15:48:57+00:00 liaserver2 polkitd[707]: Loading rules from directory /etc/polkit-1/rules.d
+2025-05-30T15:48:57+00:00 liaserver2 polkitd[707]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-05-30T15:48:57+00:00 liaserver2 polkitd[707]: Finished loading, compiling and executing 6 rules
+2025-05-30T15:48:57+00:00 liaserver2 polkitd[707]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-05-30T16:32:40+00:00 liaserver2 polkitd[673]: Started polkitd version 124
+2025-05-30T16:32:40+00:00 liaserver2 polkitd[673]: Loading rules from directory /etc/polkit-1/rules.d
+2025-05-30T16:32:40+00:00 liaserver2 polkitd[673]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-05-30T16:32:40+00:00 liaserver2 polkitd[673]: Finished loading, compiling and executing 6 rules
+2025-05-30T16:32:40+00:00 liaserver2 polkitd[673]: Acquired the name org.freedesktop.PolicyKit1 on the system bus

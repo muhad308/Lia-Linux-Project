@@ -1,0 +1,23 @@
+2025-05-24T07:21:38.207480+00:00 lia-server ModemManager[880]: <msg> ModemManager (version 1.23.4) starting in system bus...
+2025-05-24T07:21:43.632382+00:00 lia-server ModemManager[880]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+2025-05-24T07:21:43.637970+00:00 lia-server ModemManager[880]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:08.0': not supported by any plugin
+2025-05-24T07:21:43.645471+00:00 lia-server ModemManager[880]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:09.0': not supported by any plugin
+2025-05-24T09:30:55.023015+00:00 lia-server ModemManager[862]: <msg> ModemManager (version 1.23.4) starting in system bus...
+2025-05-24T09:31:00.067588+00:00 lia-server ModemManager[862]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+2025-05-24T09:31:00.067815+00:00 lia-server ModemManager[862]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:08.0': not supported by any plugin
+2025-05-24T09:31:00.067873+00:00 lia-server ModemManager[862]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:09.0': not supported by any plugin
+2025-05-30T13:15:05.276791+00:00 lia-server ModemManager[862]: <msg> caught signal, shutting down...
+2025-05-30T13:15:05.284684+00:00 lia-server ModemManager[862]: <msg> ModemManager is shut down
+2025-05-30T13:15:09.347698+00:00 lia-server ModemManager[859]: <msg> ModemManager (version 1.23.4) starting in system bus...
+2025-05-30T13:15:13.896014+00:00 lia-server ModemManager[859]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+2025-05-30T13:15:13.896364+00:00 lia-server ModemManager[859]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:08.0': not supported by any plugin
+2025-05-30T13:15:13.896513+00:00 lia-server ModemManager[859]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:09.0': not supported by any plugin
+2025-05-30T15:38:00.162027+00:00 lia-server ModemManager[859]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+2025-05-30T15:38:00.162493+00:00 lia-server ModemManager[859]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:09.0': not supported by any plugin
+2025-05-30T15:38:00.162824+00:00 lia-server ModemManager[859]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:08.0': not supported by any plugin
+2025-05-30T15:41:47.856460+00:00 lia-server ModemManager[859]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+2025-05-30T15:41:47.858103+00:00 lia-server ModemManager[859]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:08.0': not supported by any plugin
+2025-05-30T15:41:47.858296+00:00 lia-server ModemManager[859]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:09.0': not supported by any plugin
+2025-05-30T16:10:43.246556+00:00 lia-server ModemManager[859]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+2025-05-30T16:10:43.246727+00:00 lia-server ModemManager[859]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:08.0': not supported by any plugin
+2025-05-30T16:10:43.246775+00:00 lia-server ModemManager[859]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:09.0': not supported by any plugin

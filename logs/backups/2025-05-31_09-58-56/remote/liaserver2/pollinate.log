@@ -1,0 +1,4 @@
+2025-05-21T12:34:52+00:00 liaserver2 pollinate[776]: client sent challenge to [https://entropy.ubuntu.com/]
+2025-05-21T12:34:52+00:00 liaserver2 pollinate[776]: client verified challenge/response with [https://entropy.ubuntu.com/]
+2025-05-21T12:34:52+00:00 liaserver2 pollinate[776]: client hashed response from [https://entropy.ubuntu.com/]
+2025-05-21T12:34:52+00:00 liaserver2 pollinate[776]: client successfully seeded [/dev/urandom]

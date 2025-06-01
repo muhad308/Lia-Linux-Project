@@ -1,0 +1,10 @@
+2025-05-24T07:21:39.508859+00:00 lia-server udisksd[820]: udisks daemon version 2.10.1 starting
+2025-05-24T07:21:39.544595+00:00 lia-server udisksd[820]: Error probing device: Error sending ATA command IDENTIFY PACKET DEVICE to '/dev/sr0': Unexpected sense data returned:#0120000: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#0120010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#012 (g-io-error-quark, 0)
+2025-05-24T07:21:39.544647+00:00 lia-server udisksd[820]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+2025-05-24T07:21:38.842322+00:00 lia-server udisksd[820]: Error getting 'loop0' information: Failed to get backing file of the device loop0: Failed to read from file “/sys/class/block/loop0/loop/backing_file”: No such device (g-bd-loop-error-quark, 1)
+2025-05-24T09:30:55.889360+00:00 lia-server udisksd[796]: udisks daemon version 2.10.1 starting
+2025-05-24T09:30:54.716736+00:00 lia-server udisksd[796]: Error probing device: Error sending ATA command IDENTIFY PACKET DEVICE to '/dev/sr0': Unexpected sense data returned:#0120000: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#0120010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#012 (g-io-error-quark, 0)
+2025-05-24T09:30:54.887241+00:00 lia-server udisksd[796]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+2025-05-30T13:15:08.936902+00:00 lia-server udisksd[770]: udisks daemon version 2.10.1 starting
+2025-05-30T13:15:09.058756+00:00 lia-server udisksd[770]: Error probing device: Error sending ATA command IDENTIFY PACKET DEVICE to '/dev/sr0': Unexpected sense data returned:#0120000: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#0120010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................#012 (g-io-error-quark, 0)
+2025-05-30T13:15:09.256823+00:00 lia-server udisksd[770]: Acquired the name org.freedesktop.UDisks2 on the system message bus

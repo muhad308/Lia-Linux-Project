@@ -1,0 +1,823 @@
+2025-05-21T17:03:36.851797+00:00 lia-server named[779]: timed out resolving 'ntp.ubuntu.com/A/IN': 8.8.8.8#53
+2025-05-21T17:03:36.859988+00:00 lia-server named[779]: timed out resolving 'ntp.ubuntu.com/AAAA/IN': 8.8.8.8#53
+2025-05-21T17:03:38.077257+00:00 lia-server named[779]: timed out resolving 'ntp.ubuntu.com/A/IN': 1.1.1.1#53
+2025-05-21T17:03:38.077834+00:00 lia-server named[779]: timed out resolving 'ntp.ubuntu.com/AAAA/IN': 1.1.1.1#53
+2025-05-21T17:03:38.077962+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:dc3::35#53
+2025-05-21T17:03:38.078063+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:dc3::35#53
+2025-05-21T17:03:38.078153+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:a8::e#53
+2025-05-21T17:03:38.078532+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:a8::e#53
+2025-05-21T17:03:38.079590+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:2f::f#53
+2025-05-21T17:03:38.079678+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:2f::f#53
+2025-05-21T17:03:38.079725+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:503:ba3e::2:30#53
+2025-05-21T17:03:38.079766+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:503:ba3e::2:30#53
+2025-05-21T17:03:38.079809+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:7fe::53#53
+2025-05-21T17:03:38.079844+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:7fe::53#53
+2025-05-21T17:03:38.079887+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:2::c#53
+2025-05-21T17:03:38.079923+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:2::c#53
+2025-05-21T17:03:38.079964+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:2d::d#53
+2025-05-21T17:03:38.080005+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:2d::d#53
+2025-05-21T17:03:38.080042+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:7fd::1#53
+2025-05-21T17:03:38.080083+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:7fd::1#53
+2025-05-21T17:03:38.080124+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:9f::42#53
+2025-05-21T17:03:38.080167+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:9f::42#53
+2025-05-21T17:03:38.080219+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2801:1b8:10::b#53
+2025-05-21T17:03:38.080260+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2801:1b8:10::b#53
+2025-05-21T17:03:38.080305+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:503:c27::2:30#53
+2025-05-21T17:03:38.080344+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:503:c27::2:30#53
+2025-05-21T17:03:38.080383+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:1::53#53
+2025-05-21T17:03:38.080422+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:1::53#53
+2025-05-21T17:03:38.080464+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/A/IN': 2001:500:12::d0d#53
+2025-05-21T17:03:38.080504+00:00 lia-server named[779]: network unreachable resolving 'ntp.ubuntu.com/AAAA/IN': 2001:500:12::d0d#53
+2025-05-21T17:03:41.350574+00:00 lia-server named[779]: timed out resolving 'cdn.fwupd.org/A/IN': 1.1.1.1#53
+2025-05-21T17:03:41.361020+00:00 lia-server named[779]: timed out resolving 'cdn.fwupd.org/AAAA/IN': 1.1.1.1#53
+2025-05-21T17:03:42.565775+00:00 lia-server named[779]: timed out resolving 'cdn.fwupd.org/A/IN': 8.8.8.8#53
+2025-05-21T17:03:42.566062+00:00 lia-server named[779]: timed out resolving 'cdn.fwupd.org/AAAA/IN': 8.8.8.8#53
+2025-05-21T17:03:42.566117+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/A/IN': 2001:dc3::35#53
+2025-05-21T17:03:42.566170+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/AAAA/IN': 2001:dc3::35#53
+2025-05-21T17:03:42.566220+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/A/IN': 2001:500:a8::e#53
+2025-05-21T17:03:42.566271+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/AAAA/IN': 2001:500:a8::e#53
+2025-05-21T17:03:42.566323+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/A/IN': 2001:500:2f::f#53
+2025-05-21T17:03:42.566374+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/AAAA/IN': 2001:500:2f::f#53
+2025-05-21T17:03:42.566423+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/A/IN': 2001:503:ba3e::2:30#53
+2025-05-21T17:03:42.566472+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/AAAA/IN': 2001:503:ba3e::2:30#53
+2025-05-21T17:03:42.566539+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/A/IN': 2001:7fe::53#53
+2025-05-21T17:03:42.566590+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/AAAA/IN': 2001:7fe::53#53
+2025-05-21T17:03:42.566639+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/A/IN': 2001:500:2::c#53
+2025-05-21T17:03:42.566691+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/AAAA/IN': 2001:500:2::c#53
+2025-05-21T17:03:42.566744+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/A/IN': 2001:500:2d::d#53
+2025-05-21T17:03:42.567135+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/AAAA/IN': 2001:500:2d::d#53
+2025-05-21T17:03:42.567273+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/A/IN': 2001:7fd::1#53
+2025-05-21T17:03:42.567349+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/AAAA/IN': 2001:7fd::1#53
+2025-05-21T17:03:42.567445+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/A/IN': 2001:500:9f::42#53
+2025-05-21T17:03:42.567648+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/AAAA/IN': 2001:500:9f::42#53
+2025-05-21T17:03:42.567748+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/A/IN': 2801:1b8:10::b#53
+2025-05-21T17:03:42.567897+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/AAAA/IN': 2801:1b8:10::b#53
+2025-05-21T17:03:42.568112+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/A/IN': 2001:503:c27::2:30#53
+2025-05-21T17:03:42.568180+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/AAAA/IN': 2001:503:c27::2:30#53
+2025-05-21T17:03:42.568231+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/A/IN': 2001:500:1::53#53
+2025-05-21T17:03:42.568280+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/AAAA/IN': 2001:500:1::53#53
+2025-05-21T17:03:42.568521+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/A/IN': 2001:500:12::d0d#53
+2025-05-21T17:03:42.568605+00:00 lia-server named[779]: network unreachable resolving 'cdn.fwupd.org/AAAA/IN': 2001:500:12::d0d#53
+2025-05-21T17:04:03.587659+00:00 lia-server named[779]: timed out resolving 'ntp.ubuntu.com/A/IN': 1.1.1.1#53
+2025-05-21T17:04:03.589758+00:00 lia-server named[779]: timed out resolving 'ntp.ubuntu.com/AAAA/IN': 1.1.1.1#53
+2025-05-22T08:46:06.986395+00:00 lia-server named[779]: _default: sending trust-anchor-telemetry query '_ta-4f66-9728/NULL'
+2025-05-22T08:46:07.083536+00:00 lia-server named[779]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+2025-05-22T08:46:07.083674+00:00 lia-server named[779]: managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+2025-05-23T08:46:07.323795+00:00 lia-server named[779]: _default: sending trust-anchor-telemetry query '_ta-4f66-9728/NULL'
+2025-05-23T08:46:07.353986+00:00 lia-server named[779]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+2025-05-23T08:46:07.354328+00:00 lia-server named[779]: managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+2025-05-23T17:52:04.454570+00:00 lia-server named[779]: no longer listening on 10.0.2.15#53
+2025-05-23T17:52:05.985791+00:00 lia-server named[779]: listening on IPv4 interface enp0s3, 10.0.2.15#53
+2025-05-24T07:21:39.508878+00:00 lia-server named[789]: starting BIND 9.18.30-0ubuntu0.24.04.2-Ubuntu (Extended Support Version) <id:>
+2025-05-24T07:21:39.508890+00:00 lia-server named[789]: running on Linux x86_64 6.8.0-60-generic #63-Ubuntu SMP PREEMPT_DYNAMIC Tue Apr 15 19:04:15 UTC 2025
+2025-05-24T07:21:39.508900+00:00 lia-server named[789]: built with  '--build=x86_64-linux-gnu' '--prefix=/usr' '--includedir=${prefix}/include' '--mandir=${prefix}/share/man' '--infodir=${prefix}/share/info' '--sysconfdir=/etc' '--localstatedir=/var' '--disable-option-checking' '--disable-silent-rules' '--libdir=${prefix}/lib/x86_64-linux-gnu' '--runstatedir=/run' '--disable-maintainer-mode' '--disable-dependency-tracking' '--libdir=/usr/lib/x86_64-linux-gnu' '--sysconfdir=/etc/bind' '--with-python=python3' '--localstatedir=/' '--enable-threads' '--enable-largefile' '--with-libtool' '--enable-shared' '--disable-static' '--with-gost=no' '--with-openssl=/usr' '--with-gssapi=yes' '--with-libidn2' '--with-json-c' '--with-lmdb=/usr' '--with-gnu-ld' '--with-maxminddb' '--with-atf=no' '--enable-ipv6' '--enable-rrl' '--enable-filter-aaaa' '--disable-native-pkcs11' 'build_alias=x86_64-linux-gnu' 'CFLAGS=-g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/bind9-6cgF3x/bind9-9.18.30=. -flto=auto -ffat-lto-objects -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -fcf-protection -fdebug-prefix-map=/build/bind9-6cgF3x/bind9-9.18.30=/usr/src/bind9-1:9.18.30-0ubuntu0.24.04.2 -fno-strict-aliasing -fno-delete-null-pointer-checks -DNO_VERSION_DATE -DDIG_SIGCHASE' 'LDFLAGS=-Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -Wl,-z,relro -Wl,-z,now' 'CPPFLAGS=-Wdate-time -D_FORTIFY_SOURCE=3'
+2025-05-24T07:21:39.508906+00:00 lia-server named[789]: running as: named -f -u bind
+2025-05-24T07:21:39.508911+00:00 lia-server named[789]: compiled by GCC 13.3.0
+2025-05-24T07:21:39.508920+00:00 lia-server named[789]: compiled with OpenSSL version: OpenSSL 3.0.13 30 Jan 2024
+2025-05-24T07:21:39.508925+00:00 lia-server named[789]: linked to OpenSSL version: OpenSSL 3.0.13 30 Jan 2024
+2025-05-24T07:21:39.508933+00:00 lia-server named[789]: compiled with libuv version: 1.48.0
+2025-05-24T07:21:39.508937+00:00 lia-server named[789]: linked to libuv version: 1.48.0
+2025-05-24T07:21:39.508942+00:00 lia-server named[789]: compiled with libxml2 version: 2.9.14
+2025-05-24T07:21:39.508952+00:00 lia-server named[789]: linked to libxml2 version: 20914
+2025-05-24T07:21:39.508956+00:00 lia-server named[789]: compiled with json-c version: 0.17
+2025-05-24T07:21:39.508961+00:00 lia-server named[789]: linked to json-c version: 0.17
+2025-05-24T07:21:39.508965+00:00 lia-server named[789]: compiled with zlib version: 1.3
+2025-05-24T07:21:39.508969+00:00 lia-server named[789]: linked to zlib version: 1.3
+2025-05-24T07:21:39.508975+00:00 lia-server named[789]: ----------------------------------------------------
+2025-05-24T07:21:39.508984+00:00 lia-server named[789]: BIND 9 is maintained by Internet Systems Consortium,
+2025-05-24T07:21:39.508989+00:00 lia-server named[789]: Inc. (ISC), a non-profit 501(c)(3) public-benefit 
+2025-05-24T07:21:39.508993+00:00 lia-server named[789]: corporation.  Support and training for BIND 9 are 
+2025-05-24T07:21:39.508997+00:00 lia-server named[789]: available at https://www.isc.org/support
+2025-05-24T07:21:39.509002+00:00 lia-server named[789]: ----------------------------------------------------
+2025-05-24T07:21:39.509006+00:00 lia-server named[789]: adjusted limit on open files from 524288 to 1048576
+2025-05-24T07:21:39.509010+00:00 lia-server named[789]: found 2 CPUs, using 2 worker threads
+2025-05-24T07:21:39.509020+00:00 lia-server named[789]: using 2 UDP listeners per interface
+2025-05-24T07:21:39.509043+00:00 lia-server named[789]: DNSSEC algorithms: RSASHA1 NSEC3RSASHA1 RSASHA256 RSASHA512 ECDSAP256SHA256 ECDSAP384SHA384 ED25519 ED448
+2025-05-24T07:21:39.509053+00:00 lia-server named[789]: DS algorithms: SHA-1 SHA-256 SHA-384
+2025-05-24T07:21:39.509058+00:00 lia-server named[789]: HMAC algorithms: HMAC-MD5 HMAC-SHA1 HMAC-SHA224 HMAC-SHA256 HMAC-SHA384 HMAC-SHA512
+2025-05-24T07:21:39.509062+00:00 lia-server named[789]: TKEY mode 2 support (Diffie-Hellman): yes
+2025-05-24T07:21:39.509067+00:00 lia-server named[789]: TKEY mode 3 support (GSS-API): yes
+2025-05-24T07:21:39.509077+00:00 lia-server named[789]: the initial working directory is '/'
+2025-05-24T07:21:39.509087+00:00 lia-server named[789]: loading configuration from '/etc/bind/named.conf'
+2025-05-24T07:21:39.509092+00:00 lia-server named[789]: the working directory is now '/var/cache/bind'
+2025-05-24T07:21:39.509097+00:00 lia-server named[789]: reading built-in trust anchors from file '/etc/bind/bind.keys'
+2025-05-24T07:21:39.509102+00:00 lia-server named[789]: looking for GeoIP2 databases in '/usr/share/GeoIP'
+2025-05-24T07:21:39.509107+00:00 lia-server named[789]: using default UDP/IPv4 port range: [32768, 60999]
+2025-05-24T07:21:39.509112+00:00 lia-server named[789]: using default UDP/IPv6 port range: [32768, 60999]
+2025-05-24T07:21:39.509125+00:00 lia-server named[789]: listening on IPv4 interface lo, 127.0.0.1#53
+2025-05-24T07:21:39.509130+00:00 lia-server named[789]: listening on IPv4 interface enp0s3, 10.0.2.15#53
+2025-05-24T07:21:39.509134+00:00 lia-server named[789]: listening on IPv4 interface enp0s8, 192.168.56.10#53
+2025-05-24T07:21:39.509139+00:00 lia-server named[789]: generating session key for dynamic DNS
+2025-05-24T07:21:39.509144+00:00 lia-server named[789]: sizing zone task pool based on 7 zones
+2025-05-24T07:21:39.509154+00:00 lia-server named[789]: none:99: 'max-cache-size 90%' - setting to 2009MB (out of 2232MB)
+2025-05-24T07:21:39.509168+00:00 lia-server named[789]: obtaining root key for view _default from '/etc/bind/bind.keys'
+2025-05-24T07:21:39.509174+00:00 lia-server named[789]: set up managed keys zone for view _default, file 'managed-keys.bind'
+2025-05-24T07:21:39.509179+00:00 lia-server named[789]: automatic empty zone: 10.IN-ADDR.ARPA
+2025-05-24T07:21:39.509184+00:00 lia-server named[789]: automatic empty zone: 16.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509189+00:00 lia-server named[789]: automatic empty zone: 17.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509194+00:00 lia-server named[789]: automatic empty zone: 18.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509206+00:00 lia-server named[789]: automatic empty zone: 19.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509211+00:00 lia-server named[789]: automatic empty zone: 20.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509216+00:00 lia-server named[789]: automatic empty zone: 21.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509221+00:00 lia-server named[789]: automatic empty zone: 22.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509225+00:00 lia-server named[789]: automatic empty zone: 23.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509230+00:00 lia-server named[789]: automatic empty zone: 24.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509241+00:00 lia-server named[789]: automatic empty zone: 25.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509245+00:00 lia-server named[789]: automatic empty zone: 26.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509250+00:00 lia-server named[789]: automatic empty zone: 27.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509254+00:00 lia-server named[789]: automatic empty zone: 28.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509258+00:00 lia-server named[789]: automatic empty zone: 29.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509263+00:00 lia-server named[789]: automatic empty zone: 30.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509268+00:00 lia-server named[789]: automatic empty zone: 31.172.IN-ADDR.ARPA
+2025-05-24T07:21:39.509280+00:00 lia-server named[789]: automatic empty zone: 168.192.IN-ADDR.ARPA
+2025-05-24T07:21:39.509284+00:00 lia-server named[789]: automatic empty zone: 64.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.509289+00:00 lia-server named[789]: automatic empty zone: 65.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.509293+00:00 lia-server named[789]: automatic empty zone: 66.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.509297+00:00 lia-server named[789]: automatic empty zone: 67.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.509302+00:00 lia-server named[789]: automatic empty zone: 68.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.509313+00:00 lia-server named[789]: automatic empty zone: 69.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.509318+00:00 lia-server named[789]: automatic empty zone: 70.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.509323+00:00 lia-server named[789]: automatic empty zone: 71.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532104+00:00 lia-server named[789]: automatic empty zone: 72.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532210+00:00 lia-server named[789]: automatic empty zone: 73.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532257+00:00 lia-server named[789]: automatic empty zone: 74.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532339+00:00 lia-server named[789]: automatic empty zone: 75.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532509+00:00 lia-server named[789]: automatic empty zone: 76.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532541+00:00 lia-server named[789]: automatic empty zone: 77.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532616+00:00 lia-server named[789]: automatic empty zone: 78.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532635+00:00 lia-server named[789]: automatic empty zone: 79.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532665+00:00 lia-server named[789]: automatic empty zone: 80.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532696+00:00 lia-server named[789]: automatic empty zone: 81.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532778+00:00 lia-server named[789]: automatic empty zone: 82.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532885+00:00 lia-server named[789]: automatic empty zone: 83.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532915+00:00 lia-server named[789]: automatic empty zone: 84.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.532969+00:00 lia-server named[789]: automatic empty zone: 85.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533049+00:00 lia-server named[789]: automatic empty zone: 86.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533137+00:00 lia-server named[789]: automatic empty zone: 87.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533254+00:00 lia-server named[789]: automatic empty zone: 88.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533286+00:00 lia-server named[789]: automatic empty zone: 89.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533325+00:00 lia-server named[789]: automatic empty zone: 90.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533354+00:00 lia-server named[789]: automatic empty zone: 91.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533407+00:00 lia-server named[789]: automatic empty zone: 92.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533444+00:00 lia-server named[789]: automatic empty zone: 93.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533471+00:00 lia-server named[789]: automatic empty zone: 94.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533573+00:00 lia-server named[789]: automatic empty zone: 95.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533627+00:00 lia-server named[789]: automatic empty zone: 96.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533648+00:00 lia-server named[789]: automatic empty zone: 97.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533691+00:00 lia-server named[789]: automatic empty zone: 98.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533727+00:00 lia-server named[789]: automatic empty zone: 99.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.533766+00:00 lia-server named[789]: automatic empty zone: 100.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544138+00:00 lia-server named[789]: automatic empty zone: 101.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544165+00:00 lia-server named[789]: automatic empty zone: 102.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544170+00:00 lia-server named[789]: automatic empty zone: 103.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544174+00:00 lia-server named[789]: automatic empty zone: 104.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544178+00:00 lia-server named[789]: automatic empty zone: 105.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544184+00:00 lia-server named[789]: automatic empty zone: 106.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544190+00:00 lia-server named[789]: automatic empty zone: 107.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544212+00:00 lia-server named[789]: automatic empty zone: 108.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544221+00:00 lia-server named[789]: automatic empty zone: 109.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544227+00:00 lia-server named[789]: automatic empty zone: 110.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544232+00:00 lia-server named[789]: automatic empty zone: 111.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544237+00:00 lia-server named[789]: automatic empty zone: 112.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544249+00:00 lia-server named[789]: automatic empty zone: 113.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544253+00:00 lia-server named[789]: automatic empty zone: 114.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544257+00:00 lia-server named[789]: automatic empty zone: 115.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544261+00:00 lia-server named[789]: automatic empty zone: 116.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544266+00:00 lia-server named[789]: automatic empty zone: 117.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544271+00:00 lia-server named[789]: automatic empty zone: 118.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544282+00:00 lia-server named[789]: automatic empty zone: 119.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544286+00:00 lia-server named[789]: automatic empty zone: 120.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544291+00:00 lia-server named[789]: automatic empty zone: 121.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544295+00:00 lia-server named[789]: automatic empty zone: 122.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544299+00:00 lia-server named[789]: automatic empty zone: 123.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544303+00:00 lia-server named[789]: automatic empty zone: 124.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544307+00:00 lia-server named[789]: automatic empty zone: 125.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544316+00:00 lia-server named[789]: automatic empty zone: 126.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544321+00:00 lia-server named[789]: automatic empty zone: 127.100.IN-ADDR.ARPA
+2025-05-24T07:21:39.544325+00:00 lia-server named[789]: automatic empty zone: 254.169.IN-ADDR.ARPA
+2025-05-24T07:21:39.544329+00:00 lia-server named[789]: automatic empty zone: 2.0.192.IN-ADDR.ARPA
+2025-05-24T07:21:39.544333+00:00 lia-server named[789]: automatic empty zone: 100.51.198.IN-ADDR.ARPA
+2025-05-24T07:21:39.544338+00:00 lia-server named[789]: automatic empty zone: 113.0.203.IN-ADDR.ARPA
+2025-05-24T07:21:39.544347+00:00 lia-server named[789]: automatic empty zone: 255.255.255.255.IN-ADDR.ARPA
+2025-05-24T07:21:39.544351+00:00 lia-server named[789]: automatic empty zone: 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+2025-05-24T07:21:39.544355+00:00 lia-server named[789]: automatic empty zone: 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+2025-05-24T07:21:39.544359+00:00 lia-server named[789]: automatic empty zone: D.F.IP6.ARPA
+2025-05-24T07:21:39.544364+00:00 lia-server named[789]: automatic empty zone: 8.E.F.IP6.ARPA
+2025-05-24T07:21:39.544368+00:00 lia-server named[789]: automatic empty zone: 9.E.F.IP6.ARPA
+2025-05-24T07:21:39.544377+00:00 lia-server named[789]: automatic empty zone: A.E.F.IP6.ARPA
+2025-05-24T07:21:39.544381+00:00 lia-server named[789]: automatic empty zone: B.E.F.IP6.ARPA
+2025-05-24T07:21:39.544386+00:00 lia-server named[789]: automatic empty zone: 8.B.D.0.1.0.0.2.IP6.ARPA
+2025-05-24T07:21:39.544390+00:00 lia-server named[789]: automatic empty zone: EMPTY.AS112.ARPA
+2025-05-24T07:21:39.544395+00:00 lia-server named[789]: automatic empty zone: HOME.ARPA
+2025-05-24T07:21:39.544399+00:00 lia-server named[789]: automatic empty zone: RESOLVER.ARPA
+2025-05-24T07:21:39.544416+00:00 lia-server named[789]: configuring command channel from '/etc/bind/rndc.key'
+2025-05-24T07:21:39.544421+00:00 lia-server named[789]: command channel listening on 127.0.0.1#953
+2025-05-24T07:21:39.544425+00:00 lia-server named[789]: configuring command channel from '/etc/bind/rndc.key'
+2025-05-24T07:21:39.544429+00:00 lia-server named[789]: command channel listening on ::1#953
+2025-05-24T07:21:39.544439+00:00 lia-server named[789]: managed-keys-zone: loaded serial 12
+2025-05-24T07:21:39.544456+00:00 lia-server named[789]: zone localhost/IN: loaded serial 2
+2025-05-24T07:21:39.544460+00:00 lia-server named[789]: zone 255.in-addr.arpa/IN: loaded serial 1
+2025-05-24T07:21:39.544473+00:00 lia-server named[789]: zone 0.in-addr.arpa/IN: loaded serial 1
+2025-05-24T07:21:39.544483+00:00 lia-server named[789]: zone 56.168.192.in-addr.arpa/IN: loaded serial 1
+2025-05-24T07:21:39.544487+00:00 lia-server named[789]: zone lia.local/IN: loaded serial 2
+2025-05-24T07:21:39.544491+00:00 lia-server named[789]: zone 127.in-addr.arpa/IN: loaded serial 1
+2025-05-24T07:21:39.544496+00:00 lia-server named[789]: all zones loaded
+2025-05-24T07:21:39.544501+00:00 lia-server named[789]: running
+2025-05-24T07:21:39.544516+00:00 lia-server named[789]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+2025-05-24T07:21:39.544521+00:00 lia-server named[789]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+2025-05-24T07:21:39.544525+00:00 lia-server named[789]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+2025-05-24T07:21:39.544530+00:00 lia-server named[789]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+2025-05-24T07:21:39.544535+00:00 lia-server named[789]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+2025-05-24T07:21:39.544539+00:00 lia-server named[789]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+2025-05-24T07:21:39.544543+00:00 lia-server named[789]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+2025-05-24T07:21:39.544552+00:00 lia-server named[789]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+2025-05-24T07:21:39.544556+00:00 lia-server named[789]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+2025-05-24T07:21:39.544561+00:00 lia-server named[789]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+2025-05-24T07:21:39.544565+00:00 lia-server named[789]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+2025-05-24T07:21:39.544569+00:00 lia-server named[789]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+2025-05-24T07:21:39.544573+00:00 lia-server named[789]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+2025-05-24T07:21:39.544582+00:00 lia-server named[789]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+2025-05-24T07:21:39.544591+00:00 lia-server named[789]: managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+2025-05-24T08:46:07.530282+00:00 lia-server named[789]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+2025-05-24T08:46:07.530753+00:00 lia-server named[789]: managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+2025-05-24T08:46:17.456636+00:00 lia-server named[789]: resolver priming query complete: timed out
+2025-05-24T09:30:55.889378+00:00 lia-server named[782]: starting BIND 9.18.30-0ubuntu0.24.04.2-Ubuntu (Extended Support Version) <id:>
+2025-05-24T09:30:55.889384+00:00 lia-server named[782]: running on Linux x86_64 6.8.0-60-generic #63-Ubuntu SMP PREEMPT_DYNAMIC Tue Apr 15 19:04:15 UTC 2025
+2025-05-24T09:30:55.889405+00:00 lia-server named[782]: built with  '--build=x86_64-linux-gnu' '--prefix=/usr' '--includedir=${prefix}/include' '--mandir=${prefix}/share/man' '--infodir=${prefix}/share/info' '--sysconfdir=/etc' '--localstatedir=/var' '--disable-option-checking' '--disable-silent-rules' '--libdir=${prefix}/lib/x86_64-linux-gnu' '--runstatedir=/run' '--disable-maintainer-mode' '--disable-dependency-tracking' '--libdir=/usr/lib/x86_64-linux-gnu' '--sysconfdir=/etc/bind' '--with-python=python3' '--localstatedir=/' '--enable-threads' '--enable-largefile' '--with-libtool' '--enable-shared' '--disable-static' '--with-gost=no' '--with-openssl=/usr' '--with-gssapi=yes' '--with-libidn2' '--with-json-c' '--with-lmdb=/usr' '--with-gnu-ld' '--with-maxminddb' '--with-atf=no' '--enable-ipv6' '--enable-rrl' '--enable-filter-aaaa' '--disable-native-pkcs11' 'build_alias=x86_64-linux-gnu' 'CFLAGS=-g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/bind9-6cgF3x/bind9-9.18.30=. -flto=auto -ffat-lto-objects -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -fcf-protection -fdebug-prefix-map=/build/bind9-6cgF3x/bind9-9.18.30=/usr/src/bind9-1:9.18.30-0ubuntu0.24.04.2 -fno-strict-aliasing -fno-delete-null-pointer-checks -DNO_VERSION_DATE -DDIG_SIGCHASE' 'LDFLAGS=-Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -Wl,-z,relro -Wl,-z,now' 'CPPFLAGS=-Wdate-time -D_FORTIFY_SOURCE=3'
+2025-05-24T09:30:55.889413+00:00 lia-server named[782]: running as: named -f -u bind
+2025-05-24T09:30:55.889419+00:00 lia-server named[782]: compiled by GCC 13.3.0
+2025-05-24T09:30:55.889425+00:00 lia-server named[782]: compiled with OpenSSL version: OpenSSL 3.0.13 30 Jan 2024
+2025-05-24T09:30:55.945049+00:00 lia-server named[782]: linked to OpenSSL version: OpenSSL 3.0.13 30 Jan 2024
+2025-05-24T09:30:55.945076+00:00 lia-server named[782]: compiled with libuv version: 1.48.0
+2025-05-24T09:30:55.945085+00:00 lia-server named[782]: linked to libuv version: 1.48.0
+2025-05-24T09:30:55.945095+00:00 lia-server named[782]: compiled with libxml2 version: 2.9.14
+2025-05-24T09:30:55.945101+00:00 lia-server named[782]: linked to libxml2 version: 20914
+2025-05-24T09:30:55.945107+00:00 lia-server named[782]: compiled with json-c version: 0.17
+2025-05-24T09:30:55.945114+00:00 lia-server named[782]: linked to json-c version: 0.17
+2025-05-24T09:30:55.945129+00:00 lia-server named[782]: compiled with zlib version: 1.3
+2025-05-24T09:30:55.945136+00:00 lia-server named[782]: linked to zlib version: 1.3
+2025-05-24T09:30:55.945142+00:00 lia-server named[782]: ----------------------------------------------------
+2025-05-24T09:30:55.945148+00:00 lia-server named[782]: BIND 9 is maintained by Internet Systems Consortium,
+2025-05-24T09:30:55.945155+00:00 lia-server named[782]: Inc. (ISC), a non-profit 501(c)(3) public-benefit 
+2025-05-24T09:30:55.945161+00:00 lia-server named[782]: corporation.  Support and training for BIND 9 are 
+2025-05-24T09:30:55.945174+00:00 lia-server named[782]: available at https://www.isc.org/support
+2025-05-24T09:30:55.945181+00:00 lia-server named[782]: ----------------------------------------------------
+2025-05-24T09:30:55.945186+00:00 lia-server named[782]: adjusted limit on open files from 524288 to 1048576
+2025-05-24T09:30:55.945193+00:00 lia-server named[782]: found 2 CPUs, using 2 worker threads
+2025-05-24T09:30:55.945199+00:00 lia-server named[782]: using 2 UDP listeners per interface
+2025-05-24T09:30:55.945252+00:00 lia-server named[782]: DNSSEC algorithms: RSASHA1 NSEC3RSASHA1 RSASHA256 RSASHA512 ECDSAP256SHA256 ECDSAP384SHA384 ED25519 ED448
+2025-05-24T09:30:55.945265+00:00 lia-server named[782]: DS algorithms: SHA-1 SHA-256 SHA-384
+2025-05-24T09:30:55.945318+00:00 lia-server named[782]: HMAC algorithms: HMAC-MD5 HMAC-SHA1 HMAC-SHA224 HMAC-SHA256 HMAC-SHA384 HMAC-SHA512
+2025-05-24T09:30:55.945339+00:00 lia-server named[782]: TKEY mode 2 support (Diffie-Hellman): yes
+2025-05-24T09:30:55.945347+00:00 lia-server named[782]: TKEY mode 3 support (GSS-API): yes
+2025-05-24T09:30:55.945380+00:00 lia-server named[782]: the initial working directory is '/'
+2025-05-24T09:30:55.945386+00:00 lia-server named[782]: loading configuration from '/etc/bind/named.conf'
+2025-05-24T09:30:55.945392+00:00 lia-server named[782]: the working directory is now '/var/cache/bind'
+2025-05-24T09:30:55.945398+00:00 lia-server named[782]: reading built-in trust anchors from file '/etc/bind/bind.keys'
+2025-05-24T09:30:55.945404+00:00 lia-server named[782]: looking for GeoIP2 databases in '/usr/share/GeoIP'
+2025-05-24T09:30:55.945409+00:00 lia-server named[782]: using default UDP/IPv4 port range: [32768, 60999]
+2025-05-24T09:30:55.945415+00:00 lia-server named[782]: using default UDP/IPv6 port range: [32768, 60999]
+2025-05-24T09:30:55.945428+00:00 lia-server named[782]: listening on IPv4 interface lo, 127.0.0.1#53
+2025-05-24T09:30:55.945435+00:00 lia-server named[782]: listening on IPv4 interface enp0s3, 10.0.2.15#53
+2025-05-24T09:30:55.945441+00:00 lia-server named[782]: listening on IPv4 interface enp0s8, 192.168.56.10#53
+2025-05-24T09:30:55.945446+00:00 lia-server named[782]: generating session key for dynamic DNS
+2025-05-24T09:30:55.945452+00:00 lia-server named[782]: sizing zone task pool based on 7 zones
+2025-05-24T09:30:55.945458+00:00 lia-server named[782]: none:99: 'max-cache-size 90%' - setting to 2009MB (out of 2232MB)
+2025-05-24T09:30:55.945473+00:00 lia-server named[782]: obtaining root key for view _default from '/etc/bind/bind.keys'
+2025-05-24T09:30:55.945479+00:00 lia-server named[782]: set up managed keys zone for view _default, file 'managed-keys.bind'
+2025-05-24T09:30:55.945484+00:00 lia-server named[782]: automatic empty zone: 10.IN-ADDR.ARPA
+2025-05-24T09:30:55.945490+00:00 lia-server named[782]: automatic empty zone: 16.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945495+00:00 lia-server named[782]: automatic empty zone: 17.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945502+00:00 lia-server named[782]: automatic empty zone: 18.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945509+00:00 lia-server named[782]: automatic empty zone: 19.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945523+00:00 lia-server named[782]: automatic empty zone: 20.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945529+00:00 lia-server named[782]: automatic empty zone: 21.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945535+00:00 lia-server named[782]: automatic empty zone: 22.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945540+00:00 lia-server named[782]: automatic empty zone: 23.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945546+00:00 lia-server named[782]: automatic empty zone: 24.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945552+00:00 lia-server named[782]: automatic empty zone: 25.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945564+00:00 lia-server named[782]: automatic empty zone: 26.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945570+00:00 lia-server named[782]: automatic empty zone: 27.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945575+00:00 lia-server named[782]: automatic empty zone: 28.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945581+00:00 lia-server named[782]: automatic empty zone: 29.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945586+00:00 lia-server named[782]: automatic empty zone: 30.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945592+00:00 lia-server named[782]: automatic empty zone: 31.172.IN-ADDR.ARPA
+2025-05-24T09:30:55.945611+00:00 lia-server named[782]: automatic empty zone: 168.192.IN-ADDR.ARPA
+2025-05-24T09:30:55.945617+00:00 lia-server named[782]: automatic empty zone: 64.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945623+00:00 lia-server named[782]: automatic empty zone: 65.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945629+00:00 lia-server named[782]: automatic empty zone: 66.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945634+00:00 lia-server named[782]: automatic empty zone: 67.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945640+00:00 lia-server named[782]: automatic empty zone: 68.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945645+00:00 lia-server named[782]: automatic empty zone: 69.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945657+00:00 lia-server named[782]: automatic empty zone: 70.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945664+00:00 lia-server named[782]: automatic empty zone: 71.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945669+00:00 lia-server named[782]: automatic empty zone: 72.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945675+00:00 lia-server named[782]: automatic empty zone: 73.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945681+00:00 lia-server named[782]: automatic empty zone: 74.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945686+00:00 lia-server named[782]: automatic empty zone: 75.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945698+00:00 lia-server named[782]: automatic empty zone: 76.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945704+00:00 lia-server named[782]: automatic empty zone: 77.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945710+00:00 lia-server named[782]: automatic empty zone: 78.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945715+00:00 lia-server named[782]: automatic empty zone: 79.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945720+00:00 lia-server named[782]: automatic empty zone: 80.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945726+00:00 lia-server named[782]: automatic empty zone: 81.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945731+00:00 lia-server named[782]: automatic empty zone: 82.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945744+00:00 lia-server named[782]: automatic empty zone: 83.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945750+00:00 lia-server named[782]: automatic empty zone: 84.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945755+00:00 lia-server named[782]: automatic empty zone: 85.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945761+00:00 lia-server named[782]: automatic empty zone: 86.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945769+00:00 lia-server named[782]: automatic empty zone: 87.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945775+00:00 lia-server named[782]: automatic empty zone: 88.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945788+00:00 lia-server named[782]: automatic empty zone: 89.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945794+00:00 lia-server named[782]: automatic empty zone: 90.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945799+00:00 lia-server named[782]: automatic empty zone: 91.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945805+00:00 lia-server named[782]: automatic empty zone: 92.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945810+00:00 lia-server named[782]: automatic empty zone: 93.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945815+00:00 lia-server named[782]: automatic empty zone: 94.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945828+00:00 lia-server named[782]: automatic empty zone: 95.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945834+00:00 lia-server named[782]: automatic empty zone: 96.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945840+00:00 lia-server named[782]: automatic empty zone: 97.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945845+00:00 lia-server named[782]: automatic empty zone: 98.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945851+00:00 lia-server named[782]: automatic empty zone: 99.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945857+00:00 lia-server named[782]: automatic empty zone: 100.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945863+00:00 lia-server named[782]: automatic empty zone: 101.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945877+00:00 lia-server named[782]: automatic empty zone: 102.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945883+00:00 lia-server named[782]: automatic empty zone: 103.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945889+00:00 lia-server named[782]: automatic empty zone: 104.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945894+00:00 lia-server named[782]: automatic empty zone: 105.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945900+00:00 lia-server named[782]: automatic empty zone: 106.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945906+00:00 lia-server named[782]: automatic empty zone: 107.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945919+00:00 lia-server named[782]: automatic empty zone: 108.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945925+00:00 lia-server named[782]: automatic empty zone: 109.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945931+00:00 lia-server named[782]: automatic empty zone: 110.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945937+00:00 lia-server named[782]: automatic empty zone: 111.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945944+00:00 lia-server named[782]: automatic empty zone: 112.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945950+00:00 lia-server named[782]: automatic empty zone: 113.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945956+00:00 lia-server named[782]: automatic empty zone: 114.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945975+00:00 lia-server named[782]: automatic empty zone: 115.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945981+00:00 lia-server named[782]: automatic empty zone: 116.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945986+00:00 lia-server named[782]: automatic empty zone: 117.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945992+00:00 lia-server named[782]: automatic empty zone: 118.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.945998+00:00 lia-server named[782]: automatic empty zone: 119.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.946010+00:00 lia-server named[782]: automatic empty zone: 120.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.946015+00:00 lia-server named[782]: automatic empty zone: 121.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.946021+00:00 lia-server named[782]: automatic empty zone: 122.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.946026+00:00 lia-server named[782]: automatic empty zone: 123.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.946032+00:00 lia-server named[782]: automatic empty zone: 124.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.946037+00:00 lia-server named[782]: automatic empty zone: 125.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.946050+00:00 lia-server named[782]: automatic empty zone: 126.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.946056+00:00 lia-server named[782]: automatic empty zone: 127.100.IN-ADDR.ARPA
+2025-05-24T09:30:55.946061+00:00 lia-server named[782]: automatic empty zone: 254.169.IN-ADDR.ARPA
+2025-05-24T09:30:55.946066+00:00 lia-server named[782]: automatic empty zone: 2.0.192.IN-ADDR.ARPA
+2025-05-24T09:30:55.946071+00:00 lia-server named[782]: automatic empty zone: 100.51.198.IN-ADDR.ARPA
+2025-05-24T09:30:55.946076+00:00 lia-server named[782]: automatic empty zone: 113.0.203.IN-ADDR.ARPA
+2025-05-24T09:30:55.946089+00:00 lia-server named[782]: automatic empty zone: 255.255.255.255.IN-ADDR.ARPA
+2025-05-24T09:30:55.946094+00:00 lia-server named[782]: automatic empty zone: 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+2025-05-24T09:30:55.946100+00:00 lia-server named[782]: automatic empty zone: 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+2025-05-24T09:30:55.946105+00:00 lia-server named[782]: automatic empty zone: D.F.IP6.ARPA
+2025-05-24T09:30:55.946111+00:00 lia-server named[782]: automatic empty zone: 8.E.F.IP6.ARPA
+2025-05-24T09:30:55.946116+00:00 lia-server named[782]: automatic empty zone: 9.E.F.IP6.ARPA
+2025-05-24T09:30:55.946128+00:00 lia-server named[782]: automatic empty zone: A.E.F.IP6.ARPA
+2025-05-24T09:30:55.946134+00:00 lia-server named[782]: automatic empty zone: B.E.F.IP6.ARPA
+2025-05-24T09:30:55.946139+00:00 lia-server named[782]: automatic empty zone: 8.B.D.0.1.0.0.2.IP6.ARPA
+2025-05-24T09:30:55.946145+00:00 lia-server named[782]: automatic empty zone: EMPTY.AS112.ARPA
+2025-05-24T09:30:55.946151+00:00 lia-server named[782]: automatic empty zone: HOME.ARPA
+2025-05-24T09:30:55.946156+00:00 lia-server named[782]: automatic empty zone: RESOLVER.ARPA
+2025-05-24T09:30:55.946162+00:00 lia-server named[782]: configuring command channel from '/etc/bind/rndc.key'
+2025-05-24T09:30:55.946174+00:00 lia-server named[782]: command channel listening on 127.0.0.1#953
+2025-05-24T09:30:55.946179+00:00 lia-server named[782]: configuring command channel from '/etc/bind/rndc.key'
+2025-05-24T09:30:55.946185+00:00 lia-server named[782]: command channel listening on ::1#953
+2025-05-24T09:30:55.946191+00:00 lia-server named[782]: managed-keys-zone: loaded serial 14
+2025-05-24T09:30:55.946196+00:00 lia-server named[782]: zone 0.in-addr.arpa/IN: loaded serial 1
+2025-05-24T09:30:55.946201+00:00 lia-server named[782]: zone 127.in-addr.arpa/IN: loaded serial 1
+2025-05-24T09:30:55.946213+00:00 lia-server named[782]: zone lia.local/IN: loaded serial 2
+2025-05-24T09:30:55.946218+00:00 lia-server named[782]: zone 56.168.192.in-addr.arpa/IN: loaded serial 1
+2025-05-24T09:30:55.946228+00:00 lia-server named[782]: zone 255.in-addr.arpa/IN: loaded serial 1
+2025-05-24T09:30:55.946233+00:00 lia-server named[782]: zone localhost/IN: loaded serial 2
+2025-05-24T09:30:55.946239+00:00 lia-server named[782]: all zones loaded
+2025-05-24T09:30:55.946245+00:00 lia-server named[782]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+2025-05-24T09:30:55.946250+00:00 lia-server named[782]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+2025-05-24T09:30:55.946265+00:00 lia-server named[782]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+2025-05-24T09:30:55.946271+00:00 lia-server named[782]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+2025-05-24T09:30:55.946276+00:00 lia-server named[782]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+2025-05-24T09:30:55.946281+00:00 lia-server named[782]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+2025-05-24T09:30:55.946286+00:00 lia-server named[782]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+2025-05-24T09:30:55.946291+00:00 lia-server named[782]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+2025-05-24T09:30:55.946303+00:00 lia-server named[782]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+2025-05-24T09:30:55.946309+00:00 lia-server named[782]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+2025-05-24T09:30:55.946314+00:00 lia-server named[782]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+2025-05-24T09:30:55.946319+00:00 lia-server named[782]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+2025-05-24T09:30:55.946325+00:00 lia-server named[782]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+2025-05-24T09:30:55.946330+00:00 lia-server named[782]: running
+2025-05-24T09:30:55.946393+00:00 lia-server named[782]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+2025-05-24T09:30:55.946398+00:00 lia-server named[782]: managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+2025-05-24T15:48:46.471207+00:00 lia-server named[782]: no longer listening on 10.0.2.15#53
+2025-05-24T15:48:46.516806+00:00 lia-server named[782]: listening on IPv4 interface enp0s3, 10.0.2.15#53
+2025-05-25T13:51:43.877083+00:00 lia-server named[782]: _default: sending trust-anchor-telemetry query '_ta-4f66-9728/NULL'
+2025-05-25T13:51:43.911671+00:00 lia-server named[782]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+2025-05-25T13:51:43.911855+00:00 lia-server named[782]: managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+2025-05-26T13:51:43.876351+00:00 lia-server named[782]: _default: sending trust-anchor-telemetry query '_ta-4f66-9728/NULL'
+2025-05-26T13:51:43.934790+00:00 lia-server named[782]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+2025-05-26T13:51:43.934957+00:00 lia-server named[782]: managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+2025-05-26T15:06:23.922502+00:00 lia-server named[782]: no longer listening on 10.0.2.15#53
+2025-05-26T15:06:23.927761+00:00 lia-server named[782]: listening on IPv4 interface enp0s3, 10.0.2.15#53
+2025-05-27T15:00:45.777022+00:00 lia-server named[782]: _default: sending trust-anchor-telemetry query '_ta-4f66-9728/NULL'
+2025-05-27T15:00:45.813866+00:00 lia-server named[782]: timed out resolving './DNSKEY/IN': 1.1.1.1#53
+2025-05-27T15:00:45.824552+00:00 lia-server named[782]: timed out resolving '_ta-4f66-9728/NULL/IN': 1.1.1.1#53
+2025-05-27T15:00:45.850266+00:00 lia-server named[782]: timed out resolving './DNSKEY/IN': 8.8.8.8#53
+2025-05-27T15:00:45.917246+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+2025-05-27T15:00:45.971020+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+2025-05-27T15:00:45.971682+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+2025-05-27T15:00:45.971911+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+2025-05-27T15:00:45.976320+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+2025-05-27T15:00:45.976624+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+2025-05-27T15:00:45.976682+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+2025-05-27T15:00:45.976720+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+2025-05-27T15:00:45.976752+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+2025-05-27T15:00:45.976786+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+2025-05-27T15:00:45.976842+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+2025-05-27T15:00:45.976886+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+2025-05-27T15:00:45.976924+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+2025-05-27T15:00:45.983159+00:00 lia-server named[782]: timed out resolving '_ta-4f66-9728/NULL/IN': 8.8.8.8#53
+2025-05-27T15:00:45.986745+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:503:ba3e::2:30#53
+2025-05-27T15:00:45.986791+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:7fe::53#53
+2025-05-27T15:00:45.986823+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:2::c#53
+2025-05-27T15:00:45.986855+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:503:c27::2:30#53
+2025-05-27T15:00:45.987001+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:2f::f#53
+2025-05-27T15:00:45.987038+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:7fd::1#53
+2025-05-27T15:00:45.987070+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:dc3::35#53
+2025-05-27T15:00:45.987105+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:12::d0d#53
+2025-05-27T15:00:45.987136+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:1::53#53
+2025-05-27T15:00:45.987168+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:a8::e#53
+2025-05-27T15:00:45.987197+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:2d::d#53
+2025-05-27T15:00:45.987228+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:9f::42#53
+2025-05-27T15:00:45.987262+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2801:1b8:10::b#53
+2025-05-27T15:00:45.995656+00:00 lia-server named[782]: managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+2025-05-27T16:00:44.357764+00:00 lia-server named[782]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+2025-05-27T16:00:44.358297+00:00 lia-server named[782]: managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+2025-05-28T17:58:16.281575+00:00 lia-server named[782]: _default: sending trust-anchor-telemetry query '_ta-4f66-9728/NULL'
+2025-05-28T17:58:16.286015+00:00 lia-server named[782]: timed out resolving './DNSKEY/IN': 8.8.8.8#53
+2025-05-28T17:58:16.290541+00:00 lia-server named[782]: timed out resolving '_ta-4f66-9728/NULL/IN': 8.8.8.8#53
+2025-05-28T17:58:16.296839+00:00 lia-server named[782]: timed out resolving './DNSKEY/IN': 1.1.1.1#53
+2025-05-28T17:58:16.303072+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+2025-05-28T17:58:16.303215+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+2025-05-28T17:58:16.303341+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+2025-05-28T17:58:16.303374+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+2025-05-28T17:58:16.303418+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+2025-05-28T17:58:16.307399+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+2025-05-28T17:58:16.307498+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+2025-05-28T17:58:16.307534+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+2025-05-28T17:58:16.307567+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+2025-05-28T17:58:16.307685+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+2025-05-28T17:58:16.307726+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+2025-05-28T17:58:16.307761+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+2025-05-28T17:58:16.308623+00:00 lia-server named[782]: network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+2025-05-28T17:58:16.308690+00:00 lia-server named[782]: timed out resolving '_ta-4f66-9728/NULL/IN': 1.1.1.1#53
+2025-05-28T17:58:16.309350+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2801:1b8:10::b#53
+2025-05-28T17:58:16.309476+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:12::d0d#53
+2025-05-28T17:58:16.309512+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:503:ba3e::2:30#53
+2025-05-28T17:58:16.309544+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:dc3::35#53
+2025-05-28T17:58:16.309577+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:7fd::1#53
+2025-05-28T17:58:16.309610+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:9f::42#53
+2025-05-28T17:58:16.309642+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:2f::f#53
+2025-05-28T17:58:16.309674+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:503:c27::2:30#53
+2025-05-28T17:58:16.309706+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:1::53#53
+2025-05-28T17:58:16.309798+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:a8::e#53
+2025-05-28T17:58:16.309830+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:2::c#53
+2025-05-28T17:58:16.309861+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:7fe::53#53
+2025-05-28T17:58:16.309894+00:00 lia-server named[782]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:2d::d#53
+2025-05-28T17:58:22.955392+00:00 lia-server named[782]: managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+2025-05-30T08:20:08.124221+00:00 lia-server named[782]: _default: sending trust-anchor-telemetry query '_ta-4f66-9728/NULL'
+2025-05-30T08:20:08.163942+00:00 lia-server named[782]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+2025-05-30T08:20:08.164096+00:00 lia-server named[782]: managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+2025-05-30T13:15:09.102248+00:00 lia-server named[797]: starting BIND 9.18.30-0ubuntu0.24.04.2-Ubuntu (Extended Support Version) <id:>
+2025-05-30T13:15:09.103316+00:00 lia-server named[797]: running on Linux x86_64 6.8.0-60-generic #63-Ubuntu SMP PREEMPT_DYNAMIC Tue Apr 15 19:04:15 UTC 2025
+2025-05-30T13:15:09.103468+00:00 lia-server named[797]: built with  '--build=x86_64-linux-gnu' '--prefix=/usr' '--includedir=${prefix}/include' '--mandir=${prefix}/share/man' '--infodir=${prefix}/share/info' '--sysconfdir=/etc' '--localstatedir=/var' '--disable-option-checking' '--disable-silent-rules' '--libdir=${prefix}/lib/x86_64-linux-gnu' '--runstatedir=/run' '--disable-maintainer-mode' '--disable-dependency-tracking' '--libdir=/usr/lib/x86_64-linux-gnu' '--sysconfdir=/etc/bind' '--with-python=python3' '--localstatedir=/' '--enable-threads' '--enable-largefile' '--with-libtool' '--enable-shared' '--disable-static' '--with-gost=no' '--with-openssl=/usr' '--with-gssapi=yes' '--with-libidn2' '--with-json-c' '--with-lmdb=/usr' '--with-gnu-ld' '--with-maxminddb' '--with-atf=no' '--enable-ipv6' '--enable-rrl' '--enable-filter-aaaa' '--disable-native-pkcs11' 'build_alias=x86_64-linux-gnu' 'CFLAGS=-g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/bind9-6cgF3x/bind9-9.18.30=. -flto=auto -ffat-lto-objects -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -fcf-protection -fdebug-prefix-map=/build/bind9-6cgF3x/bind9-9.18.30=/usr/src/bind9-1:9.18.30-0ubuntu0.24.04.2 -fno-strict-aliasing -fno-delete-null-pointer-checks -DNO_VERSION_DATE -DDIG_SIGCHASE' 'LDFLAGS=-Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -Wl,-z,relro -Wl,-z,now' 'CPPFLAGS=-Wdate-time -D_FORTIFY_SOURCE=3'
+2025-05-30T13:15:09.105206+00:00 lia-server named[797]: running as: named -f -u bind
+2025-05-30T13:15:09.106301+00:00 lia-server named[797]: compiled by GCC 13.3.0
+2025-05-30T13:15:09.109112+00:00 lia-server named[797]: compiled with OpenSSL version: OpenSSL 3.0.13 30 Jan 2024
+2025-05-30T13:15:09.113582+00:00 lia-server named[797]: linked to OpenSSL version: OpenSSL 3.0.13 30 Jan 2024
+2025-05-30T13:15:09.113669+00:00 lia-server named[797]: compiled with libuv version: 1.48.0
+2025-05-30T13:15:09.113732+00:00 lia-server named[797]: linked to libuv version: 1.48.0
+2025-05-30T13:15:09.113765+00:00 lia-server named[797]: compiled with libxml2 version: 2.9.14
+2025-05-30T13:15:09.113799+00:00 lia-server named[797]: linked to libxml2 version: 20914
+2025-05-30T13:15:09.113831+00:00 lia-server named[797]: compiled with json-c version: 0.17
+2025-05-30T13:15:09.113865+00:00 lia-server named[797]: linked to json-c version: 0.17
+2025-05-30T13:15:09.113899+00:00 lia-server named[797]: compiled with zlib version: 1.3
+2025-05-30T13:15:09.113943+00:00 lia-server named[797]: linked to zlib version: 1.3
+2025-05-30T13:15:09.113977+00:00 lia-server named[797]: ----------------------------------------------------
+2025-05-30T13:15:09.114010+00:00 lia-server named[797]: BIND 9 is maintained by Internet Systems Consortium,
+2025-05-30T13:15:09.114043+00:00 lia-server named[797]: Inc. (ISC), a non-profit 501(c)(3) public-benefit 
+2025-05-30T13:15:09.114080+00:00 lia-server named[797]: corporation.  Support and training for BIND 9 are 
+2025-05-30T13:15:09.114118+00:00 lia-server named[797]: available at https://www.isc.org/support
+2025-05-30T13:15:09.114151+00:00 lia-server named[797]: ----------------------------------------------------
+2025-05-30T13:15:09.114183+00:00 lia-server named[797]: adjusted limit on open files from 524288 to 1048576
+2025-05-30T13:15:09.114216+00:00 lia-server named[797]: found 2 CPUs, using 2 worker threads
+2025-05-30T13:15:09.114258+00:00 lia-server named[797]: using 2 UDP listeners per interface
+2025-05-30T13:15:09.238702+00:00 lia-server named[797]: DNSSEC algorithms: RSASHA1 NSEC3RSASHA1 RSASHA256 RSASHA512 ECDSAP256SHA256 ECDSAP384SHA384 ED25519 ED448
+2025-05-30T13:15:09.238791+00:00 lia-server named[797]: DS algorithms: SHA-1 SHA-256 SHA-384
+2025-05-30T13:15:09.238826+00:00 lia-server named[797]: HMAC algorithms: HMAC-MD5 HMAC-SHA1 HMAC-SHA224 HMAC-SHA256 HMAC-SHA384 HMAC-SHA512
+2025-05-30T13:15:09.238862+00:00 lia-server named[797]: TKEY mode 2 support (Diffie-Hellman): yes
+2025-05-30T13:15:09.239057+00:00 lia-server named[797]: TKEY mode 3 support (GSS-API): yes
+2025-05-30T13:15:09.250034+00:00 lia-server named[797]: the initial working directory is '/'
+2025-05-30T13:15:09.250329+00:00 lia-server named[797]: loading configuration from '/etc/bind/named.conf'
+2025-05-30T13:15:09.264023+00:00 lia-server named[797]: the working directory is now '/var/cache/bind'
+2025-05-30T13:15:09.266163+00:00 lia-server named[797]: reading built-in trust anchors from file '/etc/bind/bind.keys'
+2025-05-30T13:15:09.275870+00:00 lia-server named[797]: looking for GeoIP2 databases in '/usr/share/GeoIP'
+2025-05-30T13:15:09.275931+00:00 lia-server named[797]: using default UDP/IPv4 port range: [32768, 60999]
+2025-05-30T13:15:09.275967+00:00 lia-server named[797]: using default UDP/IPv6 port range: [32768, 60999]
+2025-05-30T13:15:09.288000+00:00 lia-server named[797]: listening on IPv4 interface lo, 127.0.0.1#53
+2025-05-30T13:15:09.297186+00:00 lia-server named[797]: listening on IPv4 interface enp0s3, 10.0.2.15#53
+2025-05-30T13:15:09.297371+00:00 lia-server named[797]: listening on IPv4 interface enp0s8, 192.168.56.10#53
+2025-05-30T13:15:09.297420+00:00 lia-server named[797]: generating session key for dynamic DNS
+2025-05-30T13:15:09.297495+00:00 lia-server named[797]: sizing zone task pool based on 7 zones
+2025-05-30T13:15:09.316019+00:00 lia-server named[797]: none:99: 'max-cache-size 90%' - setting to 2009MB (out of 2232MB)
+2025-05-30T13:15:09.321058+00:00 lia-server named[797]: obtaining root key for view _default from '/etc/bind/bind.keys'
+2025-05-30T13:15:09.321193+00:00 lia-server named[797]: set up managed keys zone for view _default, file 'managed-keys.bind'
+2025-05-30T13:15:09.321228+00:00 lia-server named[797]: automatic empty zone: 10.IN-ADDR.ARPA
+2025-05-30T13:15:09.321266+00:00 lia-server named[797]: automatic empty zone: 16.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321300+00:00 lia-server named[797]: automatic empty zone: 17.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321333+00:00 lia-server named[797]: automatic empty zone: 18.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321393+00:00 lia-server named[797]: automatic empty zone: 19.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321427+00:00 lia-server named[797]: automatic empty zone: 20.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321460+00:00 lia-server named[797]: automatic empty zone: 21.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321492+00:00 lia-server named[797]: automatic empty zone: 22.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321525+00:00 lia-server named[797]: automatic empty zone: 23.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321557+00:00 lia-server named[797]: automatic empty zone: 24.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321590+00:00 lia-server named[797]: automatic empty zone: 25.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321655+00:00 lia-server named[797]: automatic empty zone: 26.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321698+00:00 lia-server named[797]: automatic empty zone: 27.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321730+00:00 lia-server named[797]: automatic empty zone: 28.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321776+00:00 lia-server named[797]: automatic empty zone: 29.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321811+00:00 lia-server named[797]: automatic empty zone: 30.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321845+00:00 lia-server named[797]: automatic empty zone: 31.172.IN-ADDR.ARPA
+2025-05-30T13:15:09.321877+00:00 lia-server named[797]: automatic empty zone: 168.192.IN-ADDR.ARPA
+2025-05-30T13:15:09.321910+00:00 lia-server named[797]: automatic empty zone: 64.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.321943+00:00 lia-server named[797]: automatic empty zone: 65.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.321976+00:00 lia-server named[797]: automatic empty zone: 66.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.322008+00:00 lia-server named[797]: automatic empty zone: 67.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.322040+00:00 lia-server named[797]: automatic empty zone: 68.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.322072+00:00 lia-server named[797]: automatic empty zone: 69.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.324600+00:00 lia-server named[797]: automatic empty zone: 70.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.324690+00:00 lia-server named[797]: automatic empty zone: 71.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.324727+00:00 lia-server named[797]: automatic empty zone: 72.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.324762+00:00 lia-server named[797]: automatic empty zone: 73.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.324795+00:00 lia-server named[797]: automatic empty zone: 74.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.324829+00:00 lia-server named[797]: automatic empty zone: 75.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.324864+00:00 lia-server named[797]: automatic empty zone: 76.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.324927+00:00 lia-server named[797]: automatic empty zone: 77.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.324965+00:00 lia-server named[797]: automatic empty zone: 78.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.325000+00:00 lia-server named[797]: automatic empty zone: 79.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.328404+00:00 lia-server named[797]: automatic empty zone: 80.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.328488+00:00 lia-server named[797]: automatic empty zone: 81.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.328522+00:00 lia-server named[797]: automatic empty zone: 82.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.328579+00:00 lia-server named[797]: automatic empty zone: 83.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.338483+00:00 lia-server named[797]: automatic empty zone: 84.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.338583+00:00 lia-server named[797]: automatic empty zone: 85.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.338621+00:00 lia-server named[797]: automatic empty zone: 86.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.338654+00:00 lia-server named[797]: automatic empty zone: 87.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.338687+00:00 lia-server named[797]: automatic empty zone: 88.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.338720+00:00 lia-server named[797]: automatic empty zone: 89.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.338753+00:00 lia-server named[797]: automatic empty zone: 90.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.338786+00:00 lia-server named[797]: automatic empty zone: 91.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.338819+00:00 lia-server named[797]: automatic empty zone: 92.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.338885+00:00 lia-server named[797]: automatic empty zone: 93.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.338920+00:00 lia-server named[797]: automatic empty zone: 94.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.338953+00:00 lia-server named[797]: automatic empty zone: 95.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.338988+00:00 lia-server named[797]: automatic empty zone: 96.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339021+00:00 lia-server named[797]: automatic empty zone: 97.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339054+00:00 lia-server named[797]: automatic empty zone: 98.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339087+00:00 lia-server named[797]: automatic empty zone: 99.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339120+00:00 lia-server named[797]: automatic empty zone: 100.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339154+00:00 lia-server named[797]: automatic empty zone: 101.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339187+00:00 lia-server named[797]: automatic empty zone: 102.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339227+00:00 lia-server named[797]: automatic empty zone: 103.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339260+00:00 lia-server named[797]: automatic empty zone: 104.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339293+00:00 lia-server named[797]: automatic empty zone: 105.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339325+00:00 lia-server named[797]: automatic empty zone: 106.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339359+00:00 lia-server named[797]: automatic empty zone: 107.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339391+00:00 lia-server named[797]: automatic empty zone: 108.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339424+00:00 lia-server named[797]: automatic empty zone: 109.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339464+00:00 lia-server named[797]: automatic empty zone: 110.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339517+00:00 lia-server named[797]: automatic empty zone: 111.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339551+00:00 lia-server named[797]: automatic empty zone: 112.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339584+00:00 lia-server named[797]: automatic empty zone: 113.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339616+00:00 lia-server named[797]: automatic empty zone: 114.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339649+00:00 lia-server named[797]: automatic empty zone: 115.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339682+00:00 lia-server named[797]: automatic empty zone: 116.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339715+00:00 lia-server named[797]: automatic empty zone: 117.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339747+00:00 lia-server named[797]: automatic empty zone: 118.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339781+00:00 lia-server named[797]: automatic empty zone: 119.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339835+00:00 lia-server named[797]: automatic empty zone: 120.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339874+00:00 lia-server named[797]: automatic empty zone: 121.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339908+00:00 lia-server named[797]: automatic empty zone: 122.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.339941+00:00 lia-server named[797]: automatic empty zone: 123.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.340040+00:00 lia-server named[797]: automatic empty zone: 124.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.340074+00:00 lia-server named[797]: automatic empty zone: 125.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.340107+00:00 lia-server named[797]: automatic empty zone: 126.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.340141+00:00 lia-server named[797]: automatic empty zone: 127.100.IN-ADDR.ARPA
+2025-05-30T13:15:09.340185+00:00 lia-server named[797]: automatic empty zone: 254.169.IN-ADDR.ARPA
+2025-05-30T13:15:09.340217+00:00 lia-server named[797]: automatic empty zone: 2.0.192.IN-ADDR.ARPA
+2025-05-30T13:15:09.340251+00:00 lia-server named[797]: automatic empty zone: 100.51.198.IN-ADDR.ARPA
+2025-05-30T13:15:09.340283+00:00 lia-server named[797]: automatic empty zone: 113.0.203.IN-ADDR.ARPA
+2025-05-30T13:15:09.340317+00:00 lia-server named[797]: automatic empty zone: 255.255.255.255.IN-ADDR.ARPA
+2025-05-30T13:15:09.346435+00:00 lia-server named[797]: automatic empty zone: 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+2025-05-30T13:15:09.346538+00:00 lia-server named[797]: automatic empty zone: 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+2025-05-30T13:15:09.346823+00:00 lia-server named[797]: automatic empty zone: D.F.IP6.ARPA
+2025-05-30T13:15:09.346872+00:00 lia-server named[797]: automatic empty zone: 8.E.F.IP6.ARPA
+2025-05-30T13:15:09.346906+00:00 lia-server named[797]: automatic empty zone: 9.E.F.IP6.ARPA
+2025-05-30T13:15:09.347193+00:00 lia-server named[797]: automatic empty zone: A.E.F.IP6.ARPA
+2025-05-30T13:15:09.347267+00:00 lia-server named[797]: automatic empty zone: B.E.F.IP6.ARPA
+2025-05-30T13:15:09.347312+00:00 lia-server named[797]: automatic empty zone: 8.B.D.0.1.0.0.2.IP6.ARPA
+2025-05-30T13:15:09.353902+00:00 lia-server named[797]: automatic empty zone: EMPTY.AS112.ARPA
+2025-05-30T13:15:09.353995+00:00 lia-server named[797]: automatic empty zone: HOME.ARPA
+2025-05-30T13:15:09.354032+00:00 lia-server named[797]: automatic empty zone: RESOLVER.ARPA
+2025-05-30T13:15:09.354082+00:00 lia-server named[797]: configuring command channel from '/etc/bind/rndc.key'
+2025-05-30T13:15:09.358855+00:00 lia-server named[797]: command channel listening on 127.0.0.1#953
+2025-05-30T13:15:09.358945+00:00 lia-server named[797]: configuring command channel from '/etc/bind/rndc.key'
+2025-05-30T13:15:09.358985+00:00 lia-server named[797]: command channel listening on ::1#953
+2025-05-30T13:15:09.366589+00:00 lia-server named[797]: managed-keys-zone: loaded serial 21
+2025-05-30T13:15:09.385116+00:00 lia-server named[797]: zone 255.in-addr.arpa/IN: loaded serial 1
+2025-05-30T13:15:09.391796+00:00 lia-server named[797]: zone 0.in-addr.arpa/IN: loaded serial 1
+2025-05-30T13:15:09.395457+00:00 lia-server named[797]: zone lia.local/IN: loaded serial 2
+2025-05-30T13:15:09.401118+00:00 lia-server named[797]: zone 127.in-addr.arpa/IN: loaded serial 1
+2025-05-30T13:15:09.414724+00:00 lia-server named[797]: zone localhost/IN: loaded serial 2
+2025-05-30T13:15:09.422613+00:00 lia-server named[797]: zone 56.168.192.in-addr.arpa/IN: loaded serial 1
+2025-05-30T13:15:09.422796+00:00 lia-server named[797]: all zones loaded
+2025-05-30T13:15:09.423203+00:00 lia-server named[797]: running
+2025-05-30T13:15:09.443755+00:00 lia-server named[797]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+2025-05-30T13:15:09.443919+00:00 lia-server named[797]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+2025-05-30T13:15:09.444031+00:00 lia-server named[797]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+2025-05-30T13:15:09.444070+00:00 lia-server named[797]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+2025-05-30T13:15:09.444105+00:00 lia-server named[797]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+2025-05-30T13:15:09.444207+00:00 lia-server named[797]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+2025-05-30T13:15:09.444345+00:00 lia-server named[797]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+2025-05-30T13:15:09.444390+00:00 lia-server named[797]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+2025-05-30T13:15:09.453123+00:00 lia-server named[797]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+2025-05-30T13:15:09.453524+00:00 lia-server named[797]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+2025-05-30T13:15:09.453614+00:00 lia-server named[797]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+2025-05-30T13:15:09.453649+00:00 lia-server named[797]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+2025-05-30T13:15:09.453683+00:00 lia-server named[797]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+2025-05-30T13:15:09.629192+00:00 lia-server named[797]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+2025-05-30T13:15:09.629298+00:00 lia-server named[797]: managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+2025-05-30T14:19:53.928774+00:00 lia-server named[797]: no longer listening on 10.0.2.15#53
+2025-05-30T14:19:53.934313+00:00 lia-server named[797]: listening on IPv4 interface enp0s3, 10.0.2.15#53
+2025-05-30T15:37:55.963644+00:00 lia-server named[797]: no longer listening on 10.0.2.15#53
+2025-05-30T15:37:56.040374+00:00 lia-server named[797]: no longer listening on 192.168.56.10#53
+2025-05-30T15:37:56.060181+00:00 lia-server named[797]: listening on IPv4 interface enp0s8, 192.168.56.10#53
+2025-05-30T15:37:56.066886+00:00 lia-server named[797]: listening on IPv4 interface enp0s3, 10.0.2.15#53
+2025-05-30T15:41:43.259230+00:00 lia-server named[797]: no longer listening on 10.0.2.15#53
+2025-05-30T15:41:43.295014+00:00 lia-server named[797]: listening on IPv4 interface enp0s3, 10.0.2.15#53
+2025-05-30T15:41:43.297832+00:00 lia-server named[797]: no longer listening on 10.0.2.15#53
+2025-05-30T15:41:43.324480+00:00 lia-server named[797]: no longer listening on 192.168.56.10#53
+2025-05-30T15:41:43.348316+00:00 lia-server named[797]: listening on IPv4 interface enp0s3, 10.0.2.15#53
+2025-05-30T15:41:43.349825+00:00 lia-server named[797]: listening on IPv4 interface enp0s8, 192.168.56.10#53
+2025-05-30T16:10:39.040671+00:00 lia-server named[797]: no longer listening on 10.0.2.15#53
+2025-05-30T16:10:39.145068+00:00 lia-server named[797]: listening on IPv4 interface enp0s3, 10.0.2.15#53
+2025-05-31T09:20:13.860564+00:00 lia-server named[797]: managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+2025-05-31T09:20:13.860711+00:00 lia-server named[797]: managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+2025-05-31T13:15:09.299734+00:00 lia-server named[797]: _default: sending trust-anchor-telemetry query '_ta-4f66-9728/NULL'
+2025-05-31T13:15:10.669505+00:00 lia-server named[797]: timed out resolving '_ta-4f66-9728/NULL/IN': 1.1.1.1#53
+2025-05-31T13:15:10.986222+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 1.1.1.1#53
+2025-05-31T13:15:11.875700+00:00 lia-server named[797]: timed out resolving '_ta-4f66-9728/NULL/IN': 8.8.8.8#53
+2025-05-31T13:15:11.875929+00:00 lia-server named[797]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2801:1b8:10::b#53
+2025-05-31T13:15:11.876057+00:00 lia-server named[797]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:2d::d#53
+2025-05-31T13:15:11.876158+00:00 lia-server named[797]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:503:c27::2:30#53
+2025-05-31T13:15:11.876258+00:00 lia-server named[797]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:9f::42#53
+2025-05-31T13:15:11.876368+00:00 lia-server named[797]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:503:ba3e::2:30#53
+2025-05-31T13:15:11.876470+00:00 lia-server named[797]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:a8::e#53
+2025-05-31T13:15:11.876903+00:00 lia-server named[797]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:2::c#53
+2025-05-31T13:15:11.876984+00:00 lia-server named[797]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:1::53#53
+2025-05-31T13:15:11.877110+00:00 lia-server named[797]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:12::d0d#53
+2025-05-31T13:15:11.877154+00:00 lia-server named[797]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:7fd::1#53
+2025-05-31T13:15:11.877186+00:00 lia-server named[797]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:dc3::35#53
+2025-05-31T13:15:11.877269+00:00 lia-server named[797]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:500:2f::f#53
+2025-05-31T13:15:11.877314+00:00 lia-server named[797]: network unreachable resolving '_ta-4f66-9728/NULL/IN': 2001:7fe::53#53
+2025-05-31T13:15:12.206506+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 8.8.8.8#53
+2025-05-31T13:15:12.206594+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+2025-05-31T13:15:12.206636+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+2025-05-31T13:15:12.206775+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+2025-05-31T13:15:12.206972+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+2025-05-31T13:15:12.207058+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+2025-05-31T13:15:12.207172+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+2025-05-31T13:15:12.207214+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+2025-05-31T13:15:12.207315+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+2025-05-31T13:15:12.207363+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+2025-05-31T13:15:12.207432+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+2025-05-31T13:15:12.207504+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+2025-05-31T13:15:12.207567+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+2025-05-31T13:15:12.207601+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+2025-05-31T13:15:20.006256+00:00 lia-server named[797]: managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+2025-05-31T14:15:21.219160+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 1.1.1.1#53
+2025-05-31T14:15:22.431911+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 8.8.8.8#53
+2025-05-31T14:15:22.432036+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+2025-05-31T14:15:22.432088+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+2025-05-31T14:15:22.432131+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+2025-05-31T14:15:22.432168+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+2025-05-31T14:15:22.432233+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+2025-05-31T14:15:22.432276+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+2025-05-31T14:15:22.432321+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+2025-05-31T14:15:22.432363+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+2025-05-31T14:15:22.432404+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+2025-05-31T14:15:22.432442+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+2025-05-31T14:15:22.432479+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+2025-05-31T14:15:22.432519+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+2025-05-31T14:15:22.432557+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+2025-05-31T14:15:30.008356+00:00 lia-server named[797]: managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+2025-05-31T15:15:31.215644+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 1.1.1.1#53
+2025-05-31T15:15:32.417376+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 8.8.8.8#53
+2025-05-31T15:15:32.417523+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+2025-05-31T15:15:32.417575+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+2025-05-31T15:15:32.417618+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+2025-05-31T15:15:32.417660+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+2025-05-31T15:15:32.417705+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+2025-05-31T15:15:32.417747+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+2025-05-31T15:15:32.417794+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+2025-05-31T15:15:32.417836+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+2025-05-31T15:15:32.417876+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+2025-05-31T15:15:32.418129+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+2025-05-31T15:15:32.418196+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+2025-05-31T15:15:32.418236+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+2025-05-31T15:15:32.418282+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+2025-05-31T15:15:40.009221+00:00 lia-server named[797]: managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+2025-05-31T16:15:41.986524+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 1.1.1.1#53
+2025-05-31T16:15:44.146848+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 8.8.8.8#53
+2025-05-31T16:15:44.147201+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+2025-05-31T16:15:44.147249+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+2025-05-31T16:15:44.147285+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+2025-05-31T16:15:44.147332+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+2025-05-31T16:15:44.147365+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+2025-05-31T16:15:44.147395+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+2025-05-31T16:15:44.147422+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+2025-05-31T16:15:44.147450+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+2025-05-31T16:15:44.147478+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+2025-05-31T16:15:44.147505+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+2025-05-31T16:15:44.147531+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+2025-05-31T16:15:44.147558+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+2025-05-31T16:15:44.147586+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+2025-05-31T16:15:51.622922+00:00 lia-server named[797]: managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+2025-05-31T17:15:52.976714+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 1.1.1.1#53
+2025-05-31T17:15:54.180543+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 8.8.8.8#53
+2025-05-31T17:15:54.180669+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+2025-05-31T17:15:54.180721+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+2025-05-31T17:15:54.180765+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+2025-05-31T17:15:54.180807+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+2025-05-31T17:15:54.180855+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+2025-05-31T17:15:54.180898+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+2025-05-31T17:15:54.180951+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+2025-05-31T17:15:54.180993+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+2025-05-31T17:15:54.181031+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+2025-05-31T17:15:54.181069+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+2025-05-31T17:15:54.181107+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+2025-05-31T17:15:54.181302+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+2025-05-31T17:15:54.181349+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+2025-05-31T17:16:01.779979+00:00 lia-server named[797]: managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+2025-05-31T18:16:02.991859+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 1.1.1.1#53
+2025-05-31T18:16:04.204272+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 8.8.8.8#53
+2025-05-31T18:16:04.204429+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+2025-05-31T18:16:04.204485+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+2025-05-31T18:16:04.204528+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+2025-05-31T18:16:04.204659+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+2025-05-31T18:16:04.204714+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+2025-05-31T18:16:04.204761+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+2025-05-31T18:16:04.204803+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+2025-05-31T18:16:04.204846+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+2025-05-31T18:16:04.204886+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+2025-05-31T18:16:04.204936+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+2025-05-31T18:16:04.204976+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+2025-05-31T18:16:04.205113+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+2025-05-31T18:16:04.205154+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+2025-05-31T18:16:11.785006+00:00 lia-server named[797]: managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+2025-05-31T19:16:13.046374+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 1.1.1.1#53
+2025-05-31T19:16:14.255129+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 8.8.8.8#53
+2025-05-31T19:16:14.255243+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+2025-05-31T19:16:14.255337+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+2025-05-31T19:16:14.255468+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+2025-05-31T19:16:14.255565+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+2025-05-31T19:16:14.255828+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+2025-05-31T19:16:14.255928+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+2025-05-31T19:16:14.256006+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+2025-05-31T19:16:14.256102+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+2025-05-31T19:16:14.256183+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+2025-05-31T19:16:14.256267+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+2025-05-31T19:16:14.256333+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+2025-05-31T19:16:14.256370+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+2025-05-31T19:16:14.256494+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+2025-05-31T19:16:21.803942+00:00 lia-server named[797]: managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+2025-05-31T23:40:59.110677+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 1.1.1.1#53
+2025-05-31T23:41:00.295027+00:00 lia-server named[797]: timed out resolving './DNSKEY/IN': 8.8.8.8#53
+2025-05-31T23:41:00.295311+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+2025-05-31T23:41:00.295366+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+2025-05-31T23:41:00.295432+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+2025-05-31T23:41:00.295474+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+2025-05-31T23:41:00.295522+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+2025-05-31T23:41:00.295568+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+2025-05-31T23:41:00.295609+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+2025-05-31T23:41:00.295653+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+2025-05-31T23:41:00.295695+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+2025-05-31T23:41:00.295732+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+2025-05-31T23:41:00.295776+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+2025-05-31T23:41:00.296057+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+2025-05-31T23:41:00.296157+00:00 lia-server named[797]: network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+2025-05-31T23:41:09.819106+00:00 lia-server named[797]: shut down hung fetch while resolving './DNSKEY'
+2025-05-31T23:41:09.819462+00:00 lia-server named[797]: managed-keys-zone: Unable to fetch DNSKEY set '.': timed out

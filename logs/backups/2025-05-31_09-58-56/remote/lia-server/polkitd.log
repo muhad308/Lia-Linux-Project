@@ -1,0 +1,15 @@
+2025-05-24T07:21:39.509149+00:00 lia-server polkitd[792]: Started polkitd version 124
+2025-05-24T07:21:39.544217+00:00 lia-server polkitd[792]: Loading rules from directory /etc/polkit-1/rules.d
+2025-05-24T07:21:39.544404+00:00 lia-server polkitd[792]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-05-24T07:21:39.544452+00:00 lia-server polkitd[792]: Finished loading, compiling and executing 6 rules
+2025-05-24T07:21:39.544469+00:00 lia-server polkitd[792]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-05-24T09:30:55.946364+00:00 lia-server polkitd[784]: Started polkitd version 124
+2025-05-24T09:30:55.946375+00:00 lia-server polkitd[784]: Loading rules from directory /etc/polkit-1/rules.d
+2025-05-24T09:30:55.946387+00:00 lia-server polkitd[784]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-05-24T09:30:55.946409+00:00 lia-server polkitd[784]: Finished loading, compiling and executing 6 rules
+2025-05-24T09:30:55.946427+00:00 lia-server polkitd[784]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-05-30T13:15:08.876161+00:00 lia-server polkitd[757]: Started polkitd version 124
+2025-05-30T13:15:08.895430+00:00 lia-server polkitd[757]: Loading rules from directory /etc/polkit-1/rules.d
+2025-05-30T13:15:08.898148+00:00 lia-server polkitd[757]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-05-30T13:15:08.939698+00:00 lia-server polkitd[757]: Finished loading, compiling and executing 6 rules
+2025-05-30T13:15:08.944952+00:00 lia-server polkitd[757]: Acquired the name org.freedesktop.PolicyKit1 on the system bus

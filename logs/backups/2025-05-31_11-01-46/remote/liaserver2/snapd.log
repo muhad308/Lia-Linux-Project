@@ -1,0 +1,41 @@
+2025-05-21T12:34:51+00:00 liaserver2 snapd[680]: overlord.go:274: Acquiring state lock file
+2025-05-21T12:34:51+00:00 liaserver2 snapd[680]: overlord.go:279: Acquired state lock file
+2025-05-21T12:34:51+00:00 liaserver2 snapd[680]: daemon.go:250: started snapd/2.66.1+24.04 (series 16; classic) ubuntu/24.04 (amd64) linux/6.8.0-53-generic.
+2025-05-21T12:34:51+00:00 liaserver2 snapd[680]: daemon.go:353: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+2025-05-21T12:34:51+00:00 liaserver2 snapd[680]: backends.go:58: AppArmor status: apparmor is enabled and all features are available
+2025-05-21T12:34:58+00:00 liaserver2 snapd[680]: daemon.go:548: gracefully waiting for running hooks
+2025-05-21T12:34:58+00:00 liaserver2 snapd[680]: daemon.go:550: done waiting for running hooks
+2025-05-21T12:35:01+00:00 liaserver2 snapd[680]: overlord.go:518: Released state lock file
+2025-05-21T12:35:01+00:00 liaserver2 snapd[680]: daemon stop requested to wait for socket activation
+2025-05-21T13:32:08+00:00 liaserver2 snapd[712]: overlord.go:274: Acquiring state lock file
+2025-05-21T13:32:08+00:00 liaserver2 snapd[712]: overlord.go:279: Acquired state lock file
+2025-05-21T13:32:08+00:00 liaserver2 snapd[712]: daemon.go:250: started snapd/2.66.1+24.04 (series 16; classic) ubuntu/24.04 (amd64) linux/6.8.0-53-generic.
+2025-05-21T13:32:08+00:00 liaserver2 snapd[712]: daemon.go:353: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+2025-05-21T13:32:08+00:00 liaserver2 snapd[712]: backends.go:58: AppArmor status: apparmor is enabled and all features are available
+2025-05-21T13:32:14+00:00 liaserver2 snapd[712]: daemon.go:548: gracefully waiting for running hooks
+2025-05-21T13:32:14+00:00 liaserver2 snapd[712]: daemon.go:550: done waiting for running hooks
+2025-05-21T13:32:17+00:00 liaserver2 snapd[712]: overlord.go:518: Released state lock file
+2025-05-21T13:32:17+00:00 liaserver2 snapd[712]: daemon stop requested to wait for socket activation
+2025-05-24T07:21:44+00:00 liaserver2 snapd[717]: daemon.go:548: gracefully waiting for running hooks
+2025-05-24T07:21:44+00:00 liaserver2 snapd[717]: daemon.go:550: done waiting for running hooks
+2025-05-24T07:21:47+00:00 liaserver2 snapd[717]: overlord.go:518: Released state lock file
+2025-05-24T07:21:47+00:00 liaserver2 snapd[717]: daemon stop requested to wait for socket activation
+2025-05-30T15:48:57+00:00 liaserver2 snapd[710]: overlord.go:274: Acquiring state lock file
+2025-05-30T15:48:57+00:00 liaserver2 snapd[710]: overlord.go:279: Acquired state lock file
+2025-05-30T15:48:57+00:00 liaserver2 snapd[710]: daemon.go:250: started snapd/2.66.1+24.04 (series 16; classic) ubuntu/24.04 (amd64) linux/6.8.0-53-generic.
+2025-05-30T15:48:57+00:00 liaserver2 snapd[710]: daemon.go:353: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+2025-05-30T15:48:57+00:00 liaserver2 snapd[710]: backends.go:58: AppArmor status: apparmor is enabled and all features are available
+2025-05-30T15:49:38+00:00 liaserver2 snapd[710]: stateengine.go:161: state ensure error: Get "https://api.snapcraft.io/api/v1/snaps/sections": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
+2025-05-30T15:50:15+00:00 liaserver2 snapd[710]: daemon.go:548: gracefully waiting for running hooks
+2025-05-30T15:50:15+00:00 liaserver2 snapd[710]: daemon.go:550: done waiting for running hooks
+2025-05-30T15:50:18+00:00 liaserver2 snapd[710]: overlord.go:518: Released state lock file
+2025-05-30T15:50:18+00:00 liaserver2 snapd[710]: daemon stop requested to wait for socket activation
+2025-05-30T16:32:40+00:00 liaserver2 snapd[677]: overlord.go:274: Acquiring state lock file
+2025-05-30T16:32:40+00:00 liaserver2 snapd[677]: overlord.go:279: Acquired state lock file
+2025-05-30T16:32:40+00:00 liaserver2 snapd[677]: daemon.go:250: started snapd/2.66.1+24.04 (series 16; classic) ubuntu/24.04 (amd64) linux/6.8.0-53-generic.
+2025-05-30T16:32:40+00:00 liaserver2 snapd[677]: daemon.go:353: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+2025-05-30T16:32:40+00:00 liaserver2 snapd[677]: backends.go:58: AppArmor status: apparmor is enabled and all features are available
+2025-05-30T16:32:45+00:00 liaserver2 snapd[677]: daemon.go:548: gracefully waiting for running hooks
+2025-05-30T16:32:45+00:00 liaserver2 snapd[677]: daemon.go:550: done waiting for running hooks
+2025-05-30T16:32:48+00:00 liaserver2 snapd[677]: overlord.go:518: Released state lock file
+2025-05-30T16:32:48+00:00 liaserver2 snapd[677]: daemon stop requested to wait for socket activation

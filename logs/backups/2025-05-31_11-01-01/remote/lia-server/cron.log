@@ -1,0 +1,7 @@
+2025-05-24T07:21:38.470568+00:00 lia-server cron[933]: (CRON) INFO (pidfile fd = 3)
+2025-05-24T07:21:38.482649+00:00 lia-server cron[933]: (CRON) INFO (Running @reboot jobs)
+2025-05-24T09:30:55.312571+00:00 lia-server cron[901]: (CRON) INFO (pidfile fd = 3)
+2025-05-24T09:30:55.334507+00:00 lia-server cron[901]: (CRON) INFO (Running @reboot jobs)
+2025-05-30T13:15:10.129350+00:00 lia-server cron[981]: (CRON) INFO (pidfile fd = 3)
+2025-05-30T13:15:10.142360+00:00 lia-server cron[981]: (CRON) INFO (Running @reboot jobs)
+2025-05-31T11:00:01.309344+00:00 lia-server cron[981]: (muhad308) RELOAD (crontabs/muhad308)

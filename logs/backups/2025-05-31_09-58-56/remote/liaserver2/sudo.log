@@ -1,0 +1,230 @@
+2025-05-20T16:21:45+00:00 liaserver2 sudo:      lia : TTY=tty1 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt install zabbix-agent
+2025-05-20T16:21:45+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-20T16:21:46+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-20T16:22:24+00:00 liaserver2 sudo:      lia : TTY=tty1 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt install zabbix-agent
+2025-05-20T16:22:24+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-20T16:22:25+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T12:36:23+00:00 liaserver2 sudo:      lia : TTY=tty1 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt install zabbix-agent
+2025-05-21T12:36:23+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T12:36:24+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T12:37:39+00:00 liaserver2 sudo:      lia : TTY=tty1 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/zabbix/zabbix_agentd.conf
+2025-05-21T12:37:39+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T12:37:51+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T12:38:17+00:00 liaserver2 sudo:      lia : TTY=tty1 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/zabbix/zabbix_agentd.conf
+2025-05-21T12:38:17+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T12:38:31+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T12:41:01+00:00 liaserver2 sudo:      lia : TTY=tty1 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/zabbix/zabbix_agentd.conf
+2025-05-21T12:41:01+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T12:41:04+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T12:44:01+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/dpkg -i zabbix-release_6.0-6+ubuntu24.04_all.deb
+2025-05-21T12:44:01+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T12:44:01+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T12:46:56+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/dpkg -i zabbix-release_6.0-6+ubuntu24.04_all.deb
+2025-05-21T12:46:56+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T12:46:56+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T12:46:56+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt update
+2025-05-21T12:46:56+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T12:47:12+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T12:50:59+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/dpkg -i zabbix-release_6.0-6+ubuntu24.04_all.deb
+2025-05-21T12:50:59+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T12:50:59+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T12:51:04+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt update
+2025-05-21T12:51:04+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T12:51:46+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T12:52:22+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt install zabbix-agent
+2025-05-21T12:52:22+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T12:52:22+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T12:53:36+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/zabbix/zabbix_agentd.conf
+2025-05-21T12:53:36+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T12:53:40+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T12:54:15+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/systemctl restart zabbix-agent
+2025-05-21T12:54:15+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T12:54:15+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T12:55:37+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/systemctl status zabbix-agent
+2025-05-21T12:55:37+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T12:55:37+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T13:02:18+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt update
+2025-05-21T13:02:18+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T13:02:30+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T13:02:50+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt install zabbix-agent
+2025-05-21T13:02:50+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T13:03:33+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T13:04:26+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/zabbix/zabbix_agentd.conf
+2025-05-21T13:04:26+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T13:04:31+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T13:08:17+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt remove zabbix-release
+2025-05-21T13:08:17+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T13:08:26+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T13:08:33+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt update
+2025-05-21T13:08:33+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T13:09:17+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T13:09:38+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt install zabbix-agent
+2025-05-21T13:09:38+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T13:10:28+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T13:11:23+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/zabbix/zabbix_agentd.conf
+2025-05-21T13:11:23+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T13:11:26+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T13:17:45+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt update
+2025-05-21T13:17:45+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T13:18:28+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T13:18:54+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt install zabbix-agent
+2025-05-21T13:18:54+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T13:18:58+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T13:19:04+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/zabbix/zabbix_agentd.conf
+2025-05-21T13:19:04+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T13:20:21+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T13:40:34+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/tee /etc/resolv.conf
+2025-05-21T13:40:34+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T13:40:34+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T13:40:59+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/tee /etc/resolv.conf
+2025-05-21T13:40:59+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T13:40:59+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T17:07:27+00:00 liaserver2 sudo: pam_unix(sudo:auth): authentication failure; logname=lia uid=1000 euid=0 tty=/dev/pts/0 ruser=lia rhost=  user=lia
+2025-05-21T17:07:39+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/nano /etc/01-static.yaml
+2025-05-21T17:07:39+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T17:07:45+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T17:09:51+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/nano /etc/netplan/01-static.yaml
+2025-05-21T17:09:51+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T17:23:35+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T17:24:01+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/sbin/netplan apply
+2025-05-21T17:24:01+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T17:31:01+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/dpkg -i zabbix-release_6.0-6+ubuntu24.04_all.deb
+2025-05-21T17:31:01+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T17:31:01+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T17:31:20+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/dpkg -i zabbix-release_6.0-6+ubuntu24.04_all.deb
+2025-05-21T17:31:20+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T17:31:20+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T17:31:36+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/apt update
+2025-05-21T17:31:36+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T17:31:51+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T17:32:07+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/apt install zabbix-agent
+2025-05-21T17:32:07+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T17:32:25+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T17:34:58+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/nano /etc/zabbix/zabbix_agentd.conf
+2025-05-21T17:34:58+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T17:39:05+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T17:39:32+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/systemctl restart zabbix-agent
+2025-05-21T17:39:32+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T17:39:33+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T17:39:45+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/systemctl enable zabbix-agent
+2025-05-21T17:39:45+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T17:39:47+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T17:40:21+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/systemctl status zabbix-agent
+2025-05-21T17:40:21+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T17:41:29+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T18:03:48+00:00 liaserver2 sudo: pam_unix(sudo:auth): authentication failure; logname=lia uid=1000 euid=0 tty=/dev/pts/0 ruser=lia rhost=  user=lia
+2025-05-21T18:04:01+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/systemctl enable zabbix-agent
+2025-05-21T18:04:01+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T18:04:03+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T18:04:08+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/systemctl status zabbix-agent
+2025-05-21T18:04:08+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T18:04:14+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T18:04:53+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/nano /etc/zabbix/zabbix_agentd.conf
+2025-05-21T18:04:53+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T18:05:56+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-21T18:06:10+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/netplan ; USER=root ; COMMAND=/usr/bin/systemctl restart zabbix-agent
+2025-05-21T18:06:10+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-21T18:06:10+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T07:19:28+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/systemctl stop zabbix-agent
+2025-05-23T07:19:28+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T07:19:28+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T07:26:25+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/systemctl restart zabbix-agent
+2025-05-23T07:26:25+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T07:26:25+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T07:26:35+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/systemctl enable zabbix-agent
+2025-05-23T07:26:35+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T07:26:37+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T07:26:46+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/systemctl status zabbix-agent
+2025-05-23T07:26:46+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T07:26:49+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T07:35:23+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/sbin/ip link set eth0 down
+2025-05-23T07:35:23+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T07:35:23+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T07:35:23+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/sbin/ip link set eth0 down
+2025-05-23T07:35:23+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T07:35:23+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T07:35:36+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/sbin/ip link set eth0 down
+2025-05-23T07:35:36+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T07:35:36+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T07:37:00+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/sbin/ip link set enp0s8 down
+2025-05-23T07:37:00+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T18:37:25+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/systemctl restart zabbix-agent
+2025-05-23T18:37:25+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T18:37:26+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T18:37:36+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/systemctl enable zabbix-agent
+2025-05-23T18:37:36+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T18:37:52+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T18:38:13+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/systemctl status zabbix-agent
+2025-05-23T18:38:13+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T18:38:17+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T18:40:12+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/ss -tulnp
+2025-05-23T18:40:12+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T18:40:12+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T18:40:22+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/ss -tulnp
+2025-05-23T18:40:22+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T18:40:22+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T18:54:02+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/zabbix/zabbix_agentd.conf
+2025-05-23T18:54:02+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T18:56:11+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-23T18:56:49+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/systemctl restart zabbix-agent
+2025-05-23T18:56:49+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-23T18:56:50+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-25T15:31:36+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/zabbix/zabbix_agentd.conf
+2025-05-25T15:31:36+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-25T15:32:26+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-25T15:46:53+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/zabbix/server_agentd.conf
+2025-05-25T15:46:53+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-25T15:47:10+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-25T16:24:05+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/cat /etc/netplan/01-static.yaml
+2025-05-25T16:24:05+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-25T16:24:05+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-25T16:44:25+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/scp /etc/netplan/01-static.yaml muhad308@192.168.56.10:/home/muhad308/lia-linux-project/zabbix/lia-client_netplan.yaml
+2025-05-25T16:44:25+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-25T16:44:44+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-25T16:44:44+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/scp /etc/netplan/01-static.yaml muhad308@192.168.56.10:/home/muhad308/lia-linux-project/zabbix/lia-client_netplan.yaml
+2025-05-25T16:44:44+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-25T17:06:22+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-25T17:20:49+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/scp /etc/netplan/01-static.yaml muhad308@192.168.56.10:/home/muhad308/lia-linux-project/netplan/lia-client_01-static.yamlsudo scp /etc/netplan/01-static.yaml muhad308@192.168.56.10:/home/muhad308/lia-linux-project/netplan/lia-client_01-static.yaml
+2025-05-25T17:20:49+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-25T17:58:01+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-25T17:58:12+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/rsyslog.d/90-forward.conf
+2025-05-25T17:58:12+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-25T17:58:24+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-25T19:52:45+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/rsyslog.d/90-forward.conf
+2025-05-25T19:52:45+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-25T19:52:54+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-25T19:55:29+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/etc/rsyslog.d ; USER=root ; COMMAND=/usr/bin/nano /etc/rsyslog.d/20-ufw.conf
+2025-05-25T19:55:29+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-25T19:55:35+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-30T09:15:25+00:00 liaserver2 sudo: pam_unix(sudo:auth): authentication failure; logname=lia uid=1000 euid=0 tty=/dev/tty1 ruser=lia rhost=  user=lia
+2025-05-30T09:51:16+00:00 liaserver2 sudo:      lia : TTY=tty1 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/netplan
+2025-05-30T09:51:16+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-30T09:51:18+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-30T15:44:08+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/netplan/00-installer-config.yaml
+2025-05-30T15:44:08+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-30T15:44:17+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-30T15:45:15+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/netplan/01-static.yaml
+2025-05-30T15:45:15+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-30T15:46:21+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-30T15:46:39+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/sbin/netplan apply
+2025-05-30T15:46:39+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-30T15:53:38+00:00 liaserver2 sudo:      lia : TTY=tty1 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/netplan/01-static.yaml
+2025-05-30T15:53:38+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-30T15:54:04+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-30T15:54:38+00:00 liaserver2 sudo:      lia : TTY=tty1 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/sbin/netplan apply
+2025-05-30T15:54:38+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-30T16:17:09+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/netplan/01-static.yaml
+2025-05-30T16:17:09+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-30T16:18:13+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-30T16:18:30+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/sbin/netplan apply
+2025-05-30T16:18:30+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-30T16:18:31+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-30T16:21:40+00:00 liaserver2 sudo:      lia : TTY=tty1 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/nano /etc/netplan/01-static.yaml
+2025-05-30T16:21:40+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-30T16:28:15+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-30T17:00:25+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt update
+2025-05-30T17:00:25+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-30T17:00:39+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
+2025-05-30T17:00:39+00:00 liaserver2 sudo:      lia : TTY=pts/0 ; PWD=/home/lia ; USER=root ; COMMAND=/usr/bin/apt install isc-dhcp-client -y
+2025-05-30T17:00:39+00:00 liaserver2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lia(uid=1000)
+2025-05-30T17:00:49+00:00 liaserver2 sudo: pam_unix(sudo:session): session closed for user root
