@@ -10,10 +10,10 @@ This project aims to set up a secure, Linux-based network services server for a 
 - Document and present the solution
 
 ## 3. Requirements
-- OS: Ubuntu Server LTS (CLI only)
+- OS: Ubuntu Server 20.04.2 LTS (CLI only)
 - Services: isc-dhcp-server, bind9, rsyslog, zabbix-server
-- Automation: Bash or Python scripts
-- Tools: Git, GitHub/GitLab, VirtualBox/Proxmox
+- Automation: Bash scripts
+- Tools: Git, GitHub/GitLab, VirtualBox/
 
 ## 4. Risks and Mitigation
 | Risk | Probability | Impact | Mitigation |
@@ -36,7 +36,7 @@ This project aims to set up a secure, Linux-based network services server for a 
 ## 6. Deliverables
 - Config files for all services
 - 2 automation scripts
-- Final report (10–15 pages)
+- Final report 
 - Demo presentation
 - GitHub repository
 
