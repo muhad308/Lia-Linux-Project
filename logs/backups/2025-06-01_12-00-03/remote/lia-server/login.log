@@ -1,0 +1,17 @@
+2025-05-24T07:24:01.954554+00:00 lia-server login[1047]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-05-24T07:24:01.955170+00:00 lia-server login[1047]: PAM adding faulty module: pam_lastlog.so
+2025-05-24T07:24:10.003221+00:00 lia-server login[1047]: pam_unix(login:session): session opened for user muhad308(uid=1000) by muhad308(uid=0)
+2025-05-24T09:31:09.511607+00:00 lia-server login[980]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-05-24T09:31:09.512201+00:00 lia-server login[980]: PAM adding faulty module: pam_lastlog.so
+2025-05-24T09:31:17.851027+00:00 lia-server login[980]: pam_unix(login:session): session opened for user muhad308(uid=1000) by muhad308(uid=0)
+2025-05-30T09:15:54.153712+00:00 lia-server login[980]: pam_unix(login:session): session closed for user muhad308
+2025-05-30T09:15:58.749975+00:00 lia-server login[30367]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-05-30T09:15:58.750710+00:00 lia-server login[30367]: PAM adding faulty module: pam_lastlog.so
+2025-05-30T09:16:05.184716+00:00 lia-server login[30367]: pam_unix(login:session): session opened for user muhad308(uid=1000) by muhad308(uid=0)
+2025-05-30T12:02:30.447430+00:00 lia-server login[30367]: pam_unix(login:session): session closed for user muhad308
+2025-05-30T12:02:34.672035+00:00 lia-server login[32128]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-05-30T12:02:34.672611+00:00 lia-server login[32128]: PAM adding faulty module: pam_lastlog.so
+2025-05-30T12:02:43.192959+00:00 lia-server login[32128]: pam_unix(login:session): session opened for user muhad308(uid=1000) by muhad308(uid=0)
+2025-05-30T13:15:17.026517+00:00 lia-server login[1018]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-05-30T13:15:17.026718+00:00 lia-server login[1018]: PAM adding faulty module: pam_lastlog.so
+2025-05-30T13:15:25.526798+00:00 lia-server login[1018]: pam_unix(login:session): session opened for user muhad308(uid=1000) by muhad308(uid=0)

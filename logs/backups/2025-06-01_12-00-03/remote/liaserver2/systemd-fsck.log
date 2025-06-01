@@ -1,0 +1,8 @@
+2025-05-21T12:34:51+00:00 liaserver2 systemd-fsck[457]: /dev/sda2: recovering journal
+2025-05-21T12:34:51+00:00 liaserver2 systemd-fsck[457]: /dev/sda2: clean, 317/131072 files, 50332/524288 blocks
+2025-05-21T13:32:08+00:00 liaserver2 systemd-fsck[460]: /dev/sda2: recovering journal
+2025-05-21T13:32:08+00:00 liaserver2 systemd-fsck[460]: /dev/sda2: clean, 317/131072 files, 50332/524288 blocks
+2025-05-30T15:48:57+00:00 liaserver2 systemd-fsck[457]: /dev/sda2: recovering journal
+2025-05-30T15:48:57+00:00 liaserver2 systemd-fsck[457]: /dev/sda2: clean, 317/131072 files, 50332/524288 blocks
+2025-05-30T16:32:40+00:00 liaserver2 systemd-fsck[457]: /dev/sda2: recovering journal
+2025-05-30T16:32:40+00:00 liaserver2 systemd-fsck[457]: /dev/sda2: clean, 317/131072 files, 50332/524288 blocks

@@ -1,0 +1,4 @@
+2025-05-21T10:29:56.466613+00:00 lia-server useradd[11150]: new user: name=zabbix, UID=112, GID=113, home=/var/lib/zabbix/, shell=/usr/sbin/nologin, from=/dev/pts/2
+2025-05-21T10:30:00.897330+00:00 lia-server useradd[12953]: new user: name=Debian-snmp, UID=113, GID=114, home=/var/lib/snmp, shell=/bin/false, from=none
+2025-05-21T10:40:48.329612+00:00 lia-server useradd[15150]: new user: name=_galera, UID=114, GID=65534, home=/nonexistent, shell=/usr/sbin/nologin, from=/dev/pts/2
+2025-05-21T10:40:49.993621+00:00 lia-server useradd[15251]: new user: name=mysql, UID=115, GID=115, home=/nonexistent, shell=/bin/false, from=none

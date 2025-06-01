@@ -1,0 +1,2 @@
+2025-05-21T10:29:52.832987+00:00 lia-server php8.3-ldap: php_invoke ldap: already enabled for PHP 8.3 apache2 sapi
+2025-05-21T10:29:52.872758+00:00 lia-server php8.3-ldap: php_invoke ldap: already enabled for PHP 8.3 cli sapi
