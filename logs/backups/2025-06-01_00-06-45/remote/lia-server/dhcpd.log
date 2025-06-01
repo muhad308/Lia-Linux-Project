@@ -1,0 +1,258 @@
+2025-05-21T09:35:44.936482+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T09:35:44.940598+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T09:40:45.410682+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T09:40:45.419405+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T09:45:44.567372+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T09:45:44.570844+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T09:50:45.293293+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T09:50:45.296948+00:00 lia-server dhcpd[878]: Wrote 1 leases to leases file.
+2025-05-21T09:50:45.302109+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T09:55:46.160556+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T09:55:46.170361+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:00:46.788859+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:00:46.796434+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:05:47.299877+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:05:47.306270+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:10:48.450459+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:10:48.459026+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:15:50.639429+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:15:50.645667+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:20:50.386536+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:20:50.390975+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:25:58.991637+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:25:58.996531+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:30:58.833534+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:30:58.836413+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:35:58.875796+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:35:58.878546+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:40:59.216839+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:40:59.225151+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:45:59.817176+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:45:59.821949+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:50:59.622327+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:50:59.628852+00:00 lia-server dhcpd[878]: Wrote 1 leases to leases file.
+2025-05-21T10:50:59.632415+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:55:59.436240+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T10:55:59.439430+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:01:00.215431+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:01:00.220472+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:06:18.583570+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:06:18.588023+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:11:18.812664+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:11:18.817079+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:16:19.174727+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:16:19.179067+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:21:18.787034+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:21:18.790615+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:26:20.568661+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:26:20.575285+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:31:20.372831+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:31:20.380970+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:36:21.399012+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:36:21.404000+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:41:21.531006+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:41:21.536126+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:46:22.253339+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:46:22.256727+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:51:23.407379+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:51:23.410395+00:00 lia-server dhcpd[878]: Wrote 1 leases to leases file.
+2025-05-21T11:51:23.415288+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:56:24.223041+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T11:56:24.227659+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:01:23.520171+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:01:23.523271+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:06:23.865517+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:06:23.868498+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:11:23.543990+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:11:23.548142+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:16:26.513353+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:16:26.517698+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:21:26.639997+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:21:26.644333+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:26:28.456573+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:26:28.459814+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:31:28.653532+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:31:28.663459+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:34:51.063765+00:00 lia-server dhcpd[878]: DHCPDISCOVER from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:34:51.063988+00:00 lia-server dhcpd[878]: DHCPOFFER on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:34:51.065072+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 (192.168.56.10) from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:34:51.067993+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:39:52.311552+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:39:52.317047+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:44:53.166945+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:44:53.171287+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:49:53.064819+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:49:53.075007+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:54:53.252244+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:54:53.254880+00:00 lia-server dhcpd[878]: Wrote 1 leases to leases file.
+2025-05-21T12:54:53.260171+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:59:53.182749+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T12:59:53.189471+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:04:53.448740+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:04:53.454178+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:09:52.776701+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:09:52.781546+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:14:54.163309+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:14:54.166636+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:19:54.077588+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:19:54.086326+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:24:54.486833+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:24:54.491758+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:29:54.797434+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:29:54.800542+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:32:07.403249+00:00 lia-server dhcpd[878]: reuse_lease: lease age 133 (secs) under 25% threshold, reply with unaltered, existing lease for 192.168.56.20
+2025-05-21T13:32:07.403465+00:00 lia-server dhcpd[878]: DHCPDISCOVER from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:32:07.403520+00:00 lia-server dhcpd[878]: DHCPOFFER on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:32:07.406119+00:00 lia-server dhcpd[878]: reuse_lease: lease age 133 (secs) under 25% threshold, reply with unaltered, existing lease for 192.168.56.20
+2025-05-21T13:32:07.406301+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 (192.168.56.10) from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:32:07.406343+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:36:01.659260+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:36:01.663467+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:41:01.612028+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T13:41:01.616455+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T17:03:34.404420+00:00 lia-server dhcpd[878]: Wrote 1 leases to leases file.
+2025-05-21T17:03:34.461183+00:00 lia-server dhcpd[878]: DHCPDISCOVER from 08:00:27:29:17:78 via enp0s8
+2025-05-21T17:03:35.487957+00:00 lia-server dhcpd[878]: DHCPOFFER on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T17:03:35.491041+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 (192.168.56.10) from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T17:03:35.502396+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T17:08:36.583439+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T17:08:36.595030+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T17:13:36.112655+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T17:13:36.134511+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T17:18:36.418468+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T17:18:36.428701+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T17:23:36.856968+00:00 lia-server dhcpd[878]: DHCPREQUEST for 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T17:23:36.863946+00:00 lia-server dhcpd[878]: DHCPACK on 192.168.56.20 to 08:00:27:29:17:78 (liaserver2) via enp0s8
+2025-05-21T17:24:03.105705+00:00 lia-server dhcpd[878]: DHCPRELEASE of 192.168.56.20 from 08:00:27:29:17:78 (liaserver2) via enp0s8 (found)
+2025-05-24T07:21:38.137760+00:00 lia-server dhcpd[885]: Internet Systems Consortium DHCP Server 4.4.3-P1
+2025-05-24T07:21:38.138089+00:00 lia-server dhcpd[885]: Copyright 2004-2022 Internet Systems Consortium.
+2025-05-24T07:21:38.138128+00:00 lia-server dhcpd[885]: All rights reserved.
+2025-05-24T07:21:38.138157+00:00 lia-server dhcpd[885]: For info, please visit https://www.isc.org/software/dhcp/
+2025-05-24T07:21:38.198746+00:00 lia-server dhcpd[892]: Internet Systems Consortium DHCP Server 4.4.3-P1
+2025-05-24T07:21:38.199006+00:00 lia-server dhcpd[892]: Copyright 2004-2022 Internet Systems Consortium.
+2025-05-24T07:21:38.199038+00:00 lia-server dhcpd[892]: All rights reserved.
+2025-05-24T07:21:38.199165+00:00 lia-server dhcpd[892]: For info, please visit https://www.isc.org/software/dhcp/
+2025-05-24T07:21:38.220096+00:00 lia-server dhcpd[892]: Config file: /etc/dhcp/dhcpd6.conf
+2025-05-24T07:21:38.220637+00:00 lia-server dhcpd[892]: Database file: /var/lib/dhcp/dhcpd6.leases
+2025-05-24T07:21:38.220695+00:00 lia-server dhcpd[892]: PID file: /run/dhcp-server6/dhcpd6.pid
+2025-05-24T07:21:38.222735+00:00 lia-server dhcpd[892]: Wrote 0 NA, 0 TA, 0 PD leases to lease file.
+2025-05-24T07:21:38.249334+00:00 lia-server dhcpd[885]: Config file: /etc/dhcp/dhcpd.conf
+2025-05-24T07:21:38.249669+00:00 lia-server dhcpd[885]: Database file: /var/lib/dhcp/dhcpd.leases
+2025-05-24T07:21:38.251268+00:00 lia-server dhcpd[885]: PID file: /run/dhcp-server/dhcpd.pid
+2025-05-24T07:21:38.271921+00:00 lia-server dhcpd[892]: 
+2025-05-24T07:21:38.277978+00:00 lia-server dhcpd[892]: No subnet6 declaration for enp0s8 (fe80::a00:27ff:fefa:2f2e).
+2025-05-24T07:21:38.278620+00:00 lia-server dhcpd[892]: ** Ignoring requests on enp0s8.  If this is not what
+2025-05-24T07:21:38.278808+00:00 lia-server dhcpd[892]:    you want, please write a subnet6 declaration
+2025-05-24T07:21:38.283752+00:00 lia-server dhcpd[892]:    in your dhcpd.conf file for the network segment
+2025-05-24T07:21:38.284079+00:00 lia-server dhcpd[892]:    to which interface enp0s8 is attached. **
+2025-05-24T07:21:38.284271+00:00 lia-server dhcpd[892]: 
+2025-05-24T07:21:38.284322+00:00 lia-server dhcpd[892]: 
+2025-05-24T07:21:38.284370+00:00 lia-server dhcpd[892]: Not configured to listen on any interfaces!
+2025-05-24T07:21:38.284414+00:00 lia-server dhcpd[892]: 
+2025-05-24T07:21:38.284449+00:00 lia-server dhcpd[892]: If you think you have received this message due to a bug rather
+2025-05-24T07:21:38.284485+00:00 lia-server dhcpd[892]: than a configuration issue please read the section on submitting
+2025-05-24T07:21:38.284544+00:00 lia-server dhcpd[892]: bugs on either our web page at www.isc.org or in the README file
+2025-05-24T07:21:38.284582+00:00 lia-server dhcpd[892]: before submitting a bug.  These pages explain the proper
+2025-05-24T07:21:38.284626+00:00 lia-server dhcpd[892]: process and the information we find helpful for debugging.
+2025-05-24T07:21:38.284663+00:00 lia-server dhcpd[892]: 
+2025-05-24T07:21:38.284711+00:00 lia-server dhcpd[892]: exiting.
+2025-05-24T07:21:38.284761+00:00 lia-server dhcpd[885]: Wrote 1 leases to leases file.
+2025-05-24T07:21:38.307817+00:00 lia-server dhcpd[885]: Listening on LPF/enp0s8/08:00:27:fa:2f:2e/192.168.56.0/24
+2025-05-24T07:21:38.308320+00:00 lia-server dhcpd[885]: Sending on   LPF/enp0s8/08:00:27:fa:2f:2e/192.168.56.0/24
+2025-05-24T07:21:38.308358+00:00 lia-server dhcpd[885]: 
+2025-05-24T07:21:38.308396+00:00 lia-server dhcpd[885]: No subnet declaration for enp0s3 (10.0.2.15).
+2025-05-24T07:21:38.308428+00:00 lia-server dhcpd[885]: ** Ignoring requests on enp0s3.  If this is not what
+2025-05-24T07:21:38.308471+00:00 lia-server dhcpd[885]:    you want, please write a subnet declaration
+2025-05-24T07:21:38.308512+00:00 lia-server dhcpd[885]:    in your dhcpd.conf file for the network segment
+2025-05-24T07:21:38.308549+00:00 lia-server dhcpd[885]:    to which interface enp0s3 is attached. **
+2025-05-24T07:21:38.308865+00:00 lia-server dhcpd[885]: 
+2025-05-24T07:21:38.308914+00:00 lia-server dhcpd[885]: Sending on   Socket/fallback/fallback-net
+2025-05-24T07:21:38.309686+00:00 lia-server dhcpd[885]: Server starting service.
+2025-05-24T09:30:54.951974+00:00 lia-server dhcpd[871]: Internet Systems Consortium DHCP Server 4.4.3-P1
+2025-05-24T09:30:54.963820+00:00 lia-server dhcpd[871]: Copyright 2004-2022 Internet Systems Consortium.
+2025-05-24T09:30:54.964043+00:00 lia-server dhcpd[871]: All rights reserved.
+2025-05-24T09:30:54.964083+00:00 lia-server dhcpd[871]: For info, please visit https://www.isc.org/software/dhcp/
+2025-05-24T09:30:54.966965+00:00 lia-server dhcpd[876]: Internet Systems Consortium DHCP Server 4.4.3-P1
+2025-05-24T09:30:54.967301+00:00 lia-server dhcpd[876]: Copyright 2004-2022 Internet Systems Consortium.
+2025-05-24T09:30:54.967343+00:00 lia-server dhcpd[876]: All rights reserved.
+2025-05-24T09:30:54.967374+00:00 lia-server dhcpd[876]: For info, please visit https://www.isc.org/software/dhcp/
+2025-05-24T09:30:54.980885+00:00 lia-server dhcpd[876]: Config file: /etc/dhcp/dhcpd6.conf
+2025-05-24T09:30:54.981305+00:00 lia-server dhcpd[876]: Database file: /var/lib/dhcp/dhcpd6.leases
+2025-05-24T09:30:54.981343+00:00 lia-server dhcpd[876]: PID file: /run/dhcp-server6/dhcpd6.pid
+2025-05-24T09:30:54.988409+00:00 lia-server dhcpd[876]: Wrote 0 NA, 0 TA, 0 PD leases to lease file.
+2025-05-24T09:30:54.994503+00:00 lia-server dhcpd[871]: Config file: /etc/dhcp/dhcpd.conf
+2025-05-24T09:30:55.007235+00:00 lia-server dhcpd[871]: Database file: /var/lib/dhcp/dhcpd.leases
+2025-05-24T09:30:55.007482+00:00 lia-server dhcpd[871]: PID file: /run/dhcp-server/dhcpd.pid
+2025-05-24T09:30:55.007516+00:00 lia-server dhcpd[871]: Wrote 1 leases to leases file.
+2025-05-24T09:30:55.007561+00:00 lia-server dhcpd[876]: 
+2025-05-24T09:30:55.007613+00:00 lia-server dhcpd[876]: No subnet6 declaration for enp0s8 (fe80::a00:27ff:fefa:2f2e).
+2025-05-24T09:30:55.007641+00:00 lia-server dhcpd[876]: ** Ignoring requests on enp0s8.  If this is not what
+2025-05-24T09:30:55.007688+00:00 lia-server dhcpd[876]:    you want, please write a subnet6 declaration
+2025-05-24T09:30:55.007714+00:00 lia-server dhcpd[876]:    in your dhcpd.conf file for the network segment
+2025-05-24T09:30:55.007763+00:00 lia-server dhcpd[876]:    to which interface enp0s8 is attached. **
+2025-05-24T09:30:55.007806+00:00 lia-server dhcpd[876]: 
+2025-05-24T09:30:55.007840+00:00 lia-server dhcpd[876]: 
+2025-05-24T09:30:55.007883+00:00 lia-server dhcpd[876]: Not configured to listen on any interfaces!
+2025-05-24T09:30:55.007908+00:00 lia-server dhcpd[876]: 
+2025-05-24T09:30:55.007956+00:00 lia-server dhcpd[876]: If you think you have received this message due to a bug rather
+2025-05-24T09:30:55.007991+00:00 lia-server dhcpd[876]: than a configuration issue please read the section on submitting
+2025-05-24T09:30:55.008023+00:00 lia-server dhcpd[876]: bugs on either our web page at www.isc.org or in the README file
+2025-05-24T09:30:55.008069+00:00 lia-server dhcpd[876]: before submitting a bug.  These pages explain the proper
+2025-05-24T09:30:55.008100+00:00 lia-server dhcpd[876]: process and the information we find helpful for debugging.
+2025-05-24T09:30:55.008143+00:00 lia-server dhcpd[876]: 
+2025-05-24T09:30:55.008181+00:00 lia-server dhcpd[876]: exiting.
+2025-05-24T09:30:55.023900+00:00 lia-server dhcpd[871]: Listening on LPF/enp0s8/08:00:27:fa:2f:2e/192.168.56.0/24
+2025-05-24T09:30:55.024641+00:00 lia-server dhcpd[871]: Sending on   LPF/enp0s8/08:00:27:fa:2f:2e/192.168.56.0/24
+2025-05-24T09:30:55.024797+00:00 lia-server dhcpd[871]: 
+2025-05-24T09:30:55.024833+00:00 lia-server dhcpd[871]: No subnet declaration for enp0s3 (10.0.2.15).
+2025-05-24T09:30:55.024859+00:00 lia-server dhcpd[871]: ** Ignoring requests on enp0s3.  If this is not what
+2025-05-24T09:30:55.024923+00:00 lia-server dhcpd[871]:    you want, please write a subnet declaration
+2025-05-24T09:30:55.024953+00:00 lia-server dhcpd[871]:    in your dhcpd.conf file for the network segment
+2025-05-24T09:30:55.024994+00:00 lia-server dhcpd[871]:    to which interface enp0s3 is attached. **
+2025-05-24T09:30:55.025032+00:00 lia-server dhcpd[871]: 
+2025-05-24T09:30:55.025076+00:00 lia-server dhcpd[871]: Sending on   Socket/fallback/fallback-net
+2025-05-24T09:30:55.025658+00:00 lia-server dhcpd[871]: Server starting service.
+2025-05-30T13:15:10.014807+00:00 lia-server dhcpd[971]: Internet Systems Consortium DHCP Server 4.4.3-P1
+2025-05-30T13:15:10.015518+00:00 lia-server dhcpd[971]: Copyright 2004-2022 Internet Systems Consortium.
+2025-05-30T13:15:10.015577+00:00 lia-server dhcpd[971]: All rights reserved.
+2025-05-30T13:15:10.015627+00:00 lia-server dhcpd[971]: For info, please visit https://www.isc.org/software/dhcp/
+2025-05-30T13:15:10.033044+00:00 lia-server dhcpd[972]: Internet Systems Consortium DHCP Server 4.4.3-P1
+2025-05-30T13:15:10.034047+00:00 lia-server dhcpd[972]: Copyright 2004-2022 Internet Systems Consortium.
+2025-05-30T13:15:10.034445+00:00 lia-server dhcpd[972]: All rights reserved.
+2025-05-30T13:15:10.034498+00:00 lia-server dhcpd[972]: For info, please visit https://www.isc.org/software/dhcp/
+2025-05-30T13:15:10.043141+00:00 lia-server dhcpd[972]: Config file: /etc/dhcp/dhcpd6.conf
+2025-05-30T13:15:10.043179+00:00 lia-server dhcpd[972]: Database file: /var/lib/dhcp/dhcpd6.leases
+2025-05-30T13:15:10.043214+00:00 lia-server dhcpd[972]: PID file: /run/dhcp-server6/dhcpd6.pid
+2025-05-30T13:15:10.050991+00:00 lia-server dhcpd[972]: Wrote 0 NA, 0 TA, 0 PD leases to lease file.
+2025-05-30T13:15:10.054709+00:00 lia-server dhcpd[971]: Config file: /etc/dhcp/dhcpd.conf
+2025-05-30T13:15:10.055065+00:00 lia-server dhcpd[971]: Database file: /var/lib/dhcp/dhcpd.leases
+2025-05-30T13:15:10.055268+00:00 lia-server dhcpd[971]: PID file: /run/dhcp-server/dhcpd.pid
+2025-05-30T13:15:10.064631+00:00 lia-server dhcpd[971]: Wrote 1 leases to leases file.
+2025-05-30T13:15:10.071310+00:00 lia-server dhcpd[972]: 
+2025-05-30T13:15:10.072171+00:00 lia-server dhcpd[972]: No subnet6 declaration for enp0s8 (fe80::a00:27ff:fefa:2f2e).
+2025-05-30T13:15:10.077106+00:00 lia-server dhcpd[972]: ** Ignoring requests on enp0s8.  If this is not what
+2025-05-30T13:15:10.077704+00:00 lia-server dhcpd[972]:    you want, please write a subnet6 declaration
+2025-05-30T13:15:10.082324+00:00 lia-server dhcpd[972]:    in your dhcpd.conf file for the network segment
+2025-05-30T13:15:10.082665+00:00 lia-server dhcpd[972]:    to which interface enp0s8 is attached. **
+2025-05-30T13:15:10.082705+00:00 lia-server dhcpd[972]: 
+2025-05-30T13:15:10.082743+00:00 lia-server dhcpd[972]: 
+2025-05-30T13:15:10.082785+00:00 lia-server dhcpd[972]: Not configured to listen on any interfaces!
+2025-05-30T13:15:10.082822+00:00 lia-server dhcpd[972]: 
+2025-05-30T13:15:10.082855+00:00 lia-server dhcpd[972]: If you think you have received this message due to a bug rather
+2025-05-30T13:15:10.082974+00:00 lia-server dhcpd[972]: than a configuration issue please read the section on submitting
+2025-05-30T13:15:10.083018+00:00 lia-server dhcpd[972]: bugs on either our web page at www.isc.org or in the README file
+2025-05-30T13:15:10.083059+00:00 lia-server dhcpd[972]: before submitting a bug.  These pages explain the proper
+2025-05-30T13:15:10.083104+00:00 lia-server dhcpd[972]: process and the information we find helpful for debugging.
+2025-05-30T13:15:10.083365+00:00 lia-server dhcpd[972]: 
+2025-05-30T13:15:10.083511+00:00 lia-server dhcpd[972]: exiting.
+2025-05-30T13:15:10.087972+00:00 lia-server dhcpd[971]: Listening on LPF/enp0s8/08:00:27:fa:2f:2e/192.168.56.0/24
+2025-05-30T13:15:10.089019+00:00 lia-server dhcpd[971]: Sending on   LPF/enp0s8/08:00:27:fa:2f:2e/192.168.56.0/24
+2025-05-30T13:15:10.089061+00:00 lia-server dhcpd[971]: 
+2025-05-30T13:15:10.089098+00:00 lia-server dhcpd[971]: No subnet declaration for enp0s3 (10.0.2.15).
+2025-05-30T13:15:10.089132+00:00 lia-server dhcpd[971]: ** Ignoring requests on enp0s3.  If this is not what
+2025-05-30T13:15:10.089291+00:00 lia-server dhcpd[971]:    you want, please write a subnet declaration
+2025-05-30T13:15:10.089332+00:00 lia-server dhcpd[971]:    in your dhcpd.conf file for the network segment
+2025-05-30T13:15:10.089365+00:00 lia-server dhcpd[971]:    to which interface enp0s3 is attached. **
+2025-05-30T13:15:10.089401+00:00 lia-server dhcpd[971]: 
+2025-05-30T13:15:10.091308+00:00 lia-server dhcpd[971]: Sending on   Socket/fallback/fallback-net
+2025-05-30T13:15:10.094761+00:00 lia-server dhcpd[971]: Server starting service.

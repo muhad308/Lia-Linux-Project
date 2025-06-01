@@ -1,0 +1,2 @@
+2025-05-21T10:29:53.389812+00:00 lia-server php8.3-bcmath: php_invoke bcmath: already enabled for PHP 8.3 apache2 sapi
+2025-05-21T10:29:53.424532+00:00 lia-server php8.3-bcmath: php_invoke bcmath: already enabled for PHP 8.3 cli sapi

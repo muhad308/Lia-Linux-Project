@@ -1,0 +1,35 @@
+2025-05-24T07:21:38.359519+00:00 lia-server snapd[803]: overlord.go:274: Acquiring state lock file
+2025-05-24T07:21:38.359710+00:00 lia-server snapd[803]: overlord.go:279: Acquired state lock file
+2025-05-24T07:21:38.452487+00:00 lia-server snapd[803]: daemon.go:250: started snapd/2.67.1+24.04 (series 16; classic) ubuntu/24.04 (amd64) linux/6.8.0-60-generic.
+2025-05-24T07:21:38.842580+00:00 lia-server snapd[803]: daemon.go:353: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+2025-05-24T07:21:46.257128+00:00 lia-server snapd[803]: daemon.go:548: gracefully waiting for running hooks
+2025-05-24T07:21:46.257860+00:00 lia-server snapd[803]: daemon.go:550: done waiting for running hooks
+2025-05-24T07:21:49.258859+00:00 lia-server snapd[803]: overlord.go:518: Released state lock file
+2025-05-24T07:21:49.259454+00:00 lia-server snapd[803]: daemon stop requested to wait for socket activation
+2025-05-24T09:30:54.989192+00:00 lia-server snapd[787]: overlord.go:274: Acquiring state lock file
+2025-05-24T09:30:54.989285+00:00 lia-server snapd[787]: overlord.go:279: Acquired state lock file
+2025-05-24T09:30:55.129059+00:00 lia-server snapd[787]: daemon.go:250: started snapd/2.67.1+24.04 (series 16; classic) ubuntu/24.04 (amd64) linux/6.8.0-60-generic.
+2025-05-24T09:30:55.237721+00:00 lia-server snapd[787]: daemon.go:353: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+2025-05-24T09:30:55.245271+00:00 lia-server snapd[787]: backends.go:58: AppArmor status: apparmor is enabled and all features are available
+2025-05-24T09:31:01.598258+00:00 lia-server snapd[787]: daemon.go:548: gracefully waiting for running hooks
+2025-05-24T09:31:01.598406+00:00 lia-server snapd[787]: daemon.go:550: done waiting for running hooks
+2025-05-24T09:31:04.611930+00:00 lia-server snapd[787]: overlord.go:518: Released state lock file
+2025-05-24T09:31:04.612001+00:00 lia-server snapd[787]: daemon stop requested to wait for socket activation
+2025-05-30T12:02:05.385284+00:00 lia-server snapd[32045]: overlord.go:274: Acquiring state lock file
+2025-05-30T12:02:05.385472+00:00 lia-server snapd[32045]: overlord.go:279: Acquired state lock file
+2025-05-30T12:02:05.398793+00:00 lia-server snapd[32045]: daemon.go:250: started snapd/2.67.1+24.04 (series 16; classic) ubuntu/24.04 (amd64) linux/6.8.0-60-generic.
+2025-05-30T12:02:05.431531+00:00 lia-server snapd[32045]: daemon.go:353: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+2025-05-30T12:02:05.431656+00:00 lia-server snapd[32045]: backends.go:58: AppArmor status: apparmor is enabled and all features are available
+2025-05-30T12:02:10.644449+00:00 lia-server snapd[32045]: daemon.go:548: gracefully waiting for running hooks
+2025-05-30T12:02:10.644598+00:00 lia-server snapd[32045]: daemon.go:550: done waiting for running hooks
+2025-05-30T12:02:13.651952+00:00 lia-server snapd[32045]: overlord.go:518: Released state lock file
+2025-05-30T12:02:13.652053+00:00 lia-server snapd[32045]: daemon stop requested to wait for socket activation
+2025-05-30T13:15:09.199343+00:00 lia-server snapd[761]: overlord.go:274: Acquiring state lock file
+2025-05-30T13:15:09.199416+00:00 lia-server snapd[761]: overlord.go:279: Acquired state lock file
+2025-05-30T13:15:09.288381+00:00 lia-server snapd[761]: daemon.go:250: started snapd/2.67.1+24.04 (series 16; classic) ubuntu/24.04 (amd64) linux/6.8.0-60-generic.
+2025-05-30T13:15:09.403488+00:00 lia-server snapd[761]: daemon.go:353: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+2025-05-30T13:15:09.409113+00:00 lia-server snapd[761]: backends.go:58: AppArmor status: apparmor is enabled and all features are available
+2025-05-30T13:15:15.312690+00:00 lia-server snapd[761]: daemon.go:548: gracefully waiting for running hooks
+2025-05-30T13:15:15.312830+00:00 lia-server snapd[761]: daemon.go:550: done waiting for running hooks
+2025-05-30T13:15:18.334404+00:00 lia-server snapd[761]: overlord.go:518: Released state lock file
+2025-05-30T13:15:18.334527+00:00 lia-server snapd[761]: daemon stop requested to wait for socket activation
