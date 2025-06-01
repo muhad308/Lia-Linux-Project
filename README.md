@@ -92,7 +92,7 @@ A centralized Linux server reduces manual work and improves security.
   - GitHub  
 
 
-## 🗂️ Folder Structure
+##  Folder Structure
 
 ```bash
 lia-linux-project/
@@ -114,16 +114,6 @@ lia-linux-project/
 
 
 
-## Installation Instructions
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/muhad308/Lia-Linux-Project.git
-    ```
-
-2. Set up the required services following the documentation in this repository.
-
-3. Refer to the individual service configuration files (`dhcpd.conf`, `named.conf.local`, etc.) for specific details on configuring each service.
 
 ## Configuration Files
 
@@ -144,7 +134,7 @@ Two automation scripts have been implemented:
 
 
 
-## 📖 Description
+## Description
 
 This project was created as part of the LIA (Lärande i arbete) course, with the goal of designing, configuring, and documenting a **virtualized Linux environment** that provides:
 
@@ -160,7 +150,7 @@ All work is done in **VirtualBox** with Ubuntu Server 24.04 and Ubuntu Desktop/C
 
 ---
 
-## 🧰 Features
+##  Features
 
 | Service          | Description |
 |------------------|-------------|
@@ -187,7 +177,7 @@ All work is done in **VirtualBox** with Ubuntu Server 24.04 and Ubuntu Desktop/C
 
 ---
 
-## 🗂️ Folder Structure
+##  Folder Structure
 
 lia-linux-project/
 ├── README.md
