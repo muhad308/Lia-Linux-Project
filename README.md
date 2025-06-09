@@ -120,8 +120,8 @@ Two automation scripts have been implemented:
 1. **Backup Script**: Daily backup of configuration files to the Git repository.
 2. **Service Status Check**: Checks the status of critical services and logs output to syslog.
 
-
-- **Zabbix**: Active network and resource monitoring
+### Zabbix**
+- Active network and resource monitoring
 
 ---
 
