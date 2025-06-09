@@ -3,8 +3,8 @@
 ## Project Details
 - **Student:** Muhammad Adnan  
 - **Supervisor:** Daniel Thyselius  
-- **Company:** Mindful Stack AB  
-- **Course:** Network Technician, TUC Vocational College - Linköping  
+- **LIA location:** Mindful Stack AB  
+- **Course:** NÄTD24LIN_LIA140  
 - **Duration:** 6 weeks (40 yhp)  
 - **GitHub Repository:** [Lia-Linux-Project](https://github.com/muhad308/Lia-Linux-Project)
 
