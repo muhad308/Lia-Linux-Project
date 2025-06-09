@@ -126,7 +126,7 @@ Two automation scripts have been implemented:
 ---
 
 
-## 🏗️ Topology Overview
+## Topology Overview
 
 ```text
 +-----------------------+
