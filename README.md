@@ -1,7 +1,5 @@
 # LIA Linux Project – Network Services & Monitoring
 
-# LIA1 Assignment: Building and Operating a Linux-Based Platform for Central Network Services & Monitoring
-
 ## Project Details
 - **Student:** Muhammad Adnan  
 - **Supervisor:** Daniel Thyselius  
@@ -33,7 +31,7 @@ A centralized Linux server reduces manual work and improves security.
 - **System Monitoring**: Employ Zabbix for real-time monitoring and alerts
 - **Version Control**: Use Git and GitHub for tracking configurations and scripts
 
-
+---
 
 ## Services Implemented
 
@@ -61,14 +59,16 @@ A centralized Linux server reduces manual work and improves security.
 - **Fail2Ban**  
   Protects against brute-force attacks by banning IPs with multiple failed login attempts.
 
-
+---
 
 ## Tools and Technologies
 
 - **Operating Systems**  
-  - Ubuntu Server 24.04 (Server)  
-  - Ubuntu Desktop 24.04 (Client)
-  - Window 11 Home (Host) 
+  - Ubuntu Server 24.04 LTS (Server VM)  
+  - Ubuntu Desktop 24.04 LTS (Client VM)
+  - Window 11 Home (Host)
+  - 2 GB RAM minimum per VM
+  - Internet access (bridged adapter or NAT + host-only)
 
 - **Virtualization**  
   - VirtualBox  
@@ -91,6 +91,58 @@ A centralized Linux server reduces manual work and improves security.
   - Git  
   - GitHub  
 
+---
+##  Features
+
+| Service          | Description |
+|------------------|-------------|
+| ✅ Static IP      | Set up on server/client using Netplan |
+| ✅ SSH Access     | Key-based login + hardened SSH config |
+| ✅ UFW Firewall   | Basic firewall rules and logging |
+| ✅ Fail2Ban       | Brute-force SSH protection |
+| ✅ DNS (BIND9)    | Hostname resolution via BIND server |
+| ✅ DHCP Server    | Dynamic IP assignment |
+| ✅ Zabbix Server  | Monitoring platform with auto discovery |
+| ✅ Email Alerts   | Configured via SMTP to Gmail |
+| ✅ Log backups    | Bash script to archive logs daily |
+
+---
+## Configuration Files
+
+### DHCP Configuration
+- `dhcpd.conf`: DHCP server configuration
+
+### DNS Configuration
+- `named.conf.local`: DNS server configuration (for internal zone)
+
+## Scripts
+Two automation scripts have been implemented:
+1. **Backup Script**: Daily backup of configuration files to the Git repository.
+2. **Service Status Check**: Checks the status of critical services and logs output to syslog.
+
+
+- **Zabbix**: Active network and resource monitoring
+
+---
+
+
+## 🏗️ Topology Overview
+
+```text
++-----------------------+
+|  Host Machine (Win11) |
++----------+------------+
+           |
+     [VirtualBox]
+           |
++----------v-----------+        +--------------------+
+| Ubuntu Server (LIA)  | <----> | Ubuntu Client (VNM)|
+| 192.168.56.10        |        | 192.168.56.20       |
++----------------------+        +--------------------+
+   [NAT] [Host-Only]
+
+
+---
 
 ##  Folder Structure
 
@@ -111,87 +163,4 @@ lia-linux-project/
 ├── project-plan.md          # Goals, timeline, risks, tools
 ├── final-report.docx        # Final detailed project report
 └── README.md                # This file
-
-
-
-
-## Configuration Files
-
-### DHCP Configuration
-- `dhcpd.conf`: DHCP server configuration
-
-### DNS Configuration
-- `named.conf.local`: DNS server configuration (for internal zone)
-
-## Scripts
-Two automation scripts have been implemented:
-1. **Backup Script**: Daily backup of configuration files to the Git repository.
-2. **Service Status Check**: Checks the status of critical services and logs output to syslog.
-
-
-- **Zabbix**: Active network and resource monitoring
-
-
-
-
-## Description
-
-This project was created as part of the LIA (Lärande i arbete) course, with the goal of designing, configuring, and documenting a **virtualized Linux environment** that provides:
-
-- Static IP addressing
-- Secure remote access (SSH)
-- Hardening & firewall (UFW, Fail2Ban)
-- DHCP & DNS server
-- Log monitoring & backup
-- Zabbix server and agent monitoring
-- Alerting via email
-
-All work is done in **VirtualBox** with Ubuntu Server 24.04 and Ubuntu Desktop/Client.
-
----
-
-##  Features
-
-| Service          | Description |
-|------------------|-------------|
-| ✅ Static IP      | Set up on server/client using Netplan |
-| ✅ SSH Access     | Key-based login + hardened SSH config |
-| ✅ UFW Firewall   | Basic firewall rules and logging |
-| ✅ Fail2Ban       | Brute-force SSH protection |
-| ✅ DNS (BIND9)    | Hostname resolution via BIND server |
-| ✅ DHCP Server    | Dynamic IP assignment |
-| ✅ Zabbix Server  | Monitoring platform with auto discovery |
-| ✅ Email Alerts   | Configured via SMTP to Gmail |
-| ✅ Log backups    | Bash script to archive logs daily |
-
----
-
-## 🖥️ System Requirements
-
-- VirtualBox 7+
-- Ubuntu Server 24.04 LTS (Server VM)
-- Ubuntu Desktop 24.04 LTS (Client VM)
-- 2 GB RAM minimum per VM
-- Internet access (bridged adapter or NAT + host-only)
-- Git and GitHub account
-
----
-
-##  Folder Structure
-
-lia-linux-project/
-├── README.md
-├── checklist.md
-├── logbook.md
-├── final-report.docx
-├── netplan/
-├── ssh/
-├── hardening/
-├── scripts/
-├── fail2ban/
-├── logs/
-├── dhcp/
-├── dns/
-├── zabbix/
-├── screenshots/
 
