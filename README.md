@@ -146,7 +146,7 @@ Two automation scripts have been implemented:
 
 ##  Folder Structure
 
-```bash
+
 lia-linux-project/
 ├── netplan/                 # Static IP configs (server/client)
 ├── ssh/                     # sshd_config + keys
