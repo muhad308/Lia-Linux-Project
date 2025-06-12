@@ -123,7 +123,6 @@ Two automation scripts have been implemented:
 ### Zabbix**
 - Active network and resource monitoring
 
----
 
 
 ## Topology Overview
@@ -144,7 +143,7 @@ Two automation scripts have been implemented:
 
 ---
 
-##  Folder Structure
+Folder Structure
 
 
 lia-linux-project/
